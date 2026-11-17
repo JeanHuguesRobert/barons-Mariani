@@ -3,6 +3,8 @@ title: "Les morts dialoguent avec les vivants — Notes pour une anthropologie d
 author: "Jean Hugues Noël Robert, Baron Mariani"
 affiliation: "Institut Mariani — Corte"
 date: 2026-10-22
+last_modified_at: '2026-11-17'
+version: '0.2'
 status: "note exploratoire — très préliminaire, publique, non gelée"
 language: fr
 license: "CC BY-SA 4.0"
@@ -15,12 +17,27 @@ review:
   status: unreviewed
   reviewed_by: []
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dialogue_vivants_morts_corse_note_preliminaire.md
+related_documents:
+  - research/principe_effectivite.md
+  - research/presencology.md
+  - research/potentics.md
+  - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/triangulation_du_reel.md
+  - research/vertu_alterite_memoire_double_numerique.md
+changelog:
+  - '2026-11-17 — extension exploratoire : transmission par les traces, simulacres et reconstruction causale.'
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
 
 # Les morts dialoguent avec les vivants
 ## Notes pour une anthropologie de la présence des morts en Corse
 
-**NOTE DE RECHERCHE TRÈS PRÉLIMINAIRE — version 0.1, 22 octobre 2026.**
+**NOTE DE RECHERCHE TRÈS PRÉLIMINAIRE — version 0.2 ; texte initial du 22 octobre 2026, approfondissement du 17 novembre 2026.**
 
 **Statut et limites.** Ce texte est une exploration ouverte, *pas* un article scientifique achevé, une doctrine stabilisée ou une enquête de terrain. Il distingue observations attestées, idées interprétatives et hypothèses à éprouver. La bibliographie est sélective et n'a pas fait l'objet d'un dépouillement intégral de chaque ouvrage. En particulier, la singularité comparative corse n'est **pas démontrée**. Les commentaires, corrections et références supplémentaires sont bienvenus.
 
@@ -67,6 +84,34 @@ Nous retenons une distinction : **exercer librement une fidélité** n'est pas *
 - Dans quelles conditions une représentation intérieure favorise-t-elle l'autonomie, le conflit, la création ou la dépendance ?
 - Qui peut contester publiquement une volonté prêtée à un ancêtre ?
 - Que changent archives numériques, mémoriaux et jumeaux numériques à la fidélité, à la preuve et à l'interprétation ?
+
+### 7. Continuité causale : traces et intériorisation approximative
+
+**Hypothèse générale à éprouver.** Un être décédé peut continuer à produire des effets *à travers* les vivants : paroles reprises, récits, objets, habitudes, normes, institutions et décisions. La mort biologique met fin à son activité corporelle, non à toutes les chaînes causales issues de ses actes. Le terme « agir », appliqué au mort, désigne ici une **effectivité médiée**, et non la persistance démontrée d'une intention, d'une volonté ou d'une conscience.
+
+Une chaîne analytique possible est : **être initial → traces → intériorisation ou reconstruction approximative par un successeur → décisions et actes du successeur → nouveaux effets et nouvelles traces**. Le successeur peut être d'accord avec le disparu, s'y opposer ou le dépasser. Toute transmission implique sélection, interprétation et possibilité de divergence ; la fidélité proclamée n'est pas une preuve de fidélité réelle.
+
+L'exemple de la formule « Christ est vivant » permet une **lecture naturaliste et non exclusive** : l'influence historique du Christ et des traditions qui le représentent peut se poursuivre à travers les croyants, les textes et les institutions. Cette lecture des effets ne prétend ni remplacer ni réfuter le sens théologique chrétien de la résurrection et de la présence du Christ. De même, les institutions et idées liées à de Gaulle peuvent encore orienter des actes longtemps après sa mort, sans lui attribuer des actes contemporains qu'il n'a pas accomplis.
+
+La [doctrine d'effectivité](principe_effectivite.md) fournit un langage pour observer ces effets ; la [Presencology](presencology.md) pour qualifier les modalités de présence ; la [Potentique](potentics.md) pour interroger les possibles ouverts, préservés ou fermés. **Ces objets d'étude sont complémentaires, non interchangeables.** La dignité d'une personne, son identité et la vérité d'une attribution ne se réduisent pas au volume mesurable de ses effets.
+
+### 8. Simulacres, jumeaux numériques et présence artificiellement médiée
+
+Un simulacre n'est pas nécessairement un phénomène irréel : une représentation peut être matériellement ou socialement effective tout en étant infidèle à ce qu'elle prétend représenter. Une simulation peut explorer des conséquences possibles ; lorsqu'un agent utilise ses résultats pour intervenir, ses décisions peuvent modifier le monde qu'il modélise. Il faut donc distinguer **réalité de la représentation, fidélité au référent, autonomie opérationnelle, effets produits et autorité légitime**.
+
+Le *deadbot* prolonge, sous une forme interactive, un phénomène préexistant d'intériorisation approximative. Un jumeau numérique élaboré du vivant de sa source permet parfois à celle-ci de corriger ou révoquer les représentations et mandats ; après son décès, ces possibilités changent de régime. Un agent ne devient pas la personne représentée par ressemblance, même élevée. **Corpus ≠ simulation ≠ agent ≠ personne** ; produire une réponse nouvelle ne prouve pas que le défunt l'aurait voulue. Voir [Le Réel, le Virtuel et l'Actuel](le_reel_le_virtuel_et_l_actuel.md) et [Vertu, altérité et mémoire du double numérique](vertu_alterite_memoire_double_numerique.md).
+
+L'absence de conscience démontrée n'empêche pas l'étude de l'effectivité d'un tel dispositif ; elle ne démontre pas non plus l'absence de conscience, ni que la conscience humaine se réduirait à un sentiment de certitude. Les [travaux sur la triangulation du Réel](triangulation_du_reel.md) invitent à examiner séparément récits introspectifs, traces disponibles, causes attribuées et effets observés.
+
+### 9. Objections et enquête empirique
+
+- **Attribution** : comment distinguer un effet causalement issu de traces anciennes d'un acte propre au successeur ou d'une instrumentalisation du nom du défunt ?
+- **Contrefactuel** : l'effet attribué à une mémoire, un document ou un agent aurait-il eu lieu en son absence ?
+- **Transformation** : quels écarts mesurables entre trace initiale, reconstruction humaine, reconstruction numérique et acte ultérieur ?
+- **Gouvernance** : quels mandats expirent avec la personne, quelles archives restent accessibles, quelles corrections ou contestations demeurent possibles ?
+- **Comparaison anthropologique** : quels éléments empiriques permettraient de comparer les pratiques corses à celles d'autres territoires, sans présumer une exception corse ?
+
+Ces points sont des **hypothèses et questions**, non des résultats comparatifs établis. L'enquête doit distinguer les traces de ce que les héritiers, les institutions et les agents leur font dire.
 
 ### Conclusion provisoire
 
