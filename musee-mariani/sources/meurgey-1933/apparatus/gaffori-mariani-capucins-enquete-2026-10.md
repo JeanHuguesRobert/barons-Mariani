@@ -29,12 +29,22 @@ provenance:
 
 | Identifiant de travail | Personne | État |
 |---|---|---|
-| GAFFORI-JEAN-PIERRE | Jean-Pierre Gaffori / Gafforio / Gafforj, général de la résistance à Gênes, mort en 1753 | Identité historiquement solide ; naissance divergente 1704 / 1710 ; date précise de décès à vérifier |
+| GAFFORI-JEAN-PIERRE | Jean-Pierre Gaffori / Gafforio / Gafforj, général de la résistance à Gênes, mort en 1753 | Identité historiquement solide ; **1704, année usuelle mais non établie par acte primaire ; 1710, variante historique documentée** (voir section critique ci-dessous) ; date précise de décès à vérifier |
 | GAFFORI-FRANCOIS-ANTOINE | François Antoine Gaffori, fils du précédent, maréchal de camp, 1744 env.–1796 | Identification du parrain de 1776 **fortement probable**, mais Meurgey p. 11 ne donne pas son prénom |
 | GAFFORI-EPOUSE-1776 | « Mme Gaffori », épouse du parrain, selon Meurgey | Marie Apollonie Sansonetti proposée par sources généalogiques secondaires ; à confirmer |
 | GAFFORI-ABBE-1768 | Abbé François Antoine Gaffori, présenté comme officiant au baptême de Joseph Bonaparte | Identification distincte par défaut ; l'homonymie ne démontre pas la distinction biologique |
 | GAFFORI-AVOCAT-1830 | Avocat Gaffori lié aux rivalités cortenaises dans le récit de Meurgey | Personne à identifier ; ne peut être le général mort en 1753 ni son fils mort en 1796 |
 | GAFFORI-LOUISE | Louise Gaffori, épouse d'Hyacinthe Mariani | Attestée chez Meurgey p. 8 ; ascendance non prouvée |
+
+## Date de naissance de Jean-Pierre Gaffori — contrôle des sources (17 novembre 2026)
+
+**Conclusion provisoire :** 1704 est l'année la plus répandue dans les notices patrimoniales récentes, mais **1710 est une variante ancienne et institutionnelle authentiquement attestée**. Aucun acte de baptême ou de naissance nominatif du général n'a été consulté ; il est donc injustifié de présenter l'une des deux années comme définitivement prouvée. Ne pas substituer une date exacte (jour/mois) sans acte primaire.
+
+- **1704** : [Ministère de la Culture, inventaire Mérimée IA2B001773](https://pop.culture.gouv.fr/notice/merimee/IA2B001773), notice créée en 2011, décrit le général comme « né à Corte en 1704 » ; [ADECEC, *Éléments pour un dictionnaire des noms propres*](https://www.adecec.net/parutions/el%C3%A9ments-pour-un-dictionnaire-des-noms-propres.html), entrée « GAFFORI Jean-Pierre (Corti 1704-1753) » ; [Office de tourisme du Centre Corse](https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/), 1704. Sources secondaires concordantes, indépendance documentaire de leur datation non établie.
+- **1710** : [Ersilio Michel, « GAFFORI, Giovan Pietro », *Enciclopedia Italiana*, Treccani (1932)](https://www.treccani.it/enciclopedia/giovan-pietro-gaffori_(Enciclopedia-Italiana)/), « Nato nel 1710 a Corte » ; [Ville de Corte, *Lettres concernant Jean-Pierre Gaffori*](https://www.mairie-corte.fr/catalog_repository/uploads/7/Lettres_concernant_Gafforiu.pdf), document municipal présentant le général comme « (1710-1753) » lors de l'acquisition de lettres en 2003. Ce ne sont pas des actes de naissance.
+- **Autre divergence à traiter séparément** : la notice Mérimée place l'assassinat en novembre 1753, Treccani au 2 octobre, et le document municipal au 3 octobre ; aucune de ces divergences n'est tranchée ici.
+
+**Recherche primaire à poursuivre** : registres de baptême de Corte (1704–1710), dépouillements archivistiques, documents de famille Orenga de Gaffori, références utilisées par Ersilio Michel et par l'Inventaire. Documenter les filiations et ne pas confondre Jean-Pierre (mort en 1753), son fils François-Antoine (1744–1796) et son frère Anton-Francesco.
 
 ## Corrections nécessaires ou déjà appliquées
 
