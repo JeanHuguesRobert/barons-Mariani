@@ -24,6 +24,8 @@ visibility: public
 
 - [Manuscrit attribué à Gaffori : projet de gouvernement, lot 96 vendu en 2018](gaffori-projet-gouvernement-vente-2018.md) : description contemporaine du manuscrit, sommaire des propositions, résultat de vente et statut de preuve.
 
+- [Descendance Gaffori — enquête généalogique critique (18 novembre 2026)](gaffori-descendance-enquete-2026-11-18.md) : fils attesté, branches anciennes, liaison proposée vers les Orenga de Gaffory et demandes de preuves primaires ; aucune généalogie de personnes privées publiée.
+
 ## 1. Sources primaires d'archives
 
 | Identifiant | Dépôt d'archives / Institution | Description de la source | Rôle probatoire |
