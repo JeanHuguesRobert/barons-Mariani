@@ -86,6 +86,8 @@ Un [dossier généalogique critique distinct](gaffori-descendance-enquete-2026-1
 
 Des réseaux familiaux contemporains poursuivent ou accompagnent des recherches autour du général et de sa sépulture, mais cette notice **ne publie aucun arbre de personnes vivantes privées, coordonnées, propos privés ni participation personnelle non autorisée**. Des témoignages transmis directement au responsable du Corpus constituent des pistes de recherche, non des preuves historiques automatiquement diffusables.
 
+Un **contributeur historiographique nommé Pierre Orenga de Gaffory** est identifié par une référence à sa notice sur François-Antoine dans *Le Mémorial des Corses*, dir. Francis Pomponi, vol. 2 (1982), p. 435, citée dans *Études corses* n° 78, p. 91, note 34. **La parenté exacte du contributeur et son éventuelle implication actuelle dans l'enquête ne sont pas inférées de son nom**. La même note donne la date de naissance du fils François-Antoine au **17 août 1744**, alors que Chaix d'Est-Ange donne le **14 août** : conserver la variante jusqu'à consultation de l'acte primaire. Voir [enquête sur la descendance](gaffori-descendance-enquete-2026-11-18.md).
+
 ## Appareil de sources et divergences
 
 1. [Ersilio Michel, « Gaffori, Giovan Pietro », *Enciclopedia Italiana* (1932), Treccani](https://www.treccani.it/enciclopedia/giovan-pietro-gaffori_(Enciclopedia-Italiana)/) : 1710, engagements et guerre de Succession d'Autriche ; synthèse historiographique.
