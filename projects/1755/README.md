@@ -115,6 +115,8 @@ Cette articulation renvoie au document source [*Autonomia*](../../research/auton
 
 La chronologie de la révolution corse ne commence pas avec Paoli : la [notice biographique critique de Jean-Pierre Gaffori](sources/notice-jean-pierre-gaffori.md) établit les repères de son action, les consultes et les expérimentations institutionnelles des années 1740–1753, ainsi que les divergences documentaires sur sa naissance (1704 ou 1710) et son assassinat (1753). Elle distingue continuité institutionnelle, hypothèses de transmission et mémoire funéraire des Capucins. Cette notice est un document de travail sourcé, non une biographie définitivement arrêtée.
 
+**Nouvelle pièce politique majeure :** [projet de gouvernement de Gaffori, manuscrit attribué à 1753 et vendu en 2018](sources/gaffori-projet-gouvernement-vente-2018.md), contenant des propositions sur la magistrature, le trésor, la loi, l'impôt et l'enseignement. Une transcription complète et la preuve de son adoption restent à obtenir.
+
 ## 4. Cadre institutionnel et licence
 
 - **Porteur éditorial :** Institut Mariani, émanation R&D de l'association C.O.R.S.I.C.A., en lien avec le futur Fonds de dotation Barons Mariani.
