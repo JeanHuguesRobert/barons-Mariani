@@ -181,6 +181,9 @@ L'[arbre « pierfit »](https://gw.geneanet.org/pierfit?m=P&v=anne+marie) attrib
 
 ## Enquête du 18 novembre 2026 — les autres GAFFORI corses sont-ils apparentés au général ?
 
+**Périmètre du dossier public :** filiations historiques, patrimoines et sources attestables. Les projets ou hypothèses personnels concernant un changement de nom de personnes vivantes ne relèvent pas de ce document et ne doivent pas être inférés des recherches généalogiques.
+
+
 **Question examinée :** la survie en Corse du patronyme simple `Gaffori` (et variantes `Gaffory`, `Gafforj`, `Caffori`, `Caffory`) prouve-t-elle une descendance du général Jean-Pierre de Corte, ou même une parenté collatérale ancienne ? **Réponse documentaire à date : non démontré ; plusieurs foyers historiques identifiables, aucun raccord inter-foyers trouvé.** Il n'est pas davantage démontré que les lignées soient indépendantes.
 
 ### Au moins trois foyers à distinguer
@@ -201,6 +204,6 @@ Dans [**Meurgey 1933, p. 4**](../../../musee-mariani/sources/meurgey-1933/transc
 
 La proposition **« tous les Gaffori corses encore présents descendent du général » est non établie** ; la proposition contraire **« aucun Gaffori de Salice ou Guagno n'a de parenté ancienne avec lui » est également non établie**. Les arbres publics montrent **plusieurs foyers anciens** dont les racines doivent être reliées ou différenciées acte par acte.
 
-**Dossiers prioritaires** : (1) naissance/mariage/filiation de Mathieu Gaffori de Salice vers 1770–1776, et actes de ses enfants ; (2) ascendances et fratrie de **Filippo Antonio Gafforio**, père présumé du général, ainsi que familles GAFFORI de Corte avant 1704 ; (3) un tronc Guagno GAFFORY au XVIIIe siècle, sans le confondre avec Salice ; (4) tableau des collatéraux porteurs légaux du nom simple afin de distinguer filiation historique et argument d'extinction pour un éventuel relèvement.
+**Dossiers prioritaires** : (1) naissance/mariage/filiation de Mathieu Gaffori de Salice vers 1770–1776, et actes de ses enfants ; (2) ascendances et fratrie de **Filippo Antonio Gafforio**, père présumé du général, ainsi que familles GAFFORI de Corte avant 1704 ; (3) un tronc Guagno GAFFORY au XVIIIe siècle, sans le confondre avec Salice ; (4) tableau des collatéraux et variantes du nom, uniquement pour reconstituer les filiations historiques et distinguer les foyers familiaux.
 
 **Statut : recherches secondaires recoupées, certains recensements précisément localisés mais non relus sur fac-similés dans cette passe ; aucune généalogie exhaustive des porteurs contemporains.**
