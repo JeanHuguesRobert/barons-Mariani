@@ -77,6 +77,8 @@ Le protocole [3Code](https://github.com/JeanHuguesRobert/cogentia/blob/main/rese
 
 Le CSV généré n'est **pas** un registre fédéré 3Code. Les codes peuvent coïncider avec ceux de tiers ; un enregistrement ultérieur doit comporter sa propre autorité, provenance, métadonnées contextuelles et identité de record distincte. Ne pas publier 40 000 codes présentés comme activés avant recette effective.
 
+**Test du Réel HTTP depuis Fracta2 (18/11/2026, lecture seule).** `https://capable.acorsica.org/` renvoie HTTP 200 et la page « Capable — Rendre possible, effectif et corrigible — Livre Vivant ». En revanche, `https://capable.acorsica.org/b/AV27-00001` renvoie HTTP 404 : **aucune fiche individuelle accessible à cette adresse**. `https://services.acorsica.org/3code` renvoie HTTP 200 mais sert une page titrée « Cogentia — PrivAI », **pas un registrar/résolveur 3Code attesté**. Un simple HTTP 200 ne suffit pas à identifier un service. Ces observations sont datées, sujettes à changement ; aucun déploiement n'a été effectué dans ce chantier.
+
 ## 5. Générateur de lot et maquettes (hors ligne)
 
 **Dépendances :** Python 3.10+ ; bibliothèque standard pour le CSV ; `reportlab` et polices DejaVu Sans pour les PDF. Aucune connexion réseau ou donnée d'identification personnelle nécessaire.
@@ -106,7 +108,7 @@ python3 prepare_batch.py labels --manifest sortie/manifest.csv \
 
 L'option `--verified-url` est une **attestation manuelle de l'opérateur**, pas un test HTTP intégré au programme. Son existence n'atteste pas le déploiement de `/b/`. Le QR direct doit fonctionner sans registrar 3Code, et une URL générique ne donne pas une biographie individuelle de l'objet. Le statut de 3Code non enregistré demeure visible même lorsque le QR a une URL vérifiée.
 
-Les PDF sans URL vérifiée portent **PROTOTYPE — PAS POUR DISTRIBUTION** ou **QR inactif / essai**. La maquette est une proposition de composition ; le contenu final, les mentions de l'imprimeur, du responsable et du mandataire, l'éditeur, le financement, l'identité des signataires, les coordonnées de contact et le bon à tirer demandent une revue spécifique.
+Les PDF sans URL vérifiée portent **PROTOTYPE — PAS POUR DISTRIBUTION** ou **QR inactif / essai**. Même avec un QR vers une URL testée, le tract maître porte **MAQUETTE — BON À TIRER NON VALIDÉ**. La maquette est une proposition de composition ; le contenu final, les mentions de l'imprimeur, du responsable et du mandataire, l'éditeur, le financement, l'identité des signataires, les coordonnées de contact et le bon à tirer demandent une revue spécifique.
 
 ## 6. Vie privée, état des objets et preuves
 
