@@ -88,6 +88,8 @@ Des réseaux familiaux contemporains poursuivent ou accompagnent des recherches 
 
 Un **contributeur historiographique nommé Pierre Orenga de Gaffory** est identifié par une référence à sa notice sur François-Antoine dans *Le Mémorial des Corses*, dir. Francis Pomponi, vol. 2 (1982), p. 435, citée dans *Études corses* n° 78, p. 91, note 34. **La parenté exacte du contributeur et son éventuelle implication actuelle dans l'enquête ne sont pas inférées de son nom**. La même note donne la date de naissance du fils François-Antoine au **17 août 1744**, alors que Chaix d'Est-Ange donne le **14 août** : conserver la variante jusqu'à consultation de l'acte primaire. Voir [enquête sur la descendance](gaffori-descendance-enquete-2026-11-18.md).
 
+**Référence cadastrale de travail de U Casinu, communiquée le 18 novembre 2026 :** Corte (INSEE **2B096**), section **AB**, feuille **1**, parcelle **0347** (AB 347). Cette parcelle **ne concerne pas la Maison Gaffori de la place de l'Annonciation**. Le plan cadastral et l'état des mutations restent à vérifier avant toute assertion de propriété. [Dossier généalogique et foncier](gaffori-descendance-enquete-2026-11-18.md).
+
 ### Repères topographiques canoniques — ne jamais fusionner les lieux
 
 1. **Maison Gaffori / A Casa Gaffory** : **place Gaffory, face à l'église de l'Annonciation**, au sein de la **vieille ville de Corte**. Emplacement recoupé par l'[Office de tourisme Centre Corse](https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/) et [Corsicathèque](https://www.corsicatheque.com/Histoire-patrimoine/Divers/Maison-Gaffory-a-Corte).
