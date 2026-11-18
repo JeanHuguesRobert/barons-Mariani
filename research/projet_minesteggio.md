@@ -187,6 +187,10 @@ Antoine Dominique Mariani (1776–1845 selon les sources actuellement retenues)
 
 ---
 
+### Repère patrimonial voisin — place Saint-Pancrace et U Casinu
+
+**Indication géographique du responsable du projet (18 novembre 2026) :** la **place Saint-Pancrace** se trouve **environ 300 m à vol d'oiseau au sud-est de sa maison à Minesteggio**. Le **chemin de Saint-Pancrace**, orienté vers le nord en direction de cette place, commence aux abords du domaine **U Casinu (Casino Gaffory)**, lequel se trouve **au nord de la Citadelle de Corte, hors du centre ancien**. **U Casinu ne doit pas être confondu avec la Maison Gaffori de la place de l'Annonciation**, située dans la vieille ville. Ces repères sont issus d'un témoignage local ; ils demandent vérification sur plan et cadastre, sans en inférer des limites de propriété. [Dossier généalogique et foncier Gaffori–Orenga–U Casinu](../projects/1755/sources/gaffori-descendance-enquete-2026-11-18.md).
+
 ## **4. Légitimité territoriale : Minesteggio, un lieu chargé d’histoire**
 
 ### **4.1. Présentation du domaine**
