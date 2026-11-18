@@ -117,6 +117,8 @@ La chronologie de la révolution corse ne commence pas avec Paoli : la [notice b
 
 **Nouvelle pièce politique majeure :** [projet de gouvernement de Gaffori, manuscrit attribué à 1753 et vendu en 2018](sources/gaffori-projet-gouvernement-vente-2018.md), contenant des propositions sur la magistrature, le trésor, la loi, l'impôt et l'enseignement. Une transcription complète et la preuve de son adoption restent à obtenir.
 
+**Descendance et histoire familiale :** le général Gaffori a au moins un fils historiquement attesté, François-Antoine (1744–1796). Une [enquête généalogique critique](sources/gaffori-descendance-enquete-2026-11-18.md) examine la branche historique Orenga de Gaffory, avec le mariage de 1886 et le relèvement du nom de 1910, tout en distinguant les liens documentés des arbres secondaires. Les liens des personnes vivantes ne sont pas publiés sans autorisation.
+
 ## 4. Cadre institutionnel et licence
 
 - **Porteur éditorial :** Institut Mariani, émanation R&D de l'association C.O.R.S.I.C.A., en lien avec le futur Fonds de dotation Barons Mariani.
