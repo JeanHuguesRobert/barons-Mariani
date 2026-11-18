@@ -1,0 +1,24 @@
+:root { color-scheme: light dark; --accent:#8b1e1e; --border:#d9d4cc; --ink:#202020; --background:#fffefa; }
+* {box-sizing:border-box;}
+body {font-family:Georgia,'Times New Roman',serif; color:var(--ink); background:var(--background); max-width:860px; margin:auto; padding:1.5rem 1.5rem 4rem; line-height:1.6;}
+header.site {border-bottom:1px solid var(--border); padding-bottom:1rem; margin-bottom:2rem;}
+.mark {font-size:1.2rem; font-weight:bold;}
+nav {display:flex; flex-wrap:wrap; gap:.7rem 1.2rem; font-family:system-ui,sans-serif; font-size:.9rem;}
+a {color:var(--accent); text-underline-offset:2px;} a:hover {text-decoration:underline;}
+h1,h2,h3 {line-height:1.3;} h1 {font-size:1.95rem;} h2 {font-size:1.4rem;} h3 {font-size:1.15rem;}
+.lede {font-size:1.1rem;}.byline {font-size:.92rem; color:#555;}
+.card,.call,.chapter {border:1px solid var(--border); border-radius:8px; padding:1.1rem 1.5rem; margin:1.5rem 0;}
+.chapter {margin:2.4rem 0; border-color:#eee; background:#fff;}
+.chapter-header {border-bottom:1px solid var(--border); margin-bottom:1.2rem;}
+.chapter-num,.pill {font-family:system-ui,sans-serif; font-size:.82rem; color:#665e5a;}
+.chapter-content h2 {font-size:1.28rem; margin-top:1.9rem;}
+.chapter-content h3 {font-size:1.1rem; margin-top:1.6rem;}
+.chapter-content blockquote {border-left:4px solid var(--accent); padding-left:1rem; margin-left:0;}
+.chapter-content img {max-width:100%;height:auto;}
+.chapter-content table {border-collapse:collapse; width:100%;font-size:.9rem;}
+th,td {border:1px solid var(--border);padding:.5rem;}
+pre {overflow:auto; white-space:pre-wrap; background:#f6f4ef; padding:1rem;}
+.chapter-sep {border:0; border-top:1px solid var(--border); margin:2rem 0;}
+.skip {position:absolute;left:-9999px;} .skip:focus {position:static;}
+@media (prefers-color-scheme:dark){:root{--ink:#eee;--background:#171717;--border:#555;--accent:#f0a4a4;} .chapter{background:#222;border-color:#444;}pre{background:#303030;}.byline{color:#bbb;}}
+@media print { :root {color-scheme:light; --ink:#111; --background:#fff; --accent:#5b1212; --border:#bbb;} body{max-width:100%;padding:0.4cm;font-size:11pt;} nav,.skip,.btn-download,.pill{display:none!important;} .card,.call,.chapter{border:0;padding:0;margin:1rem 0;} .chapter{break-before:page;} .chapter-content{orphans:3;widows:3;} h1,h2,h3{break-after:avoid;} a{color:#111;} }

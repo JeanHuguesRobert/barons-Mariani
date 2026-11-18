@@ -3,20 +3,19 @@ id: preview-working
 book_id: rise-and-fall
 status: working
 frozen: false
-generated_at: '2026-10-04T19:35:39.934Z'
+generated_at: '2026-11-18T18:00:00Z'
 formats:
   html:
     path: projections/preview.html
-    sha256: a7f5a45d07670fdf7988503bfb53dfe82d24cc7618edd4bec98251e5aec3c7ac
-    size: 45466
+    sha256: 5ebcd9f712e3701d897688622ff584fa740d914fb176d048a29aed9d2212e8e6
+    size: 56050
   pdf:
     path: projections/preview.pdf
-    sha256: bb921ddc9c97701c7b3831cb76263ed0d6eeffb84f5db6378a3b939a35d07470
-    size: 65732
+    sha256: 57c2b9fc3f918f1ea91e1ab91b2e340cf32b682f269b77dfad37e1cb150c267a
+    size: 330808
   epub:
     path: projections/preview.epub
-    sha256: d9e0b82e38678efcf3cf8d71c766432f37097ca1d4911963fe7cc12b7c1f4e66
-    size: 24162
-rule: >-
-  This projection is a working preview in preparation. It does not constitute a
-  frozen edition.
+    sha256: 257396c87fc112fceaafdf55678db49fe1abbffcd2054a85827a58ed2fb1a2c7
+    size: 35765
+rule: This projection is a working preview in preparation. It does not constitute
+  a frozen edition.
