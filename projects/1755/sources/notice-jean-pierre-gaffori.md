@@ -90,6 +90,8 @@ Un **contributeur historiographique nommé Pierre Orenga de Gaffory** est identi
 
 **Référence cadastrale de travail de U Casinu, communiquée le 18 novembre 2026 :** Corte (INSEE **2B096**), section **AB**, feuille **1**, parcelle **0347** (AB 347). Cette parcelle **ne concerne pas la Maison Gaffori de la place de l'Annonciation**. Le plan cadastral et l'état des mutations restent à vérifier avant toute assertion de propriété. [Dossier généalogique et foncier](gaffori-descendance-enquete-2026-11-18.md).
 
+**Maison Gaffori, place de l'Église :** parcelle cadastrale communiquée le 18 novembre 2026 : **Corte, INSEE 2B096, section AE, feuille 1, n° 0470 (AE 470), contenance déclarée 189 (unité non précisée)**. Cette référence concerne **l'immeuble de la place de l'Annonciation**, distinct de **U Casinu (AB 0347, feuille 1)** et du **Château Mariani à Minesteggio (0A 0207, feuille 2)**. Chaque référence reste à vérifier sur plan et ne permet pas de déduire l'identité du propriétaire.
+
 ### Repères topographiques canoniques — ne jamais fusionner les lieux
 
 1. **Maison Gaffori / A Casa Gaffory** : **place Gaffory, face à l'église de l'Annonciation**, au sein de la **vieille ville de Corte**. Emplacement recoupé par l'[Office de tourisme Centre Corse](https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/) et [Corsicathèque](https://www.corsicatheque.com/Histoire-patrimoine/Divers/Maison-Gaffory-a-Corte).
