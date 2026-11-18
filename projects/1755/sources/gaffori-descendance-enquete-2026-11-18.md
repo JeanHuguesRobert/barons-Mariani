@@ -90,3 +90,10 @@ Un faire-part de 2015 publié dans *Le Figaro* mentionne simultanément des fami
 ## Verdict de méthode
 
 La **descendance historique de Jean-Pierre Gaffori est attestée au moins par François-Antoine**. La chaîne vers les **Orenga de Gaffory** est désormais **reconstituable sous forme d'hypothèse documentée**, mais elle exige plusieurs actes de filiations et le décret de 1910. Les lignées contemporaines restent un **registre privé de contacts et de preuves**, pas une section nominative de la notice biographique publique.
+
+
+## Chercheur déjà identifié dans la branche onomastique Orenga de Gaffory
+
+Une note de **Pierre Orenga de Gaffory** sur la carrière politique de François Gaffori est citée par Francis Beretti dans l'article « Coup d’œil sur 1792… Joseph Bonaparte et Pascal Paoli », *Études corses* n° 78, p. 91, note 34, renvoyant au **Mémorial des Corses, dirigé par Francis Pomponi, tome 2, Ajaccio, 1982, p. 435** : [revue en ligne (PDF)](https://iris.unive.it/retrieve/e4239ddc-11c7-7180-e053-3705fe0a3322/ETUDES%20CORSES_78.pdf). C'est **une piste nominative publiée d'un contributeur historique portant le nom familial**, et non une preuve de sa filiation précise, de son statut actuel ou de sa participation aux recherches contemporaines sur la dépouille. L'étude donne pour François-Antoine une naissance au **17 août 1744**, contre le **14 août** chez Chaix d'Est-Ange et plusieurs généalogies : nouvelle variante à vérifier à l'acte.
+
+**Recherche suivante** : consulter l'article ou la notice de Pierre Orenga de Gaffory dans le *Mémorial des Corses* et rechercher d'autres publications explicitement signées de chercheurs de la famille, sans compiler un annuaire privé des descendants actuels.
