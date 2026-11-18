@@ -153,3 +153,33 @@ La [vente Leclère du 9 novembre 2018](https://www.debaecque.fr/lot/93642/949479
 ### Localisation de l'édition de la lettre n° 86 (contrôle bibliographique)
 
 Le catalogue universitaire M3C référence l'ouvrage **Pascal Paoli, *Correspondance : La prise du pouvoir 1749–1756***, édition scientifique bilingue (410 pages), avec les lettres à partir de la p. 47 et les index en fin d'ouvrage : [notice M3C](https://m3c.universita.corsica/s/fr/item/68492). **C'est la première édition à consulter pour la lettre n° 86 du 19 octobre 1755**. Ni l'extrait en ligne repéré ni la notice de catalogue ne permettent pour l'instant de citer le texte original de la lettre : ne pas prétendre avoir vérifié ses mots exacts. La lettre n° 86 reste connue indirectement par Miceli.
+
+
+## Passe complémentaire du 18 novembre 2026 — correspondance, filiation du texte et limites archivistiques
+
+### Source de correspondance accessible dans un catalogue public
+
+Le [Catalogue collectif de France / Bibliothèque patrimoniale Tommaso Prelà de Bastia](https://ccfr.bnf.fr/portailccfr/ark:/16871/004D15220014) répertorie dans le recueil **Kerenveyer**, tome II, « Mémoires corses 1642–1749 », au **folio 51**, la **correspondance de Venturini, Gafforio et Aitelli** avec les notables de Corse et les délégués en Italie (**1745**). Le même volume comporte au **folio 54** des correspondances du même groupe et de Matra, procès-verbaux de consulte et documents d'organisation, et au **folio 93** des consultes d'Oletta et de Corte, règlements et dispositions de gouvernement. Le recueil **tome III, Mémoires corses 1750–1753**, doit aussi être consulté. Le catalogue précise que l'accès au patrimoine requiert une autorisation préalable ; aucune reproduction de ces folios n'a été obtenue lors de la présente recherche. Il s'agit d'un lieu de conservation identifié, pas encore d'une lecture des documents.
+
+### Une citation de la lettre du 19 octobre 1755 : texte de seconde main
+
+Un document circulant en ligne sous le titre *Pascal Paoli 1725–1807* reproduit en français un passage attribué à la lettre du **19 octobre 1755 à Gian Quilico Casabianca**, dans lequel Paoli solliciterait les **« mémoires sur le gouvernement »** de Gaffori auprès de Faustina Matra. Le passage est à ce stade **une citation secondaire dans une reproduction en ligne de provenance insuffisamment contrôlée**, non une transcription authentifiée. Il élargit l'objet de l'enquête du seul mémoire éducatif aux écrits politiques du défunt. Il ne permet pas d'identifier sans collations le lot 96 de 2018 aux documents sollicités en 1755. Édition à consulter en priorité : **Antoine-Marie Graziani, *Pascal Paoli, Correspondance : La prise du pouvoir 1749–1756* (2003), lettre n° 86** : [catalogue M3C](https://m3c.universita.corsica/s/fr/item/68492).
+
+### Homonymie d'intitulé : Giacinto Paoli, 1735
+
+Un ouvrage antérieur est catalogué sous le titre *Parlamento avuto a' popoli di Corsica nel congresso tenuto in Corte* attribué à **Giacinto Paoli (1735)** : [catalogue de la BnF](https://catalogue.bnf.fr/ark:/12148/cb35417848v). Il ne faut pas confondre son intitulé avec le *Parlamento* attribué à Gaffori dans le manuscrit vendu en 2018, même si un examen comparatif des discours, de leurs attributions, copies et mains serait pertinent.
+
+### Sépulture aux Capucins : témoignage officiel, mais non preuve de fouille
+
+La [notice historique du couvent publiée par Corsicathèque en 2016](https://www.corsicatheque.com/Histoire-patrimoine/Sites-historiques/Couvent-des-Capucins-de-Corte), citant des sources municipales, situe la sépulture de Gaffori dans l'ancien couvent. Les [travaux de l'Assemblée de Corse, septembre 2020](https://www.isula.corsica/file/218624/), à l'occasion du projet d'acquisition du couvent, **affirment eux aussi son ensevelissement sur place**, et mentionnent ses liens avec les consultes. Ces assertions émanent d'acteurs institutionnels mais **ne donnent ni registre de sépulture, ni emplacement exact, ni constat archéologique**. Les débats parlent d'un projet d'acquisition : sans examen de l'acte ou de la décision finale, ils ne permettent pas de conclure que la mutation immobilière a été définitivement réalisée. Les mentions doivent être traitées comme **témoignages institutionnels de la tradition funéraire**, et non comme localisation des restes.
+
+La [note archivistique de Pierre Lamotte, citée par les Archives de Corse](https://archives.isula.corsica/Internet_THOT/pdf/Note%20sur%20l%27%C3%A9tat-civil%20de%20Corse.pdf), relève que **certains couvents tenaient des registres d'inhumation indépendamment des paroisses**. Elle signale aussi de fortes lacunes de conservation des registres avant 1768 et des fonds répartis entre les Archives de Haute-Corse et de Corse-du-Sud. **Aucune confirmation qu'un registre des Capucins de Corte pour 1753 soit conservé** n'a été trouvée. Vérifier inventaires conventuels, fonds de l'ordre, archives diocésaines et dépôts territoriaux, au lieu de supposer la présence ou l'absence de cet acte.
+
+### Réseau politique et recteur Mariani — identification distincte
+
+L'étude universitaire sur la naissance de l'Université de Corte identifie **Francesco Antonio Mariani (1715–1779), dit Padre Rossu**, comme premier recteur, au cours de l'ouverture de janvier 1765. La [notice Mérimée IA2B001409](https://pop.culture.gouv.fr/notice/merimee/IA2B001409) en atteste la carrière et le lieu d'origine. Cette personne est **distincte de François Antoine Gaffori** et des autres porteurs du nom Mariani étudiés ; **aucune filiation avec les barons Mariani n'est établie**. Il s'agit d'une relation documentaire au thème éducatif, pas d'une parenté déduite d'une homonymie.
+
+### Évaluation de plateau : ce qui manque désormais
+
+Les recherches publiques ont localisé un manuscrit politique de huit pages adjugé en 2018, une lettre numérotée de 1755, plusieurs fonds catalogués pour 1745–1753 et des sources très proches du meurtre. **Il n'a pas été possible de retrouver, par les canaux ouverts explorés, l'intégralité du manuscrit vendu, son lieu de conservation actuel, le texte italien de la lettre n° 86, l'acte de baptême ou un registre d'inhumation de 1753**. Les reprises OSINT sans document nouveau tendent désormais à répéter les citations des mêmes auteurs. La prochaine avancée requiert reproduction autorisée, communication archivistique ou réponse d'un détenteur/fonds.
+
