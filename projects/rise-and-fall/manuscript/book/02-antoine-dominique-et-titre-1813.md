@@ -1,7 +1,9 @@
 ---
 title: "Antoine Dominique Mariani et le titre westphalien (date à établir)"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
+last_modified_at: "2026-11-18"
 status: "working-draft"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -9,6 +11,19 @@ document_role: "book-chapter"
 document_kind: "historical-monograph"
 visibility: "public"
 source_of_truth: false
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/rise-and-fall/manuscript/book/02-antoine-dominique-et-titre-1813.md"
+update_policy: "UP-DEFAULT-REVIEWED"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: "2026-09-30"
+  derived_from:
+    - research/genealogy/title_baron_mariani_evidence_chain.md
+    - projects/rise-and-fall/investigation/notes/titre-mariani-legitimite-silences-et-branches.md
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Antoine Dominique Mariani et le titre westphalien (date à établir)
