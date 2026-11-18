@@ -99,6 +99,12 @@ Une note de **Pierre Orenga de Gaffory** sur la carrière politique de François
 **Recherche suivante** : consulter l'article ou la notice de Pierre Orenga de Gaffory dans le *Mémorial des Corses* et rechercher d'autres publications explicitement signées de chercheurs de la famille, sans compiler un annuaire privé des descendants actuels.
 
 
+## Identification cadastrale communiquée — U Casinu (18 novembre 2026)
+
+**Référence fournie directement par Jean Hugues Noël Robert : commune INSEE `2B096` (Corte), section `AB`, feuille `1`, parcelle `0347` (notation usuelle : `AB 347`).** Cette identification concerne **U Casinu au commencement du chemin de Saint-Pancrace**, **pas** la Maison Gaffori située sur la place de l'Annonciation.
+
+**Statut de preuve :** déclaration cadastrale nominative précise du témoin, non encore recoupée avec le plan officiel et la matrice cadastrale. Une référence de parcelle atteste un objet foncier à rechercher, mais **ne prouve pas** le propriétaire, le périmètre intégral du domaine et de ses jardins, ni la continuité des mutations depuis 1753. Rechercher les subdivisions, anciennes références et éventuelles parcelles contiguës à partir de `2B096 / AB / 0347`.
+
 ## Rectification topographique prioritaire — deux demeures distinctes (18 novembre 2026)
 
 **Correction demandée par le témoin local Jean Hugues Noël Robert** : la **Maison Gaffori / A Casa Gaffory** est située **place Gaffory, devant l'église de l'Annonciation, dans le centre ancien de Corte**. À l'inverse **U Casinu / Casino Gaffory** est un **domaine distinct situé hors du centre ancien, au nord de la Citadelle, au commencement du chemin de Saint-Pancrace**, voie progressant vers le nord jusqu'à la **place Saint-Pancrace**. Celle-ci se trouve, selon le même repère fourni par le témoin, à **environ 300 m à vol d'oiseau au sud-est de la maison du domaine de Minesteggio**. Il ne faut donc ni géolocaliser U Casinu à la place de l'Annonciation ni projeter ses actes sur ceux de la Maison Gaffori. Le repère de distance n'est **pas une mesure cartographique contrôlée** et n'identifie aucune parcelle ni borne foncière.
