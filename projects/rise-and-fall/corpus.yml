@@ -5,7 +5,7 @@ slug: "rise-and-fall"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-30"
+updated: "2026-11-18"
 source_of_truth: "repository corpus files, primary historical records, and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -34,6 +34,12 @@ sources:
     role: book-chapter
     required: true
     note: "Antoine Dominique Mariani and the 1813 Westphalian baron title by King Jérôme Bonaparte. The 1811 subprefecture and the 1813 title are separate events."
+
+  - id: titre-mariani-legitimite-silences-et-branches
+    path: projects/rise-and-fall/investigation/notes/titre-mariani-legitimite-silences-et-branches.md
+    role: historical-critical-source-note
+    required: false
+    note: "Cadre critique du titre westphalien, de la non-homologation alléguée, des usages politiques et de la divergence des deux branches."
 
   - id: cover-timbre-verification-2026-09-30
     path: projects/rise-and-fall/assets/cover/blason.md
