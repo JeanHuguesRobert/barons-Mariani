@@ -57,6 +57,10 @@ sources:
     path: "projects/1755/sources/gaffori-projet-gouvernement-vente-2018.md"
     role: "archival-witness-catalogue-and-provenance"
     required: false
+  - id: gaffori-descendance-2026-11-18
+    path: "projects/1755/sources/gaffori-descendance-enquete-2026-11-18.md"
+    role: "historical-genealogy-with-publication-boundaries"
+    required: false
   - id: projet-1755-source
     path: "research/autonomia/projet_1755.md"
     role: "dossier-source-fondateur"
