@@ -99,6 +99,10 @@ Une note de **Pierre Orenga de Gaffory** sur la carrière politique de François
 **Recherche suivante** : consulter l'article ou la notice de Pierre Orenga de Gaffory dans le *Mémorial des Corses* et rechercher d'autres publications explicitement signées de chercheurs de la famille, sans compiler un annuaire privé des descendants actuels.
 
 
+### Repère cadastral distinct — Château Mariani / Minesteggio
+
+Selon la même source locale (18 novembre 2026), la **parcelle de la maison de Minesteggio**, dite **« Château Mariani »**, est **`2B096 / 0A / 0207`, feuille 2 ; contenance communiquée `774` (unité non fournie)**. Elle est **distincte de la parcelle `2B096 / AB / 0347`, feuille 1, associée à U Casinu**. La place Saint-Pancrace sert de repère topographique entre ces lieux, mais ne prouve ni continuité territoriale ni propriété commune. Voir le [projet Minesteggio](../../../research/projet_minesteggio.md). Les deux numéros cadastraux contemporains sont des clés de recherche, pas des références cadastrales de 1753.
+
 ## Identification cadastrale communiquée — U Casinu (18 novembre 2026)
 
 **Référence fournie directement par Jean Hugues Noël Robert : commune INSEE `2B096` (Corte), section `AB`, feuille `1`, parcelle `0347` (notation usuelle : `AB 347`).** Cette identification concerne **U Casinu au commencement du chemin de Saint-Pancrace**, **pas** la Maison Gaffori située sur la place de l'Annonciation.
