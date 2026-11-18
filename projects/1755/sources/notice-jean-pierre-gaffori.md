@@ -92,6 +92,14 @@ Un **contributeur historiographique nommé Pierre Orenga de Gaffory** est identi
 
 **Maison Gaffori, place de l'Église :** parcelle cadastrale communiquée le 18 novembre 2026 : **Corte, INSEE 2B096, section AE, feuille 1, n° 0470 (AE 470), contenance déclarée 189 (unité non précisée)**. Cette référence concerne **l'immeuble de la place de l'Annonciation**, distinct de **U Casinu (AB 0347, feuille 1)** et du **Château Mariani à Minesteggio (0A 0207, feuille 2)**. Chaque référence reste à vérifier sur plan et ne permet pas de déduire l'identité du propriétaire.
 
+### Protection au titre des Monuments historiques — Maison Gaffori (preuve officielle, 18 novembre 2026)
+
+La **Maison Gaffori / immeuble Gaffory**, **2 place Gaffori, Corte**, **section cadastrale AE 470**, est **inscrite partiellement au titre des Monuments historiques par arrêté du 24 janvier 1995**. **Périmètre exact : façades, toiture et cage d'escalier**. Source administrative primaire : [ministère de la Culture, base Mérimée, **PA00135324**](https://pop.culture.gouv.fr/notice/merimee/PA00135324), qui reprend les termes de l'arrêté et indique le statut de **propriété privée en copropriété**. Cette notice **corrobore indépendamment la référence cadastrale AE 470** fournie par le témoin ; la contenance « 189 » et le numéro de feuille ne sont pas vérifiés dans la notice Mérimée. La maison **n'est pas « classée » MH** : « inscrite partiellement » est le terme exact, contrairement à la formulation de certains guides locaux.
+
+La façade conserve des **impacts de projectiles**, attribués aux tirs génois par la [documentation patrimoniale municipale](https://www.mairie-corte.fr/catalog_repository/uploads/7/Patrimoine_definitif2020.pdf), qui situe l'épisode en **1745**. L'[Office de tourisme du Centre Corse](https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/) mentionne également les traces en signalant la dimension de **tradition orale** du récit. La datation et les circonstances détaillées méritent un contrôle historiographique distinct de la **protection juridique, certaine**.
+
+**Ne jamais transférer cette protection à U Casinu (AB 0347) ni au Château Mariani (0A 0207)** : ce sont trois bâtiments et parcelles distincts. La notice [PA00135324](https://pop.culture.gouv.fr/notice/merimee/PA00135324) concerne **uniquement AE 470**.
+
 ### Repères topographiques canoniques — ne jamais fusionner les lieux
 
 1. **Maison Gaffori / A Casa Gaffory** : **place Gaffory, face à l'église de l'Annonciation**, au sein de la **vieille ville de Corte**. Emplacement recoupé par l'[Office de tourisme Centre Corse](https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/) et [Corsicathèque](https://www.corsicatheque.com/Histoire-patrimoine/Divers/Maison-Gaffory-a-Corte).
