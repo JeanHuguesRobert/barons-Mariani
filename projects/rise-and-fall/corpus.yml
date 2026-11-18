@@ -41,6 +41,12 @@ sources:
     required: false
     note: "Cadre critique du titre westphalien, de la non-homologation alléguée, des usages politiques et de la divergence des deux branches."
 
+  - id: rise-fall-archival-research-register
+    path: projects/rise-and-fall/sources/README.md
+    role: archival-research-register
+    required: false
+    note: "Institutional archive catalogues and work log for Westphalian concession, French seal records, and genealogical proof; identified funds are not yet exhaustive negative searches."
+
   - id: cover-timbre-verification-2026-09-30
     path: projects/rise-and-fall/assets/cover/blason.md
     role: heraldic-verification
