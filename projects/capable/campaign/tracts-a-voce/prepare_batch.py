@@ -201,6 +201,7 @@ def render_master(output: Path, url_template: str | None = None, verified: bool 
         txt(23*mm, 47*mm, "ACCÈS À L'INFORMATION", 9, True)
         txt(23*mm, 39*mm, "QR : page vérifiée par l'opérateur", 8)
         txt(23*mm, 30*mm, url[:41], 7)
+        txt(23*mm, 21*mm, "MAQUETTE — BON À TIRER NON VALIDÉ", 7, True)
     else:
         canvas.rect(w-65*mm, 20*mm, 34*mm, 34*mm)
         txt(w-62*mm, 38*mm, "QR À ACTIVER", 7, True)
