@@ -103,6 +103,12 @@ Une note de **Pierre Orenga de Gaffory** sur la carrière politique de François
 
 Selon la même source locale (18 novembre 2026), la **parcelle de la maison de Minesteggio**, dite **« Château Mariani »**, est **`2B096 / 0A / 0207`, feuille 2 ; contenance communiquée `774` (unité non fournie)**. Elle est **distincte de la parcelle `2B096 / AB / 0347`, feuille 1, associée à U Casinu**. La place Saint-Pancrace sert de repère topographique entre ces lieux, mais ne prouve ni continuité territoriale ni propriété commune. Voir le [projet Minesteggio](../../../research/projet_minesteggio.md). Les deux numéros cadastraux contemporains sont des clés de recherche, pas des références cadastrales de 1753.
 
+## Identification cadastrale — Maison Gaffori, place de l'Église (18 novembre 2026)
+
+**Référence communiquée directement par Jean Hugues Noël Robert :** commune de Corte (**INSEE `2B096`**), section **`AE`**, feuille **`1`**, parcelle **`0470`** (AE 470), **contenance indiquée `189` (unité non transmise)**. Le lieu est la **Maison Gaffori sur la place de l'Église de l'Annonciation, dans le centre ancien de Corte**, et **non U Casinu**, qui correspond à **AB 0347**, feuille 1, au début du chemin de Saint-Pancrace.
+
+La **maison de Minesteggio dite Château Mariani** possède une troisième désignation distincte : **`2B096 / 0A / 0207`, feuille 2, contenance communiquée `774` (unité non indiquée)**. Ces trois références sont enregistrées comme **déclarations précises du témoin local**, encore à confronter aux plans cadastraux et aux états de mutations. Elles **ne prouvent ni la propriété ni la contenance de l'ensemble historique des domaines**.
+
 ## Identification cadastrale communiquée — U Casinu (18 novembre 2026)
 
 **Référence fournie directement par Jean Hugues Noël Robert : commune INSEE `2B096` (Corte), section `AB`, feuille `1`, parcelle `0347` (notation usuelle : `AB 347`).** Cette identification concerne **U Casinu au commencement du chemin de Saint-Pancrace**, **pas** la Maison Gaffori située sur la place de l'Annonciation.
