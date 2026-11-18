@@ -53,6 +53,10 @@ sources:
     path: "projects/1755/sources/enquete-osint-gaffori-2026-11-17.md"
     role: "enquete-sources-archivistiques-et-transmission-universitaire"
     required: false
+  - id: gaffori-government-manuscript-2018
+    path: "projects/1755/sources/gaffori-projet-gouvernement-vente-2018.md"
+    role: "archival-witness-catalogue-and-provenance"
+    required: false
   - id: projet-1755-source
     path: "research/autonomia/projet_1755.md"
     role: "dossier-source-fondateur"
