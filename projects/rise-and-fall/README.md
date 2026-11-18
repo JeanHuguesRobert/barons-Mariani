@@ -154,6 +154,7 @@ Le projet réutilise les invariants stabilisés dans [*Suicide Corse*](../suicid
 
 Le modèle capacitaire est amorcé et testé de bout en bout sur des cas historiques à forte densité documentaire primaire :
 
+- **Dossier critique du titre westphalien :** [*Non-homologation, reconnaissance de fait, silences d'archives et deux branches*](investigation/notes/titre-mariani-legitimite-silences-et-branches.md). La datation *in extremis* en 1813 et les motivations dynastiques restent des hypothèses ; l'usage parlementaire du titre est documenté, mais n'en établit pas à lui seul la dévolution juridique.
 - **Reality Case RC-01 :** [*L'élection de 1863 — Louis-Thomas Mariani contre Sampiero Gavini*](investigation/reality_cases/RC-01-1863-gavini.md).  
   *Enseignement épistémique :* En 1863, le baron Mariani est le *candidat officiel du Gouvernement impérial* battu par un notable bonapartiste non officiel au terme d'une lutte de factions locales. Ce cas réfute l'hypothèse d'une persécution impériale et démontre le primat de l'ancrage territorial sur la faveur parisienne.
 - **Reality Case RC-02 :** [*La donation du terrain du monument aux morts de Corte (1924)*](investigation/reality_cases/RC-02-1924-donation-corte.md).  
