@@ -78,6 +78,14 @@ Ne pas confondre **Jean-Pierre** (mort 1753) avec son fils **François-Antoine**
 
 Le couvent des Capucins de Corte est associé dans des traditions et des notices à l'inhumation du général. **Le lieu exact, l'intégrité et l'identité des éventuels restes ne sont pas établis par la présente notice**. L'enquête archéologique, foncière et funéraire dispose de son [dossier critique distinct](../../../musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md).
 
+## Descendance et mémoire familiale — état de l'enquête du 18 novembre 2026
+
+**Le général a une descendance historique certaine, au moins par son fils François-Antoine Gaffori (1744–1796)**, explicitement nommé par Chaix d'Est-Ange (*Dictionnaire des familles françaises anciennes ou notables*, « GAFFORI (de) ») et par l'ADECEC. Les autres enfants mentionnés par des arbres secondaires (dont **Giulia Mattea** et les descendants de François-Antoine) nécessitent des actes individuels.
+
+Un [dossier généalogique critique distinct](gaffori-descendance-enquete-2026-11-18.md) reconstruit **à titre d'hypothèse**, et **sans confondre parenté par alliance et descendance biologique**, la branche Jean-Pierre → François-Antoine → Giovan Pietro → François-Marie (1803–1895) → Ange-Michel (1832–1910) → Madeleine de Gaffory. L'historien des élites bastiaises documente indépendamment **le mariage en 1886 de Madeleine avec Joseph Orenga**, puis un **décret du 10 décembre 1910 autorisant Joseph à relever le nom « de Gaffory »** ([*Cahiers de la Méditerranée*, 92, 2016](https://journals.openedition.org/cdlm/pdf/8261)). **Le décret et les actes filiatifs n'ont pas été consultés** : l'appartenance de Madeleine à la descendance directe du général reste une hypothèse de recherche, malgré la convergence secondaire.
+
+Des réseaux familiaux contemporains poursuivent ou accompagnent des recherches autour du général et de sa sépulture, mais cette notice **ne publie aucun arbre de personnes vivantes privées, coordonnées, propos privés ni participation personnelle non autorisée**. Des témoignages transmis directement au responsable du Corpus constituent des pistes de recherche, non des preuves historiques automatiquement diffusables.
+
 ## Appareil de sources et divergences
 
 1. [Ersilio Michel, « Gaffori, Giovan Pietro », *Enciclopedia Italiana* (1932), Treccani](https://www.treccani.it/enciclopedia/giovan-pietro-gaffori_(Enciclopedia-Italiana)/) : 1710, engagements et guerre de Succession d'Autriche ; synthèse historiographique.
