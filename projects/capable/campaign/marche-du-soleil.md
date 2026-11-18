@@ -140,3 +140,7 @@ Si la réponse reste non, le protocole doit encore être stabilisé.
 La Marche peut confronter ses étapes aux itinéraires napoléoniens, sans confondre histoire attestée, interprétation et parcours contemporain. La séquence Golfe-Juan–Grenoble–Paris (1815), le refus de la garnison d'Antibes et l'évitement de Marseille sont des repères documentés. Les grandes batailles relèvent de dossiers distincts. Voir [Empire Corse — hypothèse et itinéraires](empire-corse-itineraires-napoleoniens.md).
 
 La mise en circulation d'exemplaires singuliers de *Capable* selon le protocole [Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) est le dispositif envisagé, non une simple analogie ; son exécution et ses effets demeurent à vérifier. Le croisement avec [DIASPORA](../../diaspora/README.md) reste une hypothèse distincte, sans assimilation des liens corses à des soutiens politiques.
+
+## Prolongement expérimental — tracts A Voce (18 novembre 2026)
+
+La proposition de **40 000 tracts noir et blanc, une page**, comme incarnations possibles de missions « Bouteille à la Mer », est documentée dans le [protocole A Voce × Capable](tracts-a-voce/README.md). Prototype de fabrication et d'identification **préparé, non imprimé, non émis** ; 3Codes locaux non enregistrés, aucun point d'entrée dynamique attesté et conformité du financement à instruire avant toute diffusion. La circulation des tracts n'est ni un engagement de détenteur ni une présentation d'élu.
