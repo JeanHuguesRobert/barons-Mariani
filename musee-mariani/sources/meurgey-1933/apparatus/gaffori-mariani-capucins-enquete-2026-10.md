@@ -77,6 +77,12 @@ Les lettres génoises étudiées par [Carlo Bitossi (2019)](https://www.storiapa
 
 Une [publication du Journal de la Corse](https://www.journaldelacorse.corsica/articles/1872/lassassinat-de-giovan-pietro-gaffori), reproduisant une traduction de la déposition attribuée à Giambattista Romei (3 novembre 1753), situe la confrontation meurtrière « près des Capucins », entourée de personnes liées à un chantier. **Lieu allégué du crime et lieu de sépulture doivent rester distincts.** Cartographier l'ancienne habitation, le chemin et le chantier, puis rechercher archives conventuelles, plans de chapelles, registres mortuaires et pièces de l'opération archéologique contemporaine. Voir [dossier OSINT 2026-11-17](../../../../projects/1755/sources/enquete-osint-gaffori-2026-11-17.md).
 
+### Sources institutionnelles sur l'inhumation et lacunes d'archives (18 novembre 2026)
+
+La [notice patrimoniale de 2016](https://www.corsicatheque.com/Histoire-patrimoine/Sites-historiques/Couvent-des-Capucins-de-Corte) affirme une sépulture de Gaffori aux Capucins. Les [débats et amendements de l'Assemblée de Corse de septembre 2020](https://www.isula.corsica/file/218624/) reprennent aussi cette attribution, à propos du projet d'acquisition patrimoniale, **sans publier d'acte d'inhumation ou de rapport de fouilles**. Ces deux témoins renforcent la documentation de la tradition locale, **pas la localisation actuelle des restes**. Les débats de 2020 ne prouvent pas à eux seuls l'effectivité de l'acquisition immobilière.
+
+La [note de Pierre Lamotte sur les archives d'état civil de Corse](https://archives.isula.corsica/Internet_THOT/pdf/Note%20sur%20l%27%C3%A9tat-civil%20de%20Corse.pdf), reprise par les Archives de Corse, confirme que des couvents pouvaient tenir **leurs propres registres d'inhumation**. En revanche, il n'est pas démontré qu'un registre des Capucins de Corte couvrant octobre 1753 subsiste. Pistes : fonds franciscains/capucins, archives diocésaines, inventaires des Archives de Haute-Corse et fonds communaux ; examiner les **2–8 octobre** et la cérémonie du **24 octobre** séparément. L'OSINT ne permet toujours pas d'identifier une chapelle, un caveau ou la dépouille.
+
 ## Reprise ordonnée
 
 1. Collationner les pages 9–17 et l'ensemble des annotations visibles, sans compléter les lacunes par conjecture. Retrouver la p. 14.
