@@ -22,6 +22,8 @@ visibility: public
 
 - [Enquête OSINT Gaffori, 17 novembre 2026](enquete-osint-gaffori-2026-11-17.md) : Bitossi 2019, archives ASGe 2072, lettres municipales de 1752 et 1772, Miceli sur l'université et Carrington sur les consultes ; contradictions et suite de l'enquête.
 
+- [Manuscrit attribué à Gaffori : projet de gouvernement, lot 96 vendu en 2018](gaffori-projet-gouvernement-vente-2018.md) : description contemporaine du manuscrit, sommaire des propositions, résultat de vente et statut de preuve.
+
 ## 1. Sources primaires d'archives
 
 | Identifiant | Dépôt d'archives / Institution | Description de la source | Rôle probatoire |
