@@ -380,3 +380,27 @@ Sophie Ange Louise Mariani
 ```
 
 Le maillon intermédiaire n'est pas encore identifié : statut **HYPOTHÈSE À FERMER**, pas fait établi.
+
+
+## Enquête connexe du 18 novembre 2026 — Mariani homonymes de Corse et rattachement au tronc de Corte
+
+**Question du détenteur du Corpus :** sa branche Mariani (premier baron, ascendants du XVIIe siècle à Corte) n'a, malgré des recherches anciennes, jamais été raccordée généalogiquement aux autres très nombreuses familles Mariani de Corse. **Le présent examen confirme l'absence de raccord découvert dans les sources consultées, pas une absence de parenté.**
+
+### Branche de référence
+
+Ce Tableau I et [Meurgey 1933 p. 4](../transcription/p004.md) identifient un tronc à Corte : Jean-Baptiste → Jean-Étienne → Antoine-Dominique → ... → Joseph-Marie → Antoine-Dominique Mariani (1776–1845), baron. Les premiers maillons reposent sur la mémoire familiale transmise à Meurgey et sur des citations d'anciens actes ; **une partie des actes manque encore**. Le tableau suggère plusieurs branches collatérales et une branche dite **Orsini / Ortino Mariani**, à vérifier sur fac-similé. La reconstitution de l'[état des branches de Meurgey](etat-branches-tableau-01-2026.md) porte sur **les descendants d'un tronc déjà supposé commun** ; elle ne démontre pas le rattachement des Mariani homonymes d'autres communes.
+
+### Autres foyers attestés
+
+- **Rogliano, Cap Corse** : [*Cronica di a Corsica*, répertoire M](https://www.cronicadiacorsica.ovh/Repertoire/RepertoireM.html) atteste **Anghjulu Francescu Mariani**, patron de marine de Rogliano, famille mentionnée aux registres des familles nobles à Gênes en **1624**, ainsi que **Ghjuvanni Carlu Mariani** et d'autres Mariani roglianais du XVIIe siècle. L'existence d'un foyer capcorsin à cette date rend **inapproprié** de le présenter comme une simple descendance du premier baron (né en 1776), mais **n'exclut pas** un ancêtre commun antérieur à 1624. Aucun acte unissant ce groupe au tronc de Corte n'a été trouvé ici.
+- **Morosaglia, Frasseto, Bastia, Venaco et autres communes** : les séries [Communiti d'après fichier INSEE des décès — Mariani](https://www.communiti.corsica/noms-corses/mariani) constatent **967 personnes portant Mariani, nées en Corse, décédées en France depuis 1970** (sur 2 186 décès de Mariani en France), principalement **Bastia 80, Morosaglia 70, Frasseto 60, Corte 55, Ajaccio 52, Venaco 50**. Ce **ne sont ni des chiffres de porteurs actuels ni des nombres de branches biologiques**. Aucun arbre complet reliant ces foyers au tronc baronnial n'a été trouvé.
+- **Corte, acte de 1675** : la [transcription provisoire de Meurgey p. 4](../transcription/p004.md) cite un baptême du **10 août 1675** dans lequel **Marianus Orsini de Marianis** paraît parrain d'une enfant née de parents `de Gafforijs`. Il s'agit d'un **indice de sociabilité entre familles anciennes de Corte**, non d'une relation consanguine établie avec les Gaffori ni d'une preuve que les autres Mariani corses aient cette même origine.
+
+### Méthode de jonction falsifiable
+
+1. **Remonter** la branche de Corte vers **Jean-Baptiste et Jean-Étienne**, en obtenant baptêmes, mariages, actes de notaires, états des âmes et collatéraux datés avant 1700.
+2. **Construire des troncs indépendants** d'abord pour Rogliano (personnages déjà attestés en 1624–1650), puis Morosaglia et Frasseto (communes importantes sur la série INSEE).
+3. Ne déclarer des branches **raccordées** qu'à la vue d'un acte nommant au moins un parent commun ; un patronyme commun, un parrainage, une armoirie ou une tradition d'origine n'y suffisent pas.
+4. Garder **distinct** le problème de la descendance du premier baron au XXe siècle, déjà travaillé dans le Tableau I, de celui de **l'unité d'origine de toutes les familles Mariani de Corse**, qui reste ouvert.
+
+**Conclusion :** une branche ancienne de **Rogliano** est attestée à une époque antérieure au premier baron ; plusieurs foyers importants existent ailleurs ; **aucun ancêtre commun documentaire avec votre branche de Corte n'a été identifié à ce stade**. L'absence de jonction ne signifie pas filiation impossible.
