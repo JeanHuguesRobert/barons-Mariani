@@ -68,6 +68,10 @@ La **lettre n° 86 de Pascal Paoli à Gian Quilico Casabianca (19 octobre 1755)*
 
 Les correspondances **ASGe Archivio Segreto 2072**, analysées par [Bitossi (2019), pp. 237–240](https://www.storiapatriagenova.it/Docs/Biblioteca_Digitale/SB/5e8c2948172f5c5e0abcd9e8f49f6f79/Estratti/badabf0a683fd05552fc496d2d8b63f9.pdf), montrent que Grimaldi reconnaissait des contacts préalables au meurtre et la promesse de protection et gratification, sans que la chaîne précise d'un mandat gouvernemental d'assassinat soit définitivement établie. La cérémonie du **24 octobre** à Corte, décrite dans la lettre Martinetti du 31 octobre 1753 (ASGe 2072), est **distincte** d'une inhumation déjà rapportée par ouï-dire dès le **8 octobre**. Voir [l'enquête et sa matrice de preuves](enquete-osint-gaffori-2026-11-17.md).
 
+### Le programme gouvernemental manuscrit (nouvelle pièce localisée en 2018)
+
+Un [manuscrit du XVIIIe siècle attribué à Gaffori et vendu à Marseille le 9 novembre 2018](gaffori-projet-gouvernement-vente-2018.md) expose un projet de magistrature, fiscalité, siège de l'administration à Corte, collège, université, trésor et registre des lois. L'enchère réalisée est documentée (**2 730 € frais compris**), mais ni le texte complet ni la possession actuelle ne sont accessibles publiquement. Il s'agit d'un **programme politique substantiel**, mais encore d'un *projet* dont l'adoption et la réalisation restent à étudier. La référence à la lettre Paoli–Casabianca du 19 octobre 1755 rend importante la question de la transmission textuelle ; aucune identité du manuscrit vendu avec celui que Paoli souhaitait consulter n'est encore démontrée.
+
 ## Famille, mémoire et dépouille : chantiers séparés
 
 Ne pas confondre **Jean-Pierre** (mort 1753) avec son fils **François-Antoine** (né vers 1744, mort 1796 selon l'ADECEC), ni avec les autres Gaffori homonymes relevés dans le corpus Mariani. Les alliances Gaffori–Mariani sont décrites chez Meurgey (1933) mais plusieurs degrés de parenté restent à établir par actes.
