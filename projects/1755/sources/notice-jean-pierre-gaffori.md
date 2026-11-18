@@ -88,6 +88,14 @@ Des réseaux familiaux contemporains poursuivent ou accompagnent des recherches 
 
 Un **contributeur historiographique nommé Pierre Orenga de Gaffory** est identifié par une référence à sa notice sur François-Antoine dans *Le Mémorial des Corses*, dir. Francis Pomponi, vol. 2 (1982), p. 435, citée dans *Études corses* n° 78, p. 91, note 34. **La parenté exacte du contributeur et son éventuelle implication actuelle dans l'enquête ne sont pas inférées de son nom**. La même note donne la date de naissance du fils François-Antoine au **17 août 1744**, alors que Chaix d'Est-Ange donne le **14 août** : conserver la variante jusqu'à consultation de l'acte primaire. Voir [enquête sur la descendance](gaffori-descendance-enquete-2026-11-18.md).
 
+### Repères topographiques canoniques — ne jamais fusionner les lieux
+
+1. **Maison Gaffori / A Casa Gaffory** : **place Gaffory, face à l'église de l'Annonciation**, au sein de la **vieille ville de Corte**. Emplacement recoupé par l'[Office de tourisme Centre Corse](https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/) et [Corsicathèque](https://www.corsicatheque.com/Histoire-patrimoine/Divers/Maison-Gaffory-a-Corte).
+2. **U Casinu / Casino Gaffory** : **domaine et jardins hors du vieux centre, au nord de la Citadelle, au début du chemin de Saint-Pancrace**. Selon l'indication directe de Jean Hugues Noël Robert (18 novembre 2026), ce chemin se poursuit vers le nord en direction de la **place Saint-Pancrace**, qui est à **environ 300 m à vol d'oiseau au sud-est de sa maison à Minesteggio**. Positionnement à considérer comme **témoignage topographique local précis**, non comme relevé cadastral ni distance instrumentale validée.
+3. **Couvent des Capucins** : troisième lieu, relevant du dossier de sépulture. Ni U Casinu ni la Maison Gaffori de la place de l'Annonciation ne peuvent être présumés correspondre au site d'inhumation.
+
+Ces distinctions conditionnent toute analyse des photographies, plans, mutations et titres. **La chaîne patrimoniale envisagée Orenga de Gaffory → U Casinu ne concerne pas par défaut la maison de la place de l'Annonciation.**
+
 ## U Casinu — demeure, jardins et transmission familiale (nouvel axe de recherche)
 
 La branche issue du mariage **Joseph Orenga × Madeleine de Gaffory (1886)** est désormais étudiée aussi par le patrimoine matériel de **U Casinu / Casino Gaffory à Corte**. Selon un **témoignage direct du responsable du Corpus (18 novembre 2026)**, ce domaine serait demeuré dans la branche familiale et sa maison aurait été construite pour Gaffori grâce à une **souscription populaire**, sans que le général ait pu en prendre possession avant son assassinat. **La souscription et la chaîne de propriété n'ont pas encore été démontrées par titres** : elles constituent des questions précises de recherche.
