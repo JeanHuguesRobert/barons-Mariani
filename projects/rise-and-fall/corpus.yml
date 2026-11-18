@@ -33,7 +33,7 @@ sources:
     path: projects/rise-and-fall/manuscript/book/02-antoine-dominique-et-titre-1813.md
     role: book-chapter
     required: true
-    note: "Antoine Dominique Mariani and the 1813 Westphalian baron title by King Jérôme Bonaparte. The 1811 subprefecture and the 1813 title are separate events."
+    note: "Antoine Dominique Mariani and the Westphalian title conferred by King Jérôme Bonaparte (precise creation date not yet established). The 1811 subprefecture and the title are distinct events."
 
   - id: titre-mariani-legitimite-silences-et-branches
     path: projects/rise-and-fall/investigation/notes/titre-mariani-legitimite-silences-et-branches.md
