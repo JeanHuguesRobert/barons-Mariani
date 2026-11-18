@@ -134,3 +134,10 @@ Le [travail sur l'histoire des jardins de Corse publié dans *Robba*](https://ww
 4. Lire intégralement les lettres acquises par Corte et exploiter les éditions de correspondances, dont l'étude de Marini (1920) signalée par Treccani.
 5. Distinguer généalogie du général, mémoire du couvent des Capucins, localisation de sépulture et résultats de fouilles.
 6. Mettre en correspondance les actes institutionnels **avant 1755** avec les dispositions effectivement attestées de la Constitution de 1755, en indiquant innovations, continuités et ruptures.
+
+
+### Raccord du XXe siècle — alliance Orenga de Gafforj et Luisi
+
+Un [acte notarié reproduit dans des statuts sociaux déposés au RCS d'Ajaccio, pages internes 10–11](https://www.pappers.fr/entreprise/manaus-429661093/documents/MANAUS%20-%20Statuts%20mis%20%C3%A0%20jour%2028-06-2019.pdf), confirme **l'union à Paris, le 8 juin 1959**, de **Jean François Luisi (1910–1992)** et **Anne-Marie Madeleine Orenga de Gafforj (morte en 1995)**. Il atteste donc un raccord **historique et documentalement vérifiable entre les deux patronymes**, distinct des arbres en ligne ; les noms et détails individuels de leurs descendants vivants ne sont pas reproduits ici. La date de naissance d'Anne-Marie Madeleine fait l'objet d'une divergence entre le document notarié (4 juin 1924) et un index d'état civil en ligne (30 juin 1924) : consulter l'acte de naissance lyonnais.
+
+L'[arbre Geneanet « pierfit »](https://gw.geneanet.org/pierfit?m=P&v=anne+marie) attribue à Anne-Marie Madeleine **Louis Orenga de Gafforj × Marie-Louise Blanc** comme parents, mais **aucun acte d'état civil n'a été vérifié pour cette génération** ; le raccord entre Louis et le mariage **Joseph Orenga × Madeleine de Gaffory (1886)** reste à démontrer. Les renseignements contemporains et correspondances familiales sont consignés séparément dans un supplément privé du Corpus.
