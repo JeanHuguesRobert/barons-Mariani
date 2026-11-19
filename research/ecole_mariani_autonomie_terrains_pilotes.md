@@ -525,6 +525,18 @@ Référence détaillée : [OpenPowerHub 48V — locataire, droit de sortie et by
 
 ---
 
+## 10 quinquies. Locataire, interposition en tête de tableau et station fréquemment mobile (19 novembre 2026)
+
+**Précision du porteur :** pour le cas résidentiel, ne pas se limiter à la station alimentant directement quelques appareils. L'**interface de by-pass distincte de la station** est envisagée **en tête de l'installation intérieure**, après le point de livraison / disjoncteur de branchement et avant la distribution des circuits. Le Linky et les appareils scellés ne sont pas à modifier.
+
+Deux modes doivent être documentés : **R1** intervention réversible au début du bail et restauration de l'installation en fin de bail ; **R2** interface protégée restant en place, permettant de connecter/déconnecter souvent **la station seule**, sans reprendre le câblage à chaque déplacement. En l'absence de station, le retour au réseau doit être sûr et explicitement contrôlé. Il faut tester aussi l'option « alimentation permanente par l'onduleur avec chargeur AC/DC réseau et by-pass externe de secours » sans la confondre avec un simple inverseur de sources.
+
+**Qualification juridique :** la faible ampleur et la réversibilité de l'intervention sont de sérieux éléments à documenter pour discuter le régime de **simple aménagement**, mais pas une dispense acquise de l'article 7 f) de la loi du 6 juillet 1989 ; pour une intervention sur l'alimentation générale câblée, **l'accord écrit préalable du bailleur est prudent tant que la qualification n'est pas établie**. Restitution, protections, anti-retour réseau, régime de neutre et sécurité demeurent nécessaires. Aucun raccordement effectif n'est autorisé par ce texte.
+
+Détails : [OpenPowerHub — interposition, by-pass et droit de sortie](openpowerhub_48v_rattachement_corpus.md).
+
+---
+
 ## 11. Conclusion provisoire
 
 Les terrains pilotes montrent que l’autonomie ne se réduit ni à une technologie, ni à une installation, ni à une coupure spectaculaire avec EDF.
