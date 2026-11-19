@@ -154,6 +154,40 @@ La version portable devient un **démonstrateur itinérant** de la Mariani Schoo
 
 ---
 
+## 6 ter. Locataire, droit de sortie et by-pass externe — exigence de conception (19 novembre 2026)
+
+**Décision d'architecture :** le kit ne doit pas présupposer que l'utilisateur est **propriétaire de son logement**. Un **locataire** doit pouvoir acheter/utiliser sa station, la déconnecter au départ et **l'emporter en fin de bail**, sans sacrifice de son investissement ni dépendance à une infrastructure propriétaire laissée sur place. Cette réversibilité est un critère d'**Autonomie de Capacité** et de **non-capture**, pas un avantage accessoire.
+
+### Frontières matérielles et responsabilités
+
+**A — Station OpenPowerHub autonome / amovible (composant utilisateur).** Stockage, pilotage et conversions énergétiques avec entrées/sorties standardisées, sans nécessité de connexion fixe au tableau du logement ; elle fournit directement des appareils ou un sous-ensemble mobile clairement identifié. Elle doit fonctionner sans l'interface de by-pass.
+
+**B — By-pass / sélecteur de sources EXTERNE, facultatif, dissociable de la station.** Accessoire distinct pouvant assurer, selon sa variante, le choix entre réseau et station, le transfert sûr et le retour à l'alimentation normale. Deux sous-cas à **ne pas confondre** :
+- **B1 : sélecteur côté charges, lui-même portable**, alimentant uniquement des appareils branchés directement ; il n'intervient pas dans les circuits fixes du logement. Contrôler les protections, la continuité de service si exigée et l'absence de mise en parallèle des sources.
+- **B2 : interface de transfert raccordée à des circuits fixes** : modification de l'installation du bâtiment, relevant des exigences de conception, de protection, de vérification et, selon le cas, d'autorisation écrite du propriétaire. Cette interface peut être matériellement distincte et éventuellement déposée en fin de bail, mais pas présumée « portable » sur le plan juridique ou technique.
+
+Il ne faut **jamais** relier la sortie 230 V de la station à une prise murale pour réalimenter le logement. Le dispositif de transfert doit rendre impossible une réalimentation dangereuse du réseau ou une mise en parallèle accidentelle, prévoir les protections adaptées et traiter correctement neutre, terre, différentiels, surveillance de défauts et transition de source. La logique de sécurité ne doit pas dépendre de Cogentia.
+
+### But de la séparation externe : périmètre réglementaire proportionné, pas exemption automatique
+
+**Hypothèse architecturale recherchée par le porteur :** ne pas transformer artificiellement le cœur portable en onduleur de réseau ou équipement intégré au bâtiment à cause d'un by-pass incorporé en permanence. Les responsabilités de la station et de l'interface propre au logement sont contractuellement, fonctionnellement et physiquement distinctes.
+
+**Réserve déterminante :** la simple localisation externe du by-pass **ne soustrait pas** la station aux exigences qui lui sont propres. Un équipement qui fournit du **230 V AC** peut relever de la [directive 2014/35/UE](https://eur-lex.europa.eu/legal-content/fr/TXT/?uri=CELEX%3A32014L0035) malgré son bus 48 V DC ; la CEM, les batteries, les modules radio et la sécurité du produit exigent leurs propres évaluations selon les usages et la mise sur le marché. Le choix de normes techniques d'essai et l'obligation légale de conformité sont à distinguer. La qualification UPS, station mobile, convertisseur et/ou stockage stationnaire doit résulter des **fonctions réelles et de l'usage annoncé**, jamais d'un jeu de désignation commerciale.
+
+**Droit locatif :** l'article [7 f) de la loi du 6 juillet 1989](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-10-07) soumet en principe les transformations des locaux et équipements loués à l'**accord écrit du bailleur**, sous réserve des exceptions prévues par le texte. L'installation d'un sélecteur dans le tableau doit être examinée en conséquence ; l'usage d'une station autonome sans modification fixe offre le plus faible coût de sortie.
+
+### Réversibilité mesurable : protocole de départ
+
+1. L'usager conserve la propriété et la maîtrise de la station, ses données, sa configuration et ses modules de stockage.
+2. La déconnexion ne laisse aucune alimentation dangereuse et ne requiert aucun compte cloud ni licence.
+3. Dans le scénario **B1**, l'utilisateur débranche les appareils et part avec la station et son sélecteur, sans toucher au tableau du logement.
+4. Dans le scénario **B2**, le retour à l'installation d'origine et l'éventuelle dépose du by-pass sont **planifiés et réalisés/vérifiés** conformément au droit, à l'accord du bailleur et aux règles techniques ; le locataire ne doit pas croire qu'il peut déposer lui-même n'importe quel équipement câblé au tableau.
+5. Test de réussite : temps, coût, gestes, interventions professionnelles et pertes matérielles nécessaires pour **quitter le logement sans perdre son autonomie énergétique**.
+
+**Priorité produit :** concevoir et chiffrer d'abord la **station amovible autonome (A)** et le **by-pass portable côté appareils (B1)** ; garder **B2** comme option de raccordement du logement réalisée séparément. Cela minimise les transformations immobilières, **sans dégrader la sécurité électrique**.
+
+---
+
 ## 7. Terrains et niveaux de maturité
 
 - **1, cours Paoli, Corte — premier site retenu pour le test grandeur nature** : local de référence de C.O.R.S.I.C.A. / Institut Mariani ; test réel de l'architecture dans un lieu déjà utilisé, sous réserve d'audit de l'installation électrique, des usages, des droits d'intervention, des exigences de sécurité et du financement. Il ne faut pas le confondre avec le cas de la maison urbaine de Corte, qui demeure anonymisé.
