@@ -125,11 +125,23 @@ Références réglementaires de point de départ (à réexaminer selon architect
 
 ## 7. Terrains et niveaux de maturité
 
+- **1, cours Paoli, Corte — premier site retenu pour le test grandeur nature** : local de référence de C.O.R.S.I.C.A. / Institut Mariani ; test réel de l'architecture dans un lieu déjà utilisé, sous réserve d'audit de l'installation électrique, des usages, des droits d'intervention, des exigences de sécurité et du financement. Il ne faut pas le confondre avec le cas de la maison urbaine de Corte, qui demeure anonymisé.
 - **Minesteggio** : vitrine pédagogique patrimoniale ; étude du solaire et éventuellement de la ressource hydraulique locale, sous réserve d'autorisations, de relevés et de contraintes patrimoniales.
 - **La Maison Blanche, La Gaude** : terrain d'essai reproductible pour une habitation individuelle.
 - **Maison urbaine de Corte** : cas préexistant, **anonymisé**, de désengagement réversible du réseau et véhicule comme stockage mobile ; ne pas lever l'anonymat.
 - **Musée Mariani des Possibles** : démonstrateur visible, expérimentation, ateliers et transmission, non site de certification présumée.
 - **Commune / FractaVolta** : horizon coopératif ultérieur, distinct du kit individuel.
+
+
+### Décision de terrain et contrainte de moyens (19 novembre 2026)
+
+**Décision de principe du porteur du projet :** le premier **test grandeur nature** d'OpenPowerHub 48V aura lieu au **local du 1, cours Paoli à Corte** (et non à Minesteggio ni dans le cas-pilote anonymisé de maison urbaine). Ce choix désigne un **site cible**, pas une installation réalisée ni une promesse de calendrier.
+
+**État actuel : aucun budget disponible pour lancer l'expérimentation.** Le démarrage matériel est donc **ajourné, sans date** ; aucune commande, aucun achat et aucune modification électrique ne sont autorisés par cette décision. Ne pas convertir ce site cible en projet immédiatement opérationnel dans les communications publiques.
+
+**Phase zéro sans dépenses nouvelles**, réalisable au fil de l'eau si les données sont disponibles : inventorier les équipements et circuits existants, compiler les relevés de consommation et de puissance accessibles, définir les fonctions essentielles du local, établir les contraintes d'installation (propriété, autorisations, sécurité, assurance), simuler les profils d'énergie avec des données réelles, tenir une nomenclature indicative distinguant matériel possédé / prêt possible / achat requis, et établir des critères de réussite mesurables. Aucune intervention sur le tableau ou raccordement expérimental sans compétence et vérification appropriées.
+
+**Condition de passage au prototype :** financement identifié, architecture de sûreté revue, coût complet chiffré et risques réglementaires clarifiés. Le pilote grandeur nature vient **après** les essais de banc et de prototype hors réseau. Les autres terrains demeurent des cas complémentaires ou de réplication ultérieure.
 
 ### Jalons proposés
 
