@@ -204,6 +204,14 @@ Il ne faut **jamais** relier la sortie 230 V de la station à une prise murale p
 
 ---
 
+## 6 quinquies. Étude préliminaire du by-pass externe manuel (19 novembre 2026)
+
+Le document satellite [**OpenPowerHub 48V — by-pass externe, réversible et station amovible**](openpowerhub_48v_bypass_externe.md) examine la solution minimale de transfert de sources pour une installation monophasée : **inverseur bipolaire mécanique 63 A I–0–II** dans un coffret distinct, entrée station dédiée **32 A protégée** si la puissance de sortie atteint réellement 6 kW, et retour manuel au réseau lorsque la station est débranchée. Il distingue les voies « réseau direct », « station par onduleur » et « appoint réseau AC/DC protégé en amont de l'inverseur ».
+
+Cette solution **ne requiert ni automate ni connexion cloud pour basculer manuellement**. Elle est toutefois conditionnée à la vérification des **schémas de liaison à la terre, du neutre et des différentiels en mode onduleur**, et à une intervention sur l'installation privative conforme. Les estimations d'achat et de pose sont préliminaires, sans budget débloqué. **Aucun montage n'est autorisé sans examen et essai appropriés.**
+
+---
+
 ## 7. Terrains et niveaux de maturité
 
 - **1, cours Paoli, Corte — premier site retenu pour le test grandeur nature** : local de référence de C.O.R.S.I.C.A. / Institut Mariani ; test réel de l'architecture dans un lieu déjà utilisé, sous réserve d'audit de l'installation électrique, des usages, des droits d'intervention, des exigences de sécurité et du financement. Il ne faut pas le confondre avec le cas de la maison urbaine de Corte, qui demeure anonymisé.
