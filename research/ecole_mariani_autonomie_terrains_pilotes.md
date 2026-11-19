@@ -46,6 +46,7 @@ corpus_hierarchy:
     - grille homéostatique de l’habitat
     - article Substack grand public
 related_documents:
+  - research/openpowerhub_48v_rattachement_corpus.md
   - research/ecole_mariani_autonomie.md
   - research/homeostasie_habitat.md
   - research/cas_maison_urbaine_corte_autonomie.md
@@ -475,6 +476,22 @@ Formaliser le cas du cumulus EDF comme module pédagogique inaugural : eau chaud
 ### 10.5 Fiche habitat homéostatique
 
 Décliner `research/homeostasie_habitat.md` en grille pratique utilisable par les coachs.
+
+---
+
+## 10 bis. Séquence OpenPowerHub 48V — décision du 19 novembre 2026
+
+Cette chronologie concerne spécifiquement les **tests grandeur nature du kit énergétique OpenPowerHub 48V** ; elle ne renumérote pas les quatre cas pédagogiques historiques de l'École.
+
+- **Premier site :** local de C.O.R.S.I.C.A., **1, cours Paoli, Corte** ; pas de budget disponible, démarrage matériel différé.
+- **Sites suivants :** **Minesteggio** et **La Maison Blanche (La Gaude)**, **ordre relatif non déterminé**.
+- **Contrainte technique commune à examiner :** alimentation électrique extérieure **très réduite (environ 1 kW de puissance accessible)** ou **absente** ; l'association exacte des régimes aux sites reste à vérifier. Ne pas confondre les **1 kW d'appoint réseau** avec la **puissance hydroélectrique théorique** mentionnée séparément pour Minesteggio.
+
+Le protocole du kit doit donc distinguer un régime **grid-limited** (appoint réseau plafonné, batterie tampon, adaptation temporelle des charges) et un régime **off-grid** (sources locales, stockage, priorités, délestage, modes dégradés). La même architecture ne garantit ni la même disponibilité ni la même autonomie dans les deux régimes.
+
+La préparation peut progresser **sans dépenses nouvelles** : mesures existantes, inventaire, profils de charge, simulations, nomenclature et critères de réussite. Aucune mise en service matérielle n'est programmée sans moyens financiers, revue de sécurité et examen de conformité.
+
+Dossier satellite : [OpenPowerHub 48V — rattachement au corpus](openpowerhub_48v_rattachement_corpus.md).
 
 ---
 
