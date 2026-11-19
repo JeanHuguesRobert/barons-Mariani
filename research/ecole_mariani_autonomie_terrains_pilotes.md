@@ -511,6 +511,20 @@ Dossier technique parent : [OpenPowerHub 48V — rattachement au corpus](openpow
 
 ---
 
+## 10 quater. Portabilité résidentielle — locataire et by-pass indépendant (19 novembre 2026)
+
+L'usage du kit OpenPowerHub doit être ouvert **aux locataires autant qu'aux propriétaires**. Le critère pédagogique et capacitaire est explicite : un habitant qui déménage doit pouvoir **repartir avec l'essentiel de son investissement énergétique**, son stockage, sa supervision, ses données et sa faculté de faire fonctionner ses appareils.
+
+La station est donc conçue comme **dispositif autonome et amovible**. Un éventuel **by-pass de transfert est externe, facultatif et dissociable** ; la préférence initiale va à une interface portable côté appareils (qui n'alimente pas le réseau fixe du logement). Si le by-pass est câblé dans les circuits permanents, il change de régime : il nécessite une étude électrique, des protections, un transfert interverrouillé empêchant toute réalimentation du réseau, ainsi que l'examen des autorisations et contrôles applicables à la location. La conformité de la station 230 V elle-même demeure applicable indépendamment de cet accessoire.
+
+**Reality Test spécifique :** réaliser fictivement ou réellement le cycle « emménager → utiliser → déménager → réinstaller », en comptant les coûts, délais, gestes techniques, besoins d'accord du bailleur et perte éventuelle d'équipements. Un kit « autonome » mais non déplaçable ne répond pas à cette exigence.
+
+Le premier essai grandeur nature demeure prévu au 1, cours Paoli, suivi de Minesteggio et La Maison Blanche dans un ordre non fixé ; la **portabilité résidentielle** est un **critère transversal**, ni un nouveau site ni une autorisation de travaux. Financement matériel toujours non disponible.
+
+Référence détaillée : [OpenPowerHub 48V — locataire, droit de sortie et by-pass externe](openpowerhub_48v_rattachement_corpus.md).
+
+---
+
 ## 11. Conclusion provisoire
 
 Les terrains pilotes montrent que l’autonomie ne se réduit ni à une technologie, ni à une installation, ni à une coupure spectaculaire avec EDF.
