@@ -123,6 +123,37 @@ Références réglementaires de point de départ (à réexaminer selon architect
 
 **Principe de l'École** : le but n'est pas de transformer l'apprenant en électricien supposé certifié en un week-end, mais de le rendre effectivement plus compétent, y compris pour commander, comprendre et contrôler les travaux spécialisés.
 
+## 6 bis. Quatrième cas d'usage : station énergétique portable embarquée dans un véhicule (19 novembre 2026)
+
+**Décision conceptuelle :** OpenPowerHub doit également pouvoir exister en **station énergétique portable**, que l'utilisateur **déplace avec lui-même**, éventuellement en la transportant dans un véhicule. Ce mode d'usage ne constitue **ni un quatrième site immobilier** ni une quatrième étape obligatoire de déploiement. Il doit rester compatible avec la séquence de pilotes fixes décidée par ailleurs. Un même dispositif pourrait, selon son architecture et sa masse, être déplacé pour assurer plusieurs démonstrations.
+
+La station emporte son **propre tampon et ses interfaces énergétiques** ; son utilité ne doit pas dépendre de sa présence permanente dans un bâtiment. Une fois immobilisée en un lieu sûr, elle peut fournir de l'énergie à des outils, appareils numériques, éclairages et équipements pédagogiques compatibles, dans les limites réellement vérifiées de ses protections, de sa puissance et de son énergie.
+
+### Distinguer trois situations
+
+1. **Station portable transportée dans un véhicule** : le véhicule sert d'abord à **déplacer le générateur de services énergétiques** ; la batterie et les sorties appartiennent à la station.
+2. **Véhicule électrique alimentant la station par V2L** : possibilité **supplémentaire et optionnelle**, réservée aux modèles dont la sortie V2L et la protection sont compatibles et vérifiées ; la puissance est limitée par le véhicule, le chargeur et la station.
+3. **Station rechargée depuis le véhicule** : possibilité à étudier **séparément**, uniquement par une interface DC/DC ou AC/DC conçue et protégée pour la source, le régime moteur et la batterie du véhicule ; ne pas présumer qu'une prise 12 V d'accessoires ou l'alternateur acceptent les puissances envisagées. Ne jamais raccorder directement les batteries.
+
+Le fonctionnement **transporté**, le fonctionnement **en stationnement** et une éventuelle alimentation **pendant la circulation** ont des contraintes de sécurité distinctes ; la présente note n'autorise pas ce dernier usage. Il est également interdit de présumer qu'une station portable peut alimenter le réseau intérieur d'un immeuble par simple branchement sur une prise : aucune injection ou rétroalimentation non protégée.
+
+### Contraintes propres à la portabilité
+
+- **Masse et encombrement** : seuils de manutention réels, poignée/châssis, centre de gravité, fixation résistante aux freinages et chocs ; éventuellement modules séparables plutôt qu'une seule caisse de 6 kW.
+- **Électricité** : à 48 V nominaux, 6 kW correspondent à environ 125 A avant pertes, rendant les connexions, câbles, fusibles, BMS, échauffements et isolements critiques ; la puissance portable continue doit être **dimensionnée et testée**, pas copiée du manifeste.
+- **Conditions d'emploi** : vibrations, poussières, humidité, pluie, ventilation et chaleur d'un véhicule fermé ; prévention des courts-circuits, dommages mécaniques, surchauffe et incendie.
+- **Interfaces** : entrées solaire / réseau limité / V2L compatibles, sorties DC et AC protégées, mise à la terre / neutre / différentiel adaptés aux modes et usages réels, connecteurs identifiables et verrouillables si nécessaire.
+- **Autonomie vérifiable** : distinguer Wh stockés, W disponibles, durée réelle à charge donnée, pertes à vide, recharge et limitation automatique lors de tension ou température anormales.
+- **Mode dégradé** : absence de réseau, absence de véhicule V2L, soleil indisponible, IA absente, déplacement ou batterie faible ; maintien des fonctions DC essentielles quand le 230 V est délesté, sous contraintes de sécurité.
+
+### Intérêt pédagogique et rapport à FractaVolta
+
+La version portable devient un **démonstrateur itinérant** de la Mariani School of Autonomy : test du kit dans différents lieux, démonstration du **store-and-forward** par déplacement physique du stockage, mesure des entrées/sorties et des contraintes d'usage. Elle rejoint les travaux de FractaVolta sur les **paquets d'énergie mobiles**, sans affirmer qu'une station transportée correspond déjà à un système logistique de batteries interchangeables, ni que la mobilité résout le bilan énergétique.
+
+**Conception privilégiée :** un **Core et des surfaces cohérents** entre variantes fixes et portable, mais **une enveloppe électrique/mécanique et des performances propres** à chaque variante. Le budget nul actuel demeure : la portabilité se spécifie et se simule avant tout achat, essai routier ou montage matériel.
+
+---
+
 ## 7. Terrains et niveaux de maturité
 
 - **1, cours Paoli, Corte — premier site retenu pour le test grandeur nature** : local de référence de C.O.R.S.I.C.A. / Institut Mariani ; test réel de l'architecture dans un lieu déjà utilisé, sous réserve d'audit de l'installation électrique, des usages, des droits d'intervention, des exigences de sécurité et du financement. Il ne faut pas le confondre avec le cas de la maison urbaine de Corte, qui demeure anonymisé.
@@ -137,7 +168,7 @@ Références réglementaires de point de départ (à réexaminer selon architect
 
 **Décision de principe du porteur du projet :** le premier **test grandeur nature** d'OpenPowerHub 48V aura lieu au **local du 1, cours Paoli à Corte** (et non à Minesteggio ni dans le cas-pilote anonymisé de maison urbaine). Ce choix désigne un **site cible**, pas une installation réalisée ni une promesse de calendrier.
 
-**Séquence des tests grandeur nature (19 novembre 2026) :** **1, cours Paoli → [Minesteggio, La Maison Blanche]**, ces deux derniers sites étant envisagés après le premier **sans ordre arrêté**. Le critère commun à tester est un **accès très limité au réseau public**, avec deux régimes de conception possibles : **appoint limité à environ 1 kW** ou **aucun raccordement utilisable**. La correspondance précise entre site et régime reste **à vérifier** ; ne pas attribuer d'office l'un des deux régimes à un lieu. La valeur de 1 kW est une **puissance**, pas une réserve énergétique ni une consommation journalière ; elle doit être vérifiée comme puissance réellement accessible, et distinguée du contrat en kVA et de la production hydroélectrique locale éventuelle.
+**Séquence des tests grandeur nature (19 novembre 2026) :** **1, cours Paoli → [Minesteggio, La Maison Blanche]**, ces deux derniers sites étant envisagés après le premier **sans ordre arrêté**. La **station portable embarquée** est un **quatrième cas d'usage transversal**, et non un site supplémentaire dans cette chronologie. Le critère commun à tester est un **accès très limité au réseau public**, avec deux régimes de conception possibles : **appoint limité à environ 1 kW** ou **aucun raccordement utilisable**. La correspondance précise entre site et régime reste **à vérifier** ; ne pas attribuer d'office l'un des deux régimes à un lieu. La valeur de 1 kW est une **puissance**, pas une réserve énergétique ni une consommation journalière ; elle doit être vérifiée comme puissance réellement accessible, et distinguée du contrat en kVA et de la production hydroélectrique locale éventuelle.
 
 **Hypothèses de test complémentaires :** régime *grid-limited* : charge lente du tampon depuis le réseau sous plafond physique de puissance ; régime *off-grid* : énergie solaire et stockage avec gestion explicite des épisodes sans production ; dans les deux cas, délestage sûr, priorisation des fonctions essentielles, calcul d'autonomie et retour au mode dégradé. Ne pas conclure à la faisabilité avant relevé de la demande et de la production. L'absence actuelle de budget demeure la contrainte de calendrier.
 
