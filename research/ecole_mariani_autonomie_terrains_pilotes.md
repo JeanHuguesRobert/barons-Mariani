@@ -495,6 +495,22 @@ Dossier satellite : [OpenPowerHub 48V — rattachement au corpus](openpowerhub_4
 
 ---
 
+## 10 ter. Cas d'usage transversal — station portable embarquée dans un véhicule (19 novembre 2026)
+
+À côté des **trois sites grandeur nature** du dispositif OpenPowerHub (1, cours Paoli en premier ; Minesteggio et La Maison Blanche ensuite dans un ordre non fixé), le porteur du projet ajoute un **quatrième cas d'usage** : une **station énergétique portable que l'on déplace avec soi-même**, notamment **dans un véhicule**.
+
+Il ne s'agit **pas d'un quatrième terrain immobilier**, ni d'un véhicule électrique nécessairement équipé du V2L. Le véhicule peut être un **simple moyen de transport** ; la station possède son propre stockage et les interfaces de fourniture d'énergie. Selon les configurations à valider, elle peut recevoir une recharge solaire, une alimentation secteur disponible sur place ou, **si compatible**, une sortie V2L du véhicule. Une recharge directe par un circuit automobile 12/24 V ou l'alternateur n'est pas présumée possible sans convertisseur dimensionné et protégé.
+
+Cette station permettrait d'étudier l'énergie comme **capacité transportable** : au lieu de demander seulement « comment alimenter ce lieu ? », on peut aussi demander « comment emporter puis utiliser de l'énergie utile là où l'on se trouve ? ».
+
+**Invariant pédagogique :** source → mesure → stockage → déplacement → usage → trace, avec mesure des pertes, limites réelles de puissance, autonomie, fiabilité et modes dégradés. Pour une station transportée dans une voiture, les risques de choc, chaleur et arrimage s'ajoutent aux risques électriques. Une sortie 230 V ne doit pas être branchée directement dans une prise d'un bâtiment pour réinjecter de l'énergie ; toute alimentation d'une installation fixe exige un dispositif et une revue de conformité appropriés.
+
+**Frontière du prototype :** même architecture logique de supervision et de documentation que la version fixe, mais enveloppe mécanique, protections, fixation, masse admissible et puissance soutenable **spécifiquement validées**. L'objectif de 6 kW du manifeste ne constitue pas une caractéristique attestée d'une station portable. Aucune acquisition ni modification électrique n'est envisagée avant financement et validation du dossier.
+
+Dossier technique parent : [OpenPowerHub 48V — rattachement au corpus](openpowerhub_48v_rattachement_corpus.md).
+
+---
+
 ## 11. Conclusion provisoire
 
 Les terrains pilotes montrent que l’autonomie ne se réduit ni à une technologie, ni à une installation, ni à une coupure spectaculaire avec EDF.
