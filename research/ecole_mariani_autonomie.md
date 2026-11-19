@@ -49,6 +49,7 @@ corpus_hierarchy:
 related_documents:
   - research/serenia_autonomie_assistee_ia.md
   - research/homeostasie_habitat.md
+  - research/openpowerhub_48v_rattachement_corpus.md
   - research/ecole_mariani_autonomie_terrains_pilotes.md
   - research/cas_maison_urbaine_corte_autonomie.md
   - research/noyau_doctrinal_rendre_capable.md
@@ -639,3 +640,10 @@ Le foyer devient plus lisible.
 Le collectif devient possible.
 
 Le territoire devient plus capable.
+
+
+---
+
+## OpenPowerHub 48V — cas-école d'autonomie énergétique (2026-11-19)
+
+Le [dossier OpenPowerHub 48V](openpowerhub_48v_rattachement_corpus.md) est un **satellite technique et pédagogique** de la présente source canonique, au croisement des modules 4 (habitat homéostatique) et 5 (courant continu et énergie en packets). Il relie solaire, tampon 48 V, véhicules compatibles V2L, gestion des fonctions essentielles et pilotage local avec Cogentia/FractaVolta. Les performances, budgets et garanties figurant dans le manifeste initial sont des hypothèses à tester, non des caractéristiques certifiées. Le prototype doit conserver la sécurité matérielle indépendamment de l'IA et distinguer apprentissage, essais et installation électrique conforme.
