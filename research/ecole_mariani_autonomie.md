@@ -646,4 +646,8 @@ Le territoire devient plus capable.
 
 ## OpenPowerHub 48V — cas-école d'autonomie énergétique (2026-11-19)
 
+**Extension locataire / droit de sortie (19 novembre 2026).** Le kit doit être accessible aussi aux locataires : station autonome **retirable en fin de bail**, interface de by-pass de transfert **externe, facultative et distincte** ; priorité à l'alimentation directe d'appareils sans travaux sur l'installation fixe. Un transfert vers les circuits du logement est une option distincte, soumise aux protections, au droit locatif et aux vérifications applicables ; déplacer le by-pass hors du boîtier n'exonère pas le produit portable de ses propres obligations. Voir [note détaillée OpenPowerHub](openpowerhub_48v_rattachement_corpus.md).
+
+
+
 Le [dossier OpenPowerHub 48V](openpowerhub_48v_rattachement_corpus.md) est un **satellite technique et pédagogique** de la présente source canonique, au croisement des modules 4 (habitat homéostatique) et 5 (courant continu et énergie en packets). Il relie solaire, tampon 48 V, véhicules compatibles V2L, gestion des fonctions essentielles et pilotage local avec Cogentia/FractaVolta. Les performances, budgets et garanties figurant dans le manifeste initial sont des hypothèses à tester, non des caractéristiques certifiées. Le prototype doit conserver la sécurité matérielle indépendamment de l'IA et distinguer apprentissage, essais et installation électrique conforme.
