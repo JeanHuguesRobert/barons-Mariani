@@ -73,7 +73,7 @@ Le dispositif est **non automatique** dans la version initiale. Lorsque la stati
 
 **R2 — Station mobile fréquente.** L'interface de tête reste en place ; **seule la connexion de la station** est défaite et rétablie. Le connecteur d'entrée source doit être prévu pour ce cycle : protection de toute partie active au toucher, interdiction de la déconnexion en charge hors matériel expressément dimensionné, procédure de sélection de source et protection contre tout retour réseau. La connectique ne doit **jamais** impliquer l'utilisation de deux fiches mâles reliées par câble ou la réalimentation d'une prise domestique.
 
-Une solution industrielle candidate pour la liaison station → coffret est une **entrée d'appareil P17 / IEC 60309 230 V bleu 2P+T, calibre 32 A**, à valider avec la fonction de sectionnement et la sortie onduleur. Le câble de liaison, l'arrimage et la protection mécanique restent à dimensionner.
+Une solution industrielle candidate pour la liaison station → coffret est une **fiche fixe mâle P17 / IEC 60309 230 V bleu 2P+T, calibre 32 A** utilisée comme entrée de la source sur le coffret, par exemple la [Legrand 058284](https://www.legrand.fr/pro/catalogue/fiche-inclinee-saillie-p17-ip44-32a-200v-a-250v-2pt). Le cordon doit venir d'une **sortie station femelle protégée**, et **aucune broche mâle ne doit jamais être alimentée lorsque la station est déconnectée** ; validation du schéma de transfert et des protections obligatoire. Le câble de liaison, l'arrimage et la protection mécanique restent à dimensionner.
 
 ## 4. Composants candidats du commerce — non validés comme ensemble
 
@@ -81,7 +81,7 @@ Une solution industrielle candidate pour la liaison station → coffret est une 
 |---|---|---|---|
 | Inverseur manuel | [Hager SF263 2P 63 A I–0–II](https://hager.com/fr/catalogue/produits/sf263-inverseur-2-poles-63a-i-0-ii) | Transfert électromécanique de deux sources | **48 €** prix constaté chez [Domomat](https://www.domomat.com/53569-inverseur-2p-63a-i-0-ii-hager-sf263.html), novembre 2026 |
 | Coffret externe | [Hager VE110F IP55, 8+2 modules](https://hager.com/fr/catalogue/produits/ve110f-coffret-etanche-ip-55-8-10-modules) | Enveloppe isolante, rail DIN et capot | **48 €** chez [Blanc Habitat](https://www.blanc-habitat.com/hager/308600-coffret-etanche-vector-ip55-1-rangee-82-modules-h-210mm-l-237mm-hager-ve110f) |
-| Connectique station | [Legrand P17 230 V 2P+T 32 A](https://www.legrand.fr/pro/catalogue/socle-de-tableau-a-entraxe-reduit-p17-2pt-32a-230v) | Branchement/débranchement de la source portable | **30–100 € estimés** pour les deux extrémités et le câble, selon références/longueur |
+| Connectique station | [Legrand 058284 — fiche fixe P17 230 V 2P+T 32 A](https://www.legrand.fr/pro/catalogue/fiche-inclinee-saillie-p17-ip44-32a-200v-a-250v-2pt) | Entrée mâle protégée du coffret, alimentée exclusivement par cordon femelle côté station | **30–100 € estimés** pour les deux extrémités et le câble, selon références/longueur |
 | Répartition, protections, raccordement | Composants conformes au dimensionnement réel | Disjoncteur de branche station, dérivation chargeur, borniers, câbles, presse-étoupes, signalétique | **60–180 € estimés**, hors éventuelle remise à niveau des différentiels |
 
 **Estimation indicative des seuls matériels : environ 180–380 € TTC**, si l'installation initiale est saine et les protections aval adaptées. Ajouter un coût de pose, contrôle et éventuelle dépose/remise en état. Une enveloppe **environ 450–1 100 € installé** n'est qu'une **hypothèse budgétaire**, non un devis, et peut être dépassée si le tableau doit être repris. Un matériel additionnel peut être exigé par l'analyse de défaut, le schéma de liaison à la terre, la limitation de puissance ou les exigences du lieu. L'interface externe n'est pas comprise dans l'objectif non démontré de kit OpenPowerHub « complet < 900 € ».
@@ -123,7 +123,7 @@ Retenir comme **référence M0** le coffret **OpenPowerHub Transfer Box — Manu
 
 - [Hager SF263 — inverseur 2P 63 A I–0–II](https://hager.com/fr/catalogue/produits/sf263-inverseur-2-poles-63a-i-0-ii) ; [prix TTC constaté](https://www.domomat.com/53569-inverseur-2p-63a-i-0-ii-hager-sf263.html).
 - [Hager VE110F — coffret IP55](https://hager.com/fr/catalogue/produits/ve110f-coffret-etanche-ip-55-8-10-modules).
-- [Legrand P17 — connectique industrielle 230 V 32 A](https://www.legrand.fr/pro/catalogue/socle-de-tableau-a-entraxe-reduit-p17-2pt-32a-230v).
+- [Legrand P17 058284 — fiche fixe inclinée 230 V 32 A](https://www.legrand.fr/pro/catalogue/fiche-inclinee-saillie-p17-ip44-32a-200v-a-250v-2pt).
 - [Victron MultiPlus-II — installation et relais de terre](https://www.victronenergy.com/media/pg/MultiPlus-II_230V/fr/installation.html).
 - [Promotelec — protection d'une installation multi-source](https://www.promotelec.com/professionnels/fiche/protection-dune-installation-alimentee-par-plusieurs-sources/).
 - [Promotelec — modifications et application des normes aux installations anciennes](https://www.promotelec.com/faq/particuliers/toute-installation-realisee-anterieurement-a-la-date-dhomologation-dune-norme-doit-elle-etre-systematiquement-revisee-selon-les-nouveaux-textes-reglementaires/).
