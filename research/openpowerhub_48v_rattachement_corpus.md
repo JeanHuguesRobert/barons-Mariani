@@ -126,8 +126,8 @@ Références réglementaires de point de départ (à réexaminer selon architect
 ## 7. Terrains et niveaux de maturité
 
 - **1, cours Paoli, Corte — premier site retenu pour le test grandeur nature** : local de référence de C.O.R.S.I.C.A. / Institut Mariani ; test réel de l'architecture dans un lieu déjà utilisé, sous réserve d'audit de l'installation électrique, des usages, des droits d'intervention, des exigences de sécurité et du financement. Il ne faut pas le confondre avec le cas de la maison urbaine de Corte, qui demeure anonymisé.
-- **Minesteggio** : vitrine pédagogique patrimoniale ; étude du solaire et éventuellement de la ressource hydraulique locale, sous réserve d'autorisations, de relevés et de contraintes patrimoniales.
-- **La Maison Blanche, La Gaude** : terrain d'essai reproductible pour une habitation individuelle.
+- **Minesteggio — deuxième ou troisième site grandeur nature (ordre à déterminer)** : vitrine pédagogique patrimoniale ; étude du solaire et éventuellement de la ressource hydraulique locale, sous réserve d'autorisations, de relevés et de contraintes patrimoniales. À considérer dans les conditions d'accès au réseau très contraint : 1 kW disponible ou aucun réseau, selon configuration à préciser.
+- **La Maison Blanche, La Gaude — deuxième ou troisième site grandeur nature (ordre à déterminer)** : terrain d'essai reproductible pour une habitation individuelle, avec expérimentation d'une alimentation réseau plafonnée à 1 kW ou absente, selon la configuration réellement disponible.
 - **Maison urbaine de Corte** : cas préexistant, **anonymisé**, de désengagement réversible du réseau et véhicule comme stockage mobile ; ne pas lever l'anonymat.
 - **Musée Mariani des Possibles** : démonstrateur visible, expérimentation, ateliers et transmission, non site de certification présumée.
 - **Commune / FractaVolta** : horizon coopératif ultérieur, distinct du kit individuel.
@@ -136,6 +136,10 @@ Références réglementaires de point de départ (à réexaminer selon architect
 ### Décision de terrain et contrainte de moyens (19 novembre 2026)
 
 **Décision de principe du porteur du projet :** le premier **test grandeur nature** d'OpenPowerHub 48V aura lieu au **local du 1, cours Paoli à Corte** (et non à Minesteggio ni dans le cas-pilote anonymisé de maison urbaine). Ce choix désigne un **site cible**, pas une installation réalisée ni une promesse de calendrier.
+
+**Séquence des tests grandeur nature (19 novembre 2026) :** **1, cours Paoli → [Minesteggio, La Maison Blanche]**, ces deux derniers sites étant envisagés après le premier **sans ordre arrêté**. Le critère commun à tester est un **accès très limité au réseau public**, avec deux régimes de conception possibles : **appoint limité à environ 1 kW** ou **aucun raccordement utilisable**. La correspondance précise entre site et régime reste **à vérifier** ; ne pas attribuer d'office l'un des deux régimes à un lieu. La valeur de 1 kW est une **puissance**, pas une réserve énergétique ni une consommation journalière ; elle doit être vérifiée comme puissance réellement accessible, et distinguée du contrat en kVA et de la production hydroélectrique locale éventuelle.
+
+**Hypothèses de test complémentaires :** régime *grid-limited* : charge lente du tampon depuis le réseau sous plafond physique de puissance ; régime *off-grid* : énergie solaire et stockage avec gestion explicite des épisodes sans production ; dans les deux cas, délestage sûr, priorisation des fonctions essentielles, calcul d'autonomie et retour au mode dégradé. Ne pas conclure à la faisabilité avant relevé de la demande et de la production. L'absence actuelle de budget demeure la contrainte de calendrier.
 
 **État actuel : aucun budget disponible pour lancer l'expérimentation.** Le démarrage matériel est donc **ajourné, sans date** ; aucune commande, aucun achat et aucune modification électrique ne sont autorisés par cette décision. Ne pas convertir ce site cible en projet immédiatement opérationnel dans les communications publiques.
 
