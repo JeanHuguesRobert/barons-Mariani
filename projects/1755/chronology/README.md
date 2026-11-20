@@ -4,6 +4,7 @@ description: Chronologie synoptique de la séquence révolutionnaire corse et de
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
+last_modified_at: '2026-11-20'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -12,6 +13,17 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/proj
 document_role: source
 document_kind: chronology-document
 visibility: public
+update_policy: UP-DEFAULT-REVIEWED
+lifecycle_state: working
+provenance:
+  origin_type: unknown
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Chronologie synoptique de la séquence révolutionnaire et constitutionnelle (1358–2026)
@@ -51,8 +63,13 @@ Cette chronologie articulée met en regard l'histoire interne de la Corse, la cr
 | **1776** (4 juillet) | Déclaration d'indépendance des États-Unis d'Amérique à Philadelphie (*« pursuit of happiness »*). | Début de la guerre d'indépendance américaine. | Level A |
 | **1777** (septembre) | **Bataille de Paoli (Pennsylvanie) :** combat acharné entre les troupes de George Washington et l'armée britannique. | Inscription définitive du nom de Paoli dans la toponymie mémorielle des États-Unis. | Level A |
 | **1787** | Rédaction de la Constitution des États-Unis d'Amérique à Philadelphie. | Formalisation de la république constitutionnelle fédérale moderne. | Level A |
-| **1789–1791** | Révolution française : Paoli est réhabilité par l'Assemblée Constituante et rentre triomphalement à Paris puis en Corse. | Déclaration des droits de l'homme et du citoyen (1789) et Constitution française de 1791. | Level A |
+| **1789** (31 octobre) | Une adresse de citoyens d'Ajaccio formule le vœu de rejoindre la « nation française devenue libre » ; elle est mentionnée lors de la séance du 30 novembre. **Adresse collective, et non propos personnel de Paoli.** | Révolution française, transformation des droits et contestation de l'administration militaire insulaire. | **Level A** — [*Archives parlementaires*, p. 335–336](https://www.persee.fr/doc/arcpa_0000-0000_1878_num_10_1_3930_t1_0335_0000_12) |
+| **1789** (30 novembre) | L'Assemblée constituante décrète que la Corse fait partie de l'empire français et que ses habitants seront régis par la même constitution que les autres Français. | Réunion constitutionnelle dans la monarchie française encore en vigueur. | **Level A** — [décret, *Archives parlementaires*, p. 336](https://www.persee.fr/doc/arcpa_0000-0000_1878_num_10_1_3930_t1_0336_0000_6) |
+| **1789** (11 décembre ; lecture le 19) | Depuis Londres, Paoli remercie l'Assemblée et exprime sa joie à propos des décrets bénéficiant aux Corses et aux expatriés. | Participation annoncée aux droits de la nouvelle constitution française. | **Level A** — [lettre de Paoli, *Archives parlementaires*, p. 676](https://www.persee.fr/doc/arcpa_0000-0000_1878_num_10_1_4077_t1_0676_0000_3) |
+| **1789–1791** | Retour de Paoli en France, puis en Corse le 14 juillet 1790 ; réhabilitation et nouvelles responsabilités. | Déclaration des droits de l'homme et du citoyen (1789), Constitution française de 1791. | **Level A** — [Musée de la Corse](https://www.museudiacorsica.corsica/fr/expositions/pasquale-de-paoli-1725-1807/) |
 | **1794–1796** | **Royaume Anglo-Corse :** adoption de la Constitution de 1794 présidée par Sir Gilbert Elliot et Pascal Paoli. | Guerres de la Première Coalition en Europe. | Level A |
 | **1807** (5 février) | **Mort de Pascal Paoli à Londres :** il est inhumé à St Pancras ; un cénotaphe lui est érigé à l'Abbaye de Westminster. | Apogée de l'Empire napoléonien et diffusion du Code Civil de 1804. | Level A |
+| **1943** (9 septembre–4 octobre) | Soulèvement puis libération complète de la Corse, premier territoire de France métropolitaine libéré ; action conjointe des résistants corses et de forces militaires venues d'Afrique du Nord, avec d'autres concours militaires. | Seconde Guerre mondiale, guerre de Libération. | **Level A** — [Ministère des Armées](https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/seconde-guerre-mondiale/resister/resistance-interieure/9) |
+| **1943** (30 novembre) | Dans l'île désormais libérée, commémoration publique de l'anniversaire du décret du 30 novembre 1789 : cérémonies, rassemblements et arbre commémoratif. **La liaison 1789–1943 est faite par les acteurs de l'époque, non seulement par une relecture contemporaine.** | Témoignage rétrospectif du général Gambiez, cité par l'ANACR ; source à confronter au livre de 1973. | **Level B** — [ANACR Corse-du-Sud](https://resistance-corse.asso.fr/2019/11/29/30-novembre-1789-30-novembre-1943/) |
 | **1996** | Édition critique fondamentale de la Constitution de 1755 par Dorothy Carrington et François-J. Lamotte. | Renaissance des études constitutionnelles paoliennes comparées. | Level A |
 | **2026** (octobre) | **Lancement du Livre Vivant 1755 :** formalisation du dossier probatoire ouvert, articulation avec *Commons* et protocole Mémoire du monde UNESCO. | Crise contemporaine de la démocratie représentative et émergence des biens communs cognitifs. | Level B/C |

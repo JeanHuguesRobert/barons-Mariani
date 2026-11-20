@@ -4,7 +4,7 @@ description: Point d'entrée du Livre Vivant 1755 sur la Constitution corse de 1
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-11-13'
+last_modified_at: '2026-11-20'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -57,6 +57,16 @@ changelog:
 Il ne s'agit ni d'un repli mémoriel insulaire ni d'une sanctification anachronique, mais d'une **enquête probatoire ouverte** :
 
 > **La Constitution votée à Corte en novembre 1755 est-elle l'un des premiers textes constitutionnels écrits de l'histoire moderne fondant la légitimité politique sur la souveraineté populaire, la séparation des pouvoirs et la désignation élective des magistrats par les chefs de famille ?**
+
+---
+
+## Rang historique : les qualifications attestées
+
+La Constitution votée à Corte en novembre 1755 appartient au noyau des expériences fondatrices du **constitutionnalisme démocratique écrit moderne**. Deux institutions publiques vont plus loin : la [Cour des comptes](https://www.ccomptes.fr/fr/chambres-regionales-et-territoriales/crc-corse/histoire-et-patrimoine) parle de la première constitution écrite au monde fondée sur la séparation des pouvoirs ; le [Musée de la Corse](https://www.museudiacorsica.corsica/fr/expositions/pasquale-de-paoli-1725-1807/) présente l'État paolien comme le premier État démocratique de l'Europe des Lumières. Il faut **attribuer exactement** ces deux qualifications, plutôt que les remplacer sans raison par une simple antériorité vague.
+
+Le point constitutionnel démontrable est l'affirmation du **peuple comme source de la souveraineté**, l'organisation de représentants élus et de mécanismes de contrôle des gouvernants ; sa mise en œuvre et les limites du corps électoral sont aussi des objets historiques. La qualification de « première constitution démocratique écrite » est défendable sous des critères définis, à comparer avec les autres expériences constitutionnelles préalables sans prétendre que l'enquête comparative mondiale est close. Sources et distinctions : [registre de preuves, § 3](sources/README.md#3-sources-vérifiées-pour-la-qualification-constitutionnelle-et-les-prolongements-17891943-20-novembre-2026) ; [Carrington, 1974](https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183) ; [Tomasi, *Sindacato*](https://lumi.univ-corse.fr/le-sindacato-une-institution-republicaine-la-constitution-corse-de-1755-et-la-question-de-la-reddition-de-compte-des-gouvernants/).
+
+La [chronologie synoptique](chronology/README.md) suit aussi les jalons du **30 novembre 1789** et du **30 novembre 1943**, lorsque la Corse libérée commémore le décret révolutionnaire : ce rapprochement est historiquement documenté et peut éclairer, sans les confondre, les propositions civiques contemporaines.
 
 ---
 

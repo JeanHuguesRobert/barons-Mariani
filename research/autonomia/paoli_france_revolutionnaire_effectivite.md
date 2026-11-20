@@ -1,11 +1,25 @@
 ---
 title: "Paoli et la France révolutionnaire : souveraineté proclamée et effectivité (1755–1807)"
 date: 2026-10-21
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
+last_modified_at: 2026-11-20
 status: working-paper
 document_role: source
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/paoli_france_revolutionnaire_effectivite.md
+update_policy: UP-DEFAULT-REVIEWED
+lifecycle_state: working
+provenance:
+  origin_type: unknown
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Paoli et la France révolutionnaire : une histoire des principes et des actes (1755–1807)
@@ -132,3 +146,23 @@ L'Enciclopedia Treccani, notice « Pasquale Paoli », https://www.treccani.it/en
 ## Enquête transatlantique — chaîne documentaire (21 octobre 2026)
 
 [De Corte à Philadelphie : reconstitution de la chaîne documentaire (1755–1776)](chaine_documentaire_1755_1776.md). Distingue le document original, les copies et éditions, la notoriété de Paoli, les récits institutionnels et les lectures attestées des constituants américains ; l'influence directe demeure une hypothèse à tester.
+
+## Complément historique — 1755, 1789, 1943 et lecture de 2026 (20 novembre 2026)
+
+### Première articulation : la liberté constituée en 1755
+
+La [Cour des comptes](https://www.ccomptes.fr/fr/chambres-regionales-et-territoriales/crc-corse/histoire-et-patrimoine) qualifie la Constitution de 1755 de première constitution écrite au monde fondée sur la séparation des pouvoirs et décrit la Consulte élue, le contrôle des agents et la publication des comptes. Le [Musée de la Corse](https://www.museudiacorsica.corsica/fr/expositions/pasquale-de-paoli-1725-1807/) évoque le premier État démocratique de l'Europe des Lumières et la souveraineté populaire comme fondement légitime du pouvoir. Ces **qualifications explicites d'institutions identifiées** sont à conserver sans les affaiblir artificiellement ; l'enquête sur le texte, le suffrage et l'effectivité reste ouverte chez [Carrington](https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183) et [Tomasi](https://lumi.univ-corse.fr/le-sindacato-une-institution-republicaine-la-constitution-corse-de-1755-et-la-question-de-la-reddition-de-compte-des-gouvernants/). Voir les [sources vérifiées du Livre Vivant 1755](../../projects/1755/sources/README.md).
+
+### Deuxième articulation : l'union politique de 1789
+
+Il faut distinguer trois pièces : (1) l'[adresse des citoyens d'Ajaccio du 31 octobre 1789](https://www.persee.fr/doc/arcpa_0000-0000_1878_num_10_1_3930_t1_0335_0000_12), évoquée à l'Assemblée le 30 novembre, exprime le souhait de rejoindre la nation française devenue libre ; (2) le [décret du 30 novembre 1789](https://www.persee.fr/doc/arcpa_0000-0000_1878_num_10_1_3930_t1_0336_0000_6) déclare la Corse partie de l'empire français et ses habitants régis par la même constitution ; (3) dans sa [lettre du 11 décembre, lue le 19 décembre](https://www.persee.fr/doc/arcpa_0000-0000_1878_num_10_1_4077_t1_0676_0000_3), Paoli exprime personnellement la joie et la reconnaissance suscitées par les décrets et par les droits ouverts aux Corses et aux expatriés. **Ne pas attribuer à Paoli la formule de l'adresse d'Ajaccio.** La France de 1789 est encore une monarchie en transformation constitutionnelle, non la République de 1792.
+
+### Troisième articulation : la liberté reconquise en 1943 et la mémoire de 1789
+
+Du **9 septembre au 4 octobre 1943**, la Corse est libérée : [Ministère des Armées, synthèse historique](https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/seconde-guerre-mondiale/resister/resistance-interieure/9). Un fait de mémoire rarement rapproché de l'enquête sur Paoli est documenté par l'[ANACR Corse-du-Sud](https://resistance-corse.asso.fr/2019/11/29/30-novembre-1789-30-novembre-1943/) citant le général Gambiez, *Libération de la Corse* (Hachette, 1973) : **le 30 novembre 1943, la Corse libérée célèbre l'anniversaire du décret du 30 novembre 1789**. Le lien mémoriel entre ces deux dates existe donc chez les acteurs historiques ; la formulation et les détails proviennent ici d'une citation rétrospective du livre de Gambiez, non de son original directement contrôlé.
+
+### Quatrième articulation : interprétation contemporaine, non fait du passé
+
+**Proposition de lecture exprimée en 2026 par Jean Hugues Noël Robert :** dans la Corse de 1755, des institutions sont constituées pour rendre la souveraineté politique exerçable ; en 1789, des Corses souhaitent prendre part à la liberté constitutionnelle conquise en France ; en 1943, la Corse participe à sa propre libération et célèbre cet héritage ; en 2026, une invitation à accomplir *l'effectivité* de la liberté et de la souveraineté populaire peut être formulée à l'échelle française. La conclusion « **Ils en étaient capables, nous aussi !** » est une **formule doctrinale actuelle**, non une parole attestée des acteurs anciens.
+
+Les modalités ne sont pas identiques : constituante de 1755, intégration constitutionnelle en 1789, résistance et libération militaire en 1943, projet de réforme civique en 2026. La continuité proposée relève d'une **lecture de la capacité d'agir**, nourrie par des événements et par un lien commémoratif de 1943 vérifiables ; elle ne suppose ni filiation institutionnelle mécanique ni unanimité historique.

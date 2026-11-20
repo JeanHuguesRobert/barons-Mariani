@@ -3,7 +3,7 @@ title: "Capable — Métaprogramme politique génératif"
 author: "Institut Mariani / C.O.R.S.I.C.A. — proposition de formalisation à revue par Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-11"
-last_modified_at: "2026-11-17"
+last_modified_at: "2026-11-20"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/metaprogramme-politique-generatif.md
 status: "working-paper"
 language: fr
@@ -153,6 +153,8 @@ Il s'agit d'une **construction doctrinale contemporaine**, non d'une continuité
 | **Pasquale Paoli et la Corse de 1755** | Constituer une communauté politique, organiser l'autonomie et la reddition des comptes | Limites de participation, conflits de pouvoir et circonstances propres au XVIIIe siècle |
 | **Bonaparte et les réformes napoléoniennes** | Organiser, codifier et exécuter avec une capacité administrative élevée | Concentration personnelle du pouvoir, centralisation et autoritarisme |
 | **Révolution française et devise républicaine** | Donner une finalité commune : liberté, égalité, fraternité et souveraineté | Contradictions historiques entre principes proclamés et droits effectivement exercés |
+
+**Passerelle historique supplémentaire (2026, lecture attribuée à l'auteur) :** une proposition relie la constitution démocratique corse de **1755**, le souhait formulé par des citoyens d'Ajaccio et les décrets constitutionnels de **1789**, la libération corse de **1943** — avec commémoration effective du 30 novembre 1789 le 30 novembre 1943 —, et la revendication contemporaine d'une liberté réellement exerçable. Les événements et leurs pièces sont distingués de cette interprétation dans l'[enquête sur Paoli et la France révolutionnaire, complément du 20 novembre 2026](../../../research/autonomia/paoli_france_revolutionnaire_effectivite.md#complément-historique--1755-1789-1943-et-lecture-de-2026). La formule « Ils en étaient capables, nous aussi ! » est celle de l'auteur en 2026, non une citation historique.
 
 **Synthèse institutionnelle à explorer :** *délibérer et décider* avec les citoyens ; *mandater, contrôler et corriger* avec des institutions responsables ; *exécuter efficacement* avec des administrations capables ; soumettre l'ensemble à l'effectivité de la devise et aux droits fondamentaux.
 
