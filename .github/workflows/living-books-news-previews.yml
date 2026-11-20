@@ -11,6 +11,14 @@ on:
       - "research/noyau_doctrinal_rendre_capable.md"
       - "projects/capable/manuscript/**"
       - "projects/capable/site/guide.html"
+      - "projects/capable/site/index.html"
+      - "projects/capable/site/homepage.json"
+      - "projects/capable/site/homepage.css"
+      - "projects/capable/site/assistants.html"
+      - "projects/capable/site/marche/**"
+      - "scripts/lib/living-book-homepage.css"
+      - "scripts/ops/render-living-book-homepage.py"
+      - "scripts/ops/check-living-book-homepage.py"
       - "projects/capable/site/guide.js"
       - "projects/privai/site/guide.html"
       - "projects/privai/site/guide.js"
@@ -233,6 +241,8 @@ jobs:
         run: |
           set -euo pipefail
           git fetch --no-tags origin main
+          python3 scripts/ops/render-living-book-homepage.py projects/capable/site/homepage.json --check
+          python3 scripts/ops/check-living-book-homepage.py
           python3 scripts/ops/check-deploy-capable-working.py
           node scripts/ops/check-capable-guide.mjs
           node scripts/ops/check-privai-guide.mjs
@@ -296,6 +306,8 @@ jobs:
           public=json.loads(Path('public-candidate-deploy.json').read_text())
           assert deployed['source_sha256']==public['source_sha256']
           assert deployed['release']==public['release']
+          assert deployed.get('homepage_assets_sha256'), 'Production deployer outdated: Homepage untracked'
+          assert deployed['homepage_assets_sha256']==public.get('homepage_assets_sha256'), 'Homepage receipt mismatch'
           assert deployed.get('guide_assets_sha256'), 'Production deployer outdated: Guide untracked'
           assert deployed['guide_assets_sha256']==public.get('guide_assets_sha256')
           import hashlib, urllib.request
@@ -308,6 +320,12 @@ jobs:
                   assert b'id="compose-agent"' in content and b'id="retain-local"' in content
               elif name=='guide.js':
                   assert b'GUIDE_PROFILE + "-guide-opt-in"' in content and b'external_agent' in content
+          for name, expected in deployed['homepage_assets_sha256'].items():
+              with urllib.request.urlopen('https://capable.acorsica.org/'+name,timeout=20) as response:
+                  assert response.status==200,(name,response.status)
+                  content=response.read()
+              assert hashlib.sha256(content).hexdigest()==expected,'Homepage mismatch: '+name
+          assert b'href="marche/"' in urllib.request.urlopen('https://capable.acorsica.org/',timeout=20).read()
           print('CANONICAL_HTTP_RECEIPT_VERIFIED',public['release'])
           PY2
           for ext in html pdf epub; do

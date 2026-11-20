@@ -23,6 +23,7 @@ PREFIX = "previews/en-preparation/"
 PREVIEW = ("capable.html", "capable.pdf", "capable.epub",
            "capable-formats.json", "manifest.json")
 GUIDE_ASSETS = ("guide.html", "guide.js")
+HOMEPAGE_ASSETS = ("index.html", "homepage.css", "assistants.html", "marche/index.html")
 
 
 def digest(data):
@@ -102,22 +103,16 @@ def read_candidate(repo, revision):
             or b'GUIDE_PROFILE + "-guide-opt-in"' not in guide_assets["guide.js"]
             or b'function postGuideStream' not in guide_assets["guide.js"]):
         raise ValueError("Guide assets lack scoped opt-in continuity or SSE")
-    return files, item, site_page, case_page, magazine_page, annexes_page, guide_assets
-
-
-def new_homepage(old):
-    marker = '<a href="en-preparation.html">le numéro en préparation</a>'
-    if marker in old:
-        old = old.replace(
-            marker,
-            '<a href="candidate.html">le Livre en préparation (HTML)</a> '
-            '· <a href="candidate.pdf">PDF</a> '
-            '· <a href="candidate.epub">EPUB</a>',
-            1,
-        )
-    elif 'href="candidate.html"' not in old:
-        raise ValueError("Cannot locate existing homepage working edition link")
-    return old
+    homepage_assets = {
+        name: git_blob(repo, revision, "projects/capable/site/" + name)
+        for name in HOMEPAGE_ASSETS
+    }
+    if (b'Libert' not in homepage_assets["index.html"] or
+            b'href="marche/"' not in homepage_assets["index.html"] or
+            b'id="prompt"' not in homepage_assets["assistants.html"] or
+            b'La Marche du Soleil' not in homepage_assets["marche/index.html"]):
+        raise ValueError("Homepage assets lack expected orientation paths")
+    return files, item, site_page, case_page, magazine_page, annexes_page, guide_assets, homepage_assets
 
 
 def localize_site_page(page):
@@ -149,7 +144,7 @@ def perform(repo, site_root, revision, apply):
     ).strip()
     if ref != revision:
         raise ValueError("origin/main advanced; refresh and retry")
-    files, item, site_page, case_page, magazine_page, annexes_page, guide_assets = read_candidate(repo, revision)
+    files, item, site_page, case_page, magazine_page, annexes_page, guide_assets, homepage_assets = read_candidate(repo, revision)
     resolved = site_root.resolve()
     releases = resolved / "releases"
     current = resolved / "current"
@@ -160,8 +155,6 @@ def perform(repo, site_root, revision, apply):
         raise ValueError("Current release resolves outside releases directory")
     if not (existing / "book.html").is_file():
         raise ValueError("Current frozen/durable book is missing")
-    base_home = (existing / "index.html").read_text(encoding="utf-8")
-    new_home = new_homepage(base_home)
     new_page = localize_site_page(site_page)
     durable_hashes = {
         name: digest((existing / name).read_bytes())
@@ -171,8 +164,9 @@ def perform(repo, site_root, revision, apply):
         files["capable.html"] + files["capable.pdf"] +
         files["capable.epub"] + new_page.encode("utf-8") +
         case_page.encode("utf-8") + magazine_page.encode("utf-8") +
-        annexes_page.encode("utf-8") + new_home.encode("utf-8") +
+        annexes_page.encode("utf-8") +
         b"".join(guide_assets[name] for name in GUIDE_ASSETS) +
+        b"".join(homepage_assets[name] for name in HOMEPAGE_ASSETS) +
         "".join(durable_hashes.values()).encode("ascii")
     )[:16]
     dest = releases / f"capable-work-{version}"
@@ -188,6 +182,7 @@ def perform(repo, site_root, revision, apply):
         "magazine_page_sha256": digest(magazine_page.encode("utf-8")),
         "annexes_page_sha256": digest(annexes_page.encode("utf-8")),
         "guide_assets_sha256": {name: digest(guide_assets[name]) for name in GUIDE_ASSETS},
+        "homepage_assets_sha256": {name: digest(homepage_assets[name]) for name in HOMEPAGE_ASSETS},
         "files": {name: digest(files[name]) for name in PREVIEW},
     }
     if not apply:
@@ -235,7 +230,10 @@ def perform(repo, site_root, revision, apply):
                 (staging / "annexes.html").write_text(
                     annexes_page, encoding="utf-8"
                 )
-                (staging / "index.html").write_text(new_home, encoding="utf-8")
+                for name in HOMEPAGE_ASSETS:
+                    destination = staging / name
+                    destination.parent.mkdir(parents=True, exist_ok=True)
+                    destination.write_bytes(homepage_assets[name])
                 for name in GUIDE_ASSETS:
                     (staging / name).write_bytes(guide_assets[name])
                 (staging / "candidate-deploy.json").write_text(

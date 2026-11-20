@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Avec mon IA — Capable</title>
+<meta name="description" content="Vous utilisez déjà un assistant ? Emportez une introduction sourcée à Capable dans votre conversation habituelle. Le Guide Capable reste disponible, mais n&#x27;est pas un passage obligé.">
+<link rel="canonical" href="https://capable.acorsica.org/assistants.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Avec mon IA — Capable">
+<meta property="og:description" content="Vous utilisez déjà un assistant ? Emportez une introduction sourcée à Capable dans votre conversation habituelle. Le Guide Capable reste disponible, mais n&#x27;est pas un passage obligé.">
+<meta property="og:url" content="https://capable.acorsica.org/assistants.html">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="homepage.css">
+</head>
+<body class="capable-landing">
+<a class="skip" href="#contenu">Aller au contenu principal</a>
+<header class="site landing-nav">
+ <p class="mark"><a href="index.html">Capable</a></p>
+ <nav aria-label="Navigation principale"><a href="index.html">Accueil</a><a href="marche/">La Marche</a><a href="guide.html">Guide</a><a href="book.html">Le Livre</a></nav>
+</header>
+<main id="contenu" class="landing-main">
+<section class="inner-page">
+ <p class="eyebrow">DÉMOCRATIE ASSISTÉE PAR ORDINATEUR</p>
+ <h1>Votre IA, votre parcours, votre jugement</h1><p class="hero-lead">Vous utilisez déjà un assistant ? Emportez une introduction sourcée à Capable dans votre conversation habituelle. Le Guide Capable reste disponible, mais n&#x27;est pas un passage obligé.</p>
+ <ol class="steps"><li>Choisissez l'assistant que vous utilisez habituellement.</li>
+ <li>Copiez ce contexte dans votre conversation.</li>
+ <li>Choisissez votre question, demandez des sources et faites-vous votre propre opinion.</li></ol>
+ <div class="provider-list"><a class="provider-link" href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">ChatGPT<span aria-hidden="true"> ↗</span></a><a class="provider-link" href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude<span aria-hidden="true"> ↗</span></a><a class="provider-link" href="https://grok.com/" target="_blank" rel="noopener noreferrer">Grok<span aria-hidden="true"> ↗</span></a><a class="provider-link" href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer">Gemini<span aria-hidden="true"> ↗</span></a><a class="provider-link" href="#contexte">Autre assistant</a></div>
+ <div id="contexte" class="prompt-panel">
+ <label for="prompt">Contexte à transmettre à votre assistant</label>
+ <textarea id="prompt" rows="17" readonly>Je souhaite explorer le Mouvement Capable et la notion de Démocratie Assistée par Ordinateur (DAO). Je reste souverain : l&#x27;IA m&#x27;aide à comprendre, examiner, contredire et décider, mais ne décide pas à ma place.
+
+Point de départ : https://capable.acorsica.org/
+Présentation du projet : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine.md
+La Marche du Soleil : https://capable.acorsica.org/marche/
+Sources de la Marche : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md
+
+Si tu peux consulter ces pages, commence par les lire ; sinon, demande-moi de coller les passages utiles. Distingue les faits documentés, les intentions, les propositions et les inconnues. Cherche des arguments contraires et des alternatives. Ne suppose ni présentation d&#x27;élu déjà acquise ni candidature officiellement validée.
+
+Commence par me proposer trois voies : (1) comprendre Capable, (2) examiner librement une proposition et ses objections, (3) découvrir la Marche du Soleil et envisager une contribution volontaire.</textarea>
+ <button type="button" class="action-primary copy-button" id="copy-prompt">Copier le contexte</button>
+ <span id="copy-status" role="status" aria-live="polite"></span>
+ <p class="prompt-help">Le texte peut aussi être sélectionné et copié manuellement. Aucun dialogue n'est transmis par ce site.</p>
+ </div>
+ <p class="reading-link">Vous préférez un dialogue sur place ? <a href="guide.html">Ouvrir le Guide Capable</a>. Ou <a href="index.html">retourner à l'accueil</a>.</p>
+</section>
+<script>
+(() => {
+  const button = document.getElementById('copy-prompt');
+  const box = document.getElementById('prompt');
+  const status = document.getElementById('copy-status');
+  button.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(box.value);
+      status.textContent = 'Contexte copié. Vous pouvez le coller dans votre assistant.';
+    } catch (_) {
+      box.focus(); box.select();
+      status.textContent = 'Texte sélectionné : copiez-le avec Ctrl+C (ou le menu du navigateur).';
+    }
+  });
+})();
+</script>
+</main>
+<footer class="landing-footer">
+ <p><strong>Capable</strong> · Le citoyen reste souverain. Les idées restent discutables.</p>
+ <p><a href="book.html">Le Livre</a> · <a href="n1.html">Numéro 1</a> · <a href="en-preparation.html">En préparation</a> · <a href="sources.html">Sources</a> · <a href="contribuer.html">Contribuer</a> · <a href="mentions.html">Mentions</a></p>
+</footer>
+</body>
+</html>

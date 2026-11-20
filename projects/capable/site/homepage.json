@@ -1,0 +1,39 @@
+{
+  "schema": "living-book-homepage/v1",
+  "name": "Capable",
+  "canonical_base": "https://capable.acorsica.org",
+  "kicker": "MOUVEMENT CIVIQUE ET POLITIQUE",
+  "headline": "Liberté, Égalité, Fraternité — Chiche ?",
+  "lead": "Il ne suffit pas de proclamer des droits. Il faut donner à chacun les moyens réels de les exercer.",
+  "introduction": "Capable est un mouvement né en Corse et ouvert à tous. Il propose de juger les institutions à leurs effets, de rendre le pouvoir contrôlable par les citoyens et de corriger ce qui les empêche d'agir.",
+  "primary_action": {"label": "Découvrir la Marche du Soleil", "href": "marche/"},
+  "secondary_action": {"label": "Comprendre le mouvement", "href": "#comprendre"},
+  "focus": {
+    "eyebrow": "LE PROJET EN MOUVEMENT",
+    "title": "La Marche du Soleil",
+    "text": "Aller vers les habitants et les élus, découvrir ce qui fonctionne et ce qui empêche, chercher des solutions vérifiables. La démarche vise également à solliciter les présentations d'élus nécessaires à une candidature présidentielle en 2027.",
+    "action": {"label": "Entrer dans la Marche du Soleil", "href": "marche/"},
+    "source_url": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md"
+  },
+  "paths": [
+    {"number": "01", "title": "Avec mon assistant IA habituel", "description": "ChatGPT, Claude, Grok, Gemini ou autre : poursuivez avec l'outil que vous connaissez, à partir de sources vérifiables.", "label": "Explorer avec mon IA", "href": "assistants.html"},
+    {"number": "02", "title": "Avec le Guide Capable", "description": "Dialoguez avec le Guide du Livre Vivant pour interroger les idées, demander des sources et explorer des objections.", "label": "Interroger le Guide", "href": "guide.html"},
+    {"number": "03", "title": "En lecture libre", "description": "Lisez le Livre, consultez les numéros, les documents et les arguments contradictoires à votre rythme.", "label": "Ouvrir le Livre", "href": "book.html"}
+  ],
+  "principles": [
+    {"title": "Citoyen souverain", "text": "Les décisions politiques appartiennent aux citoyens. Un outil ne devient pas souverain parce qu'il est intelligent."},
+    {"title": "IA au service de la capacité", "text": "Une IA bien utilisée peut aider à comprendre, comparer, formuler une proposition ou détecter un obstacle."},
+    {"title": "Preuves et correction", "text": "Une proposition doit rester discutable. Un pouvoir doit être contrôlable, et ses effets corrigibles."}
+  ],
+  "assistant": {
+    "headline": "Votre IA, votre parcours, votre jugement",
+    "lead": "Vous utilisez déjà un assistant ? Emportez une introduction sourcée à Capable dans votre conversation habituelle. Le Guide Capable reste disponible, mais n'est pas un passage obligé.",
+    "providers": [
+      {"label": "ChatGPT", "href": "https://chatgpt.com/"},
+      {"label": "Claude", "href": "https://claude.ai/"},
+      {"label": "Grok", "href": "https://grok.com/"},
+      {"label": "Gemini", "href": "https://gemini.google.com/"}
+    ],
+    "prompt": "Je souhaite explorer le Mouvement Capable et la notion de Démocratie Assistée par Ordinateur (DAO). Je reste souverain : l'IA m'aide à comprendre, examiner, contredire et décider, mais ne décide pas à ma place.\n\nPoint de départ : https://capable.acorsica.org/\nPrésentation du projet : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine.md\nLa Marche du Soleil : https://capable.acorsica.org/marche/\nSources de la Marche : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md\n\nSi tu peux consulter ces pages, commence par les lire ; sinon, demande-moi de coller les passages utiles. Distingue les faits documentés, les intentions, les propositions et les inconnues. Cherche des arguments contraires et des alternatives. Ne suppose ni présentation d'élu déjà acquise ni candidature officiellement validée.\n\nCommence par me proposer trois voies : (1) comprendre Capable, (2) examiner librement une proposition et ses objections, (3) découvrir la Marche du Soleil et envisager une contribution volontaire."
+  }
+}
