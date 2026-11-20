@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "7c1de0060b6238739bc6cb309f29cdf5863fccdce685e01f9e522d363824d198",
+      "source_sha256": "58b2f8843240f59414918c16898379c04eec09492cf4daeac65c5f7a9f93297c",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -141,7 +141,7 @@
         },
         {
           "path": "projects/capable/doctrine/metaprogramme-politique-generatif.md",
-          "sha256": "9a35b499b5c7127c70bf878e599446f68598b6eef81f6f9d0cfb9542c411f7d9"
+          "sha256": "073ded1f0d6dbccf79c3ad89ffffc4a2c4893e6e0d00e7030e15d8c409eb8491"
         },
         {
           "path": "research/autonomia/grammaire_autonomie_de_capacite.md",
