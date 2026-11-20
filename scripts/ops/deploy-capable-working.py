@@ -23,7 +23,7 @@ PREFIX = "previews/en-preparation/"
 PREVIEW = ("capable.html", "capable.pdf", "capable.epub",
            "capable-formats.json", "manifest.json")
 GUIDE_ASSETS = ("guide.html", "guide.js")
-HOMEPAGE_ASSETS = ("index.html", "homepage.css", "assistants.html", "pacte.html", "marche/index.html")
+HOMEPAGE_ASSETS = ("index.html", "homepage.css", "assistants.html", "marche/index.html")
 
 
 def digest(data):

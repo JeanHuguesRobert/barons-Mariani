@@ -9,7 +9,7 @@ from urllib.parse import urlsplit
 
 REPO = Path(__file__).resolve().parents[2]
 SITE = REPO / "projects/capable/site"
-OUTPUTS = ["index.html", "assistants.html", "pacte.html", "marche/index.html"]
+OUTPUTS = ["index.html", "assistants.html", "marche/index.html"]
 RUNTIME = {"candidate.html"}
 
 
@@ -62,9 +62,8 @@ def main():
     assert 'href="marche/"' in (SITE / "index.html").read_text()
     assert 'href="guide.html"' in (SITE / "index.html").read_text()
     assert 'href="book.html"' in (SITE / "index.html").read_text()
-    assert 'href="pacte.html"' in (SITE / "index.html").read_text()
-    assert "Pacte Républicain" in (SITE / "pacte.html").read_text()
-    assert "Stabilisateur" in (SITE / "pacte.html").read_text()
+    assert 'href="en-preparation.html#pacte-20261120"' in (SITE / "index.html").read_text()
+    assert 'id="pacte-20261120"' in (SITE / "en-preparation.html").read_text()
     assert "navigator.clipboard" in (SITE / "assistants.html").read_text()
     assert "role=\"status\"" in (SITE / "assistants.html").read_text()
     print("LIVING_BOOK_HOMEPAGE_TEST_PASS")

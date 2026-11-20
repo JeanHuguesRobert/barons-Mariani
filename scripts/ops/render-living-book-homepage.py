@@ -96,7 +96,7 @@ def home(cfg):
 <section class="focus-panel" id="pacte" aria-labelledby="pacte-title">
  <div><p class="eyebrow">{e(cfg["pacte"]["eyebrow"])}</p><h2 id="pacte-title">{e(cfg["pacte"]["title"])}</h2>
  <p>{e(cfg["pacte"]["lead"])}</p></div>
- <div class="focus-actions"><a class="action-primary" href="pacte.html">Comprendre le Pacte Républicain<span aria-hidden="true"> ↗</span></a>
+ <div class="focus-actions"><a class="action-primary" href="en-preparation.html#pacte-20261120">Comprendre le Pacte Républicain<span aria-hidden="true"> ↗</span></a>
  <a class="subtle-link" href="{href(cfg["pacte"]["source_url"])}">Lire la source doctrinale</a></div>
 </section>
 <section class="focus-panel" id="marche" aria-labelledby="marche-title">
@@ -119,7 +119,7 @@ def home(cfg):
 </section>
 '''
     nav = [("Accueil", "index.html"), ("La Marche", "marche/"), ("Avec mon IA", "assistants.html"),
-           ("Guide", "guide.html"), ("Le Pacte", "pacte.html"), ("Le Livre", "book.html"), ("Sources", "sources.html")]
+           ("Guide", "guide.html"), ("Le Pacte", "en-preparation.html#pacte-20261120"), ("Le Livre", "book.html"), ("Sources", "sources.html")]
     community = cfg.get("community", {})
     if community.get("enabled"):
         nav.append((community.get("label", "Discord"), community["url"]))
@@ -194,35 +194,6 @@ def marche(cfg):
     return layout("La Marche du Soleil — " + cfg["name"], focus["text"], cfg["canonical_base"] + "/marche/", body, nav, prefix="../")
 
 
-def pacte(cfg):
-    p = cfg["pacte"]
-    columns = "".join(
-        f'<article><h3>{e(item["title"])}</h3><p>{e(item["text"])}</p></article>'
-        for item in p["principles"]
-    )
-    body = f'''
-<section class="inner-page">
- <p class="eyebrow">{e(p["eyebrow"])}</p>
- <h1>{e(p["title"])}</h1><p class="hero-lead">{e(p["lead"])}</p>
- <div class="principle-grid">{columns}</div>
- <h2>Révélateur et Stabilisateur procédural</h2>
- <p><strong>Révélateur :</strong> {e(p["revelateur"])}</p>
- <p><strong>Stabilisateur :</strong> {e(p["stabilisateur"])}</p>
- <h2>Traduction constitutionnelle</h2>
- <p>{e(p["norme"])}</p>
- <p>La proposition est un texte de travail : elle ne vaut ni révision adoptée ni droit actuellement en vigueur.</p>
- <p class="reading-link"><a href="{href(p["source_url"])}">Lire la doctrine intégrale du Pacte</a> ·
- <a href="{href(p["article_url"])}">Lire la proposition constitutionnelle</a> ·
- <a href="{href(p["history_url"])}">Histoire de la devise : état de recherche</a></p>
- <p class="reading-link"><a href="en-preparation.html">Lire l'édition du Livre Vivant en préparation</a>.</p>
-</section>
-'''
-    nav = [("Accueil", "index.html"), ("La Marche", "marche/"), ("Le Pacte", "pacte.html"),
-           ("Guide", "guide.html"), ("Le Livre", "book.html")]
-    return layout("Pacte Républicain d'Effectivité — " + cfg["name"],
-                  p["lead"], cfg["canonical_base"] + "/pacte.html", body, nav)
-
-
 def render(config_path):
     cfg = json.loads(config_path.read_text(encoding="utf-8"))
     if cfg.get("schema") != "living-book-homepage/v1":
@@ -233,7 +204,6 @@ def render(config_path):
     return {
         site / "index.html": home(cfg),
         site / "assistants.html": assistants(cfg),
-        site / "pacte.html": pacte(cfg),
         site / "marche" / "index.html": marche(cfg),
         site / "homepage.css": CSS.read_text(encoding="utf-8"),
     }
