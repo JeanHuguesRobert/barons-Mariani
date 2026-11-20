@@ -91,6 +91,18 @@ C'est un **pari**, non une assurance : si une première garantie constitutionnel
 
 Une élection présidentielle ne constitue pas juridiquement un mandat impératif donné aux députés, et l'article 89 impose l'accord des deux assemblées sur une révision. La stratégie repose donc sur la **conviction politique que le peuple peut devenir capable d'exiger et de défendre les changements désirés**, sans prétendre que cette conviction dispense de respecter les procédures constitutionnelles. Cette analyse politique ne modifie pas le texte de la [proposition de l'article 72](../doctrine/revision_constitutionnelle_article_72.md).
 
+## Une hypothèse institutionnelle à étapes distinctes
+
+Le [Pacte Républicain d'Effectivité](../doctrine/pacte-republicain-effectivite.md) permet de distinguer l'hypothèse politique de sa traduction juridique : un candidat pourrait reprendre la révision constitutionnelle, être élu, décider une dissolution selon les règles en vigueur, puis soumettre le texte à une nouvelle majorité parlementaire. **Ce scénario n'est pas une prédiction** : chaque élection et chaque vote demeure libre. L'adoption de la révision exige les votes identiques des deux chambres.
+
+La concession structurante à ce stade est de **conserver intégralement la maîtrise législative nationale**, afin de traiter un motif majeur d'opposition au précédent projet corse : les collectivités demandent des lois territorialement adaptées, mais ne les votent pas elles-mêmes. Si le régime était adopté, les expériences locales et leur contrôle d'effectivité pourraient ensuite alimenter des évolutions législatives communes.
+
+## La Marche ouverte et les convergences entre candidatures
+
+La [Marche du Soleil](../campaign/marche-du-soleil.md) permet à chaque participant de solliciter des élus pour **le candidat de son choix**. L'auteur propose en outre une **hypothèse de convergence volontaire** : comparer objectivement les promesses explicites de présentation, distinctes des parrainages validés, puis laisser les candidats décider d'éventuels désistements et soutiens publics.
+
+L'auteur souhaite qu'un soutien issu d'un désistement puisse être conditionné, par le candidat qui se retire, à l'engagement de reprendre sa [proposition constitutionnelle nationale du 12 novembre 2026](../doctrine/revision_constitutionnelle_article_72.md), associée au [Pacte Républicain d'Effectivité](../doctrine/pacte-republicain-effectivite.md). **Aucun transfert de promesses n'est automatique**, aucun candidat n'est déclaré avoir accepté un tel accord et la Marche reste indépendante d'une candidature particulière. Les critères probatoires figurent dans l'[Observatoire des Présentations](../campaign/observatoire-presentations-2027.md).
+
 ## Transparence sur les présentations
 
 La campagne doit appliquer à ses propres nombres le même standard qu'aux autres candidatures.

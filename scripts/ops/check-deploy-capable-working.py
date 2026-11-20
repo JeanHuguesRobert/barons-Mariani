@@ -69,9 +69,10 @@ def main():
             active / "en-preparation.html"
         ).read_text(encoding="utf-8")
         receipt = json.loads((active / "candidate-deploy.json").read_text())
-        for name in ("index.html", "homepage.css", "assistants.html", "marche/index.html"):
+        for name in ("index.html", "homepage.css", "assistants.html", "pacte.html", "marche/index.html"):
             payload = (active / name).read_bytes()
             assert receipt["homepage_assets_sha256"][name] == hashlib.sha256(payload).hexdigest()
+        assert b"Stabilisateur" in (active / "pacte.html").read_bytes()
         assert b'href="marche/"' in (active / "index.html").read_bytes()
         assert b'Votre IA' in (active / "assistants.html").read_bytes()
         assert b'Le parcours participatif est en construction' in (

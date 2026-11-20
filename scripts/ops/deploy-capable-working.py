@@ -23,7 +23,7 @@ PREFIX = "previews/en-preparation/"
 PREVIEW = ("capable.html", "capable.pdf", "capable.epub",
            "capable-formats.json", "manifest.json")
 GUIDE_ASSETS = ("guide.html", "guide.js")
-HOMEPAGE_ASSETS = ("index.html", "homepage.css", "assistants.html", "marche/index.html")
+HOMEPAGE_ASSETS = ("index.html", "homepage.css", "assistants.html", "pacte.html", "marche/index.html")
 
 
 def digest(data):
@@ -53,7 +53,7 @@ def read_candidate(repo, revision):
             raise ValueError(f"Stale source in preview: {source['path']}")
     html = files["capable.html"].decode("utf-8")
     if not ("Les collectivités territoriales ont droit aux adaptations" in html
-            and "13 novembre 2026" in html):
+            and "Pacte Républicain d&#x27;Effectivité" in html):
         raise ValueError("Article 72 candidate not found in HTML")
     opening = html.find("Livre — 00-ouverture")
     note = html.find("Note de composition du numéro")

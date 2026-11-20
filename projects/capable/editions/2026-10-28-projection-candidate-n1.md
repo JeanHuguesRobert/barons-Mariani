@@ -13,14 +13,17 @@ document_kind: living-book-edition-candidate
 visibility: public
 lifecycle_state: working
 language: fr
-source_as_of: "2026-11-13"
-last_modified_at: "2026-11-13"
+source_as_of: "2026-11-20"
+last_modified_at: "2026-11-20"
 source_documents:
   - "projects/capable/manuscript/README.md"
   - "projects/capable/magazine/README.md"
   - "projects/capable/editions/2026-10-09-en-preparation.md"
   - "projects/capable/editorial/plan-premier-numero-2026-10-28.md"
   - "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
+  - "projects/capable/doctrine/pacte-republicain-effectivite.md"
+  - "research/devise_republicaine/etat_chantier_2026-11-20.md"
+  - "projects/capable/magazine/2026-11-20-pacte-republicain-effectivite.md"
   - "projects/capable/doctrine/metaprogramme-politique-generatif.md"
   - "research/autonomia/grammaire_autonomie_de_capacite.md"
   - "projects/capable/research/2026-11-13-identites-polarisation-et-agenda-politique.md"
@@ -53,6 +56,16 @@ review:
 # Capable — premier numéro, projection candidate de travail
 
 **État : en préparation — non gelé, non validé comme édition finale.** Ce document est le **plan de composition et de navigation vérifiable** vers les sources existantes. Sa projection publique de travail est désormais disponible en HTML, PDF et EPUB ; elle reste évolutive, non gelée, et ne remplace aucune édition définitive. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
+
+## Complément du 20 novembre 2026 — Marche du Soleil et coordination possible
+
+Le dispositif reste **ouvert à toutes les candidatures** : chaque marcheur choisit librement le candidat qu'il souhaite soutenir. L'[hypothèse de désistements volontaires conditionnés à un engagement constitutionnel](../campaign/marche-du-soleil.md) est nouvelle, distincte d'accords réellement conclus ; la comparaison repose exclusivement sur des promesses explicites et traçables, sans les présenter comme des présentations officiellement établies. Voir les [catégories de preuve de l'Observatoire](../campaign/observatoire-presentations-2027.md).
+
+## Nouvelle actualisation du 20 novembre 2026 — Pacte Républicain d'Effectivité
+
+**Statut : toujours en préparation, non gelé.** La nouvelle formulation [Pacte Républicain d'Effectivité](../doctrine/pacte-republicain-effectivite.md) articule l'Autonomie de Capacité avec les trois matières de la devise, le Révélateur, le Stabilisateur procédural et l'apprentissage à partir des résultats. Elle n'altère pas l'article unique de la [proposition de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md).
+
+La [chronique datée](../magazine/2026-11-20-pacte-republicain-effectivite.md) rend lisible le passage de Corte vers une proposition nationale, la concession du pouvoir législatif local et la distinction entre hypothèse électorale et décision constitutionnelle. Le [point documentaire sur l'Histoire de la devise](../../../research/devise_republicaine/etat_chantier_2026-11-20.md) conserve la v2.5 et les audits existants, identifie les vérifications encore ouvertes et précise pourquoi l'intégration de la nouvelle doctrine au Livre n'est pas une nouvelle version scientifique du manuscrit historique.
 
 ## Convergence éditoriale approuvée — 13 novembre 2026 : recherches nouvelles et contrôle démocratique
 

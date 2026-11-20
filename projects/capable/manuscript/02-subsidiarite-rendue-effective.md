@@ -88,6 +88,12 @@ Le Parlement continuerait à faire la loi. Mais les autorités publiques ne pour
 
 L'adaptation servirait autant à surmonter une difficulté locale qu'à mettre en valeur une capacité propre à un territoire. Elle pourrait ensuite éclairer des solutions ailleurs. Cette **agilité républicaine** demeure une proposition à éprouver : le texte n'assure pas, à lui seul, tous les moyens financiers nécessaires ni le vote d'une adaptation législative.
 
+## Le compromis constitutionnel qui change le terrain du débat
+
+Dans le [Pacte Républicain d'Effectivité](../doctrine/pacte-republicain-effectivite.md), le choix est délibéré : **renoncer à un législateur régional concurrent sans renoncer à des adaptations territoriales de la loi nationale**. Cette dissociation préserve le pouvoir législatif du Parlement et ouvre une possibilité d'apprentissage à partir de demandes formulées localement.
+
+L'hypothèse politique est que ce choix peut retirer un motif important d'opposition au Sénat après le rejet du projet corse d'article 72-5 le 26 octobre 2026. Il ne supprime pas l'exigence d'un vote sénatorial conforme sur toute révision constitutionnelle. Les députés conservent leur liberté de voter les adaptations ; les résultats observés peuvent alimenter une convergence ascendante sans imposer automatiquement de loi nationale.
+
 ## De Rousseau au débat corse : une application, pas une preuve historique
 
 Dans *Du contrat social* (1762, II, X), Rousseau écrit de la Corse : « J'ai quelque pressentiment qu'un jour cette petite Isle étonnera l'Europe. » Il la présente alors comme un pays « capable de législation ». L'étymologie d'*autonomie* (*autós*, soi-même ; *nómos*, loi) rend sensible la question contemporaine : comment un territoire peut-il participer à la définition des règles qui le gouvernent ? Ce rapprochement éclaire le débat, **sans attribuer à Rousseau notre conception juridique contemporaine de l'autonomie**.

@@ -4,7 +4,7 @@ description: "Working paper définissant la Marche du Soleil comme dispositif te
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-11-13"
+last_modified_at: "2026-11-20"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -57,6 +57,19 @@ La [Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) 
 Le suivi des contacts et des déclarations renvoie à l'[Observatoire des Présentations 2027](observatoire-presentations-2027.md) : `contact ≠ intérêt ≠ promesse ≠ présentation transmise ≠ présentation officiellement établie`. La présentation demeure un acte personnel et libre de l'élu habilité ; aucun objet ni mécanisme de traçage ne doit conditionner cette liberté. Appliquer consentement, minimisation et séparation entre traces publiques et données privées.
 
 **Reality Test minimal envisagé** : lors d'une étape effectivement réalisée, documenter une rencontre autorisée, l'éventuelle remise volontaire d'un exemplaire singulier identifié de *Capable*, la mission acceptée, une trace de retour ou un `UNKNOWN`, puis une prochaine action. Ne compter une présentation qu'à son stade probatoire propre ; ne pas confondre ce protocole projeté avec son exécution.
+
+
+## Hypothèse de convergence volontaire des candidatures — 20 novembre 2026
+
+**Orientation proposée par l'auteur, non accord conclu entre candidats.** La Marche du Soleil demeure ouverte : chaque marcheur peut soutenir **le candidat de son choix**. Elle peut néanmoins contribuer à rendre visibles, pour les différentes candidatures, les **promesses explicites de présentation** obtenues et vérifiées selon les mêmes critères.
+
+L'auteur envisage qu'à un moment déterminé, des candidats disposant objectivement de moins de promesses documentées choisissent **librement de se désister** et d'apporter leur soutien à d'autres candidatures mieux pourvues. Il souhaiterait qu'un tel soutien soit, si les intéressés en conviennent, **conditionné à un engagement public de reprendre la proposition constitutionnelle « Baron Mariani »**, entendue ici comme la [proposition nationale Capable de révision de l'article 72 du 12 novembre 2026](../doctrine/revision_constitutionnelle_article_72.md), associée au [Pacte Républicain d'Effectivité](../doctrine/pacte-republicain-effectivite.md). **Ne pas la confondre** avec l'amendement historique dit « Baron Mariani » au projet corse de l'article 72-5.
+
+Pour que la comparaison ait un sens, l'[Observatoire des Présentations 2027](observatoire-presentations-2027.md) doit isoler les promesses explicites nominatives des simples intentions, publier une méthode commune et les sources publiables, signaler les doublons, les corrections, les contestations et les inconnues. Une promesse déclarée n'est **ni une présentation envoyée ni une présentation officiellement validée**. Il n'existe pas de transfert automatique de promesses d'une candidature à une autre : les élus concernés conservent leur entière liberté.
+
+Le désistement, le soutien et l'adhésion au projet constitutionnel sont **trois décisions distinctes des candidats**. Un éventuel engagement politique doit être attribué, daté, public et vérifiable, sans présumer qu'il sera donné ou honoré. Aucune comparaison de promesses ne saurait être présentée comme un pronostic électoral ou imposer une convergence.
+
+Ce mécanisme envisagé se distingue de la collecte citoyenne des besoins d'Autonomie de Capacité : la Marche n'est subordonnée à aucun candidat, à aucun accord de désistement et à aucune adhésion au Pacte.
 
 ## Objet textile circulant — piste complémentaire, non acte électoral
 

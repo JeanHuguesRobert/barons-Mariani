@@ -34,13 +34,13 @@ provenance:
 
 **Accéder au Livre Vivant :** [Capable — site public](https://capable.acorsica.org/).
 
-**Nouvelle version publique « en préparation » (13 novembre 2026, non gelée, 27 sources) :**
+**Nouvelle version publique « en préparation » (20 novembre 2026, non gelée, 42 sources) :**
 [Lire la version HTML en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) ·
 [Télécharger le PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf) ·
 [Télécharger l'EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) ·
-[Consulter l'empreinte et les 27 sources](../../previews/en-preparation/manifest.json).
+[Consulter les empreintes et les 42 sources](../../previews/en-preparation/manifest.json).
 
-Cette version est distincte du Livre durable actuellement servi par le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Elle comprend désormais [l’enquête centrale sur l’agenda politique](magazine/2026-11-13-qui-choisit-agenda-politique.md), [l’étude sur l’IA et la contradiction](magazine/2026-11-13-ia-contradiction-et-autonomie.md), [l’encadré Bleu de Chine](magazine/2026-11-13-bleu-de-chine-appartenances.md) et [l’annexe de provenance et d’objections](annexes/2026-11-13-recherches-decisions-et-objections.md). Les fichiers HTML/PDF/EPUB ci-dessus sont **des prévisualisations publiques**, pas une édition gelée.
+Cette version est distincte du Livre durable actuellement servi par le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Elle intègre aussi le [Pacte Républicain d'Effectivité](doctrine/pacte-republicain-effectivite.md), la [chronique datée du 20 novembre](magazine/2026-11-20-pacte-republicain-effectivite.md), le [bilan documentaire de l'Histoire de la devise](../../research/devise_republicaine/etat_chantier_2026-11-20.md) et l'[hypothèse de convergence volontaire des candidatures dans la Marche du Soleil](campaign/marche-du-soleil.md). Elle comprend désormais [l’enquête centrale sur l’agenda politique](magazine/2026-11-13-qui-choisit-agenda-politique.md), [l’étude sur l’IA et la contradiction](magazine/2026-11-13-ia-contradiction-et-autonomie.md), [l’encadré Bleu de Chine](magazine/2026-11-13-bleu-de-chine-appartenances.md) et [l’annexe de provenance et d’objections](annexes/2026-11-13-recherches-decisions-et-objections.md). Les fichiers HTML/PDF/EPUB ci-dessus sont **des prévisualisations publiques**, pas une édition gelée.
 
 
 
@@ -53,6 +53,10 @@ Le volet **programmatique** de Capable ne se limite pas à une liste de mesures 
 Cette méthode ne remplace ni le choix démocratique ni les engagements expressément validés d'un mouvement ou d'une candidature. Elle doit aussi savoir déclarer une proposition non fondée, incompatible avec les droits fondamentaux ou insuffisamment éprouvée. Les activités doctrinales ouvertes demeurent distinctes de la candidature personnelle.
 
 ➡️ [Métaprogramme politique génératif — formalisation de travail du 11 novembre 2026](doctrine/metaprogramme-politique-generatif.md).
+
+## Pacte Républicain d'Effectivité — formulation retenue le 20 novembre 2026
+
+**Liberté, Égalité, Fraternité. Pour de vrai.** La nouvelle [note canonique](doctrine/pacte-republicain-effectivite.md) articule Autonomie de Capacité dans les trois matières de la devise, Révélateur des demandes et capacités latentes, Stabilisateur procédural avant, pendant et après l'application, et confrontation au Réel. La [proposition normative de révision de l'article 72](doctrine/revision_constitutionnelle_article_72.md) conserve **sans modification son article unique** et le monopole de la loi nationale par le Parlement.
 
 ## République et effectivité — proposition institutionnelle
 

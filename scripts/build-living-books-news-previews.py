@@ -37,6 +37,7 @@ BOOKS = {
             "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md",
             "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md",
             "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md",
+            "projects/capable/magazine/2026-11-20-pacte-republicain-effectivite.md",
             "projects/capable/magazine/2026-10-05-epreuve-de-l-effectivite.md",
             "projects/capable/magazine/historique/2026-10-02-n1-lancement-campagne-presidentielle.md",
             "projects/capable/magazine/historique/2026-10-05-jalon-p1-p18-matrice-eim.md",
@@ -55,6 +56,10 @@ BOOKS = {
             "projects/capable/annexes/2026-10-28-dossiers-a5-a8.md",
             # Public, unfreezed normative/doctrinal sources of the November candidate.
             "projects/capable/doctrine/revision_constitutionnelle_article_72.md",
+            "projects/capable/doctrine/pacte-republicain-effectivite.md",
+            "research/devise_republicaine/etat_chantier_2026-11-20.md",
+            "projects/capable/campaign/marche-du-soleil.md",
+            "projects/capable/campaign/observatoire-presentations-2027.md",
             "projects/capable/doctrine/metaprogramme-politique-generatif.md",
             "research/autonomia/grammaire_autonomie_de_capacite.md",
             "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md",
@@ -219,7 +224,7 @@ def main():
         body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
         if name == "capable":
             proposal = "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
-            body += ("<p><strong>Actualisation du 13 novembre 2026.</strong> "
+            body += ("<p><strong>Actualisation du 20 novembre 2026.</strong> "
                      f"Cette version réunit le Livre, le Magazine et les annexes ({len(paths)} sources). "
                      "<a href='#" + source_anchor(proposal) +
                      "'>Lire la proposition constitutionnelle nationale de révision de l'article 72</a> "

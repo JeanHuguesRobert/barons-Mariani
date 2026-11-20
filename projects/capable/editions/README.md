@@ -15,11 +15,13 @@ dans la version en préparation pour préserver leur substance et permettre
 la contradiction. Le registre actuel conserve la séparation entre
 projections de travail et éditions formellement gelées.
 
-## Dernière version consultable — 13 novembre 2026
+## Dernière version consultable — 20 novembre 2026
 
-La [candidate Capable n°1](2026-10-28-projection-candidate-n1.md) a été actualisée au 13 novembre. La Factory produit une [projection HTML consultable en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html), un [PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf), un [EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) et leurs [empreintes vérifiables](../../../previews/en-preparation/capable-formats.json). Ils sont **en préparation — non gelés**, distincts du Livre durable hébergé sur le site.
+La [candidate Capable n°1](2026-10-28-projection-candidate-n1.md) a été actualisée au 20 novembre. La Factory produit une [projection HTML consultable en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html), un [PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf), un [EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) et leurs [empreintes vérifiables](../../../previews/en-preparation/capable-formats.json). Ils sont **en préparation — non gelés**, distincts du Livre durable hébergé sur le site.
 
-Les formats dérivent du **même HTML**, lui-même assemblé depuis les 27 sources identifiées dans le [manifeste](../../../previews/en-preparation/manifest.json). La conversion est implémentée par [l'adaptateur de formats](../../../scripts/build-living-books-working-formats.py), sans second compositeur doctrinal. La publication directe sur GitHub ne vaut pas déploiement de l'URL `/candidate.html` sur Fracta2.
+Les formats dérivent du **même HTML**, lui-même assemblé depuis les sources identifiées dans le [manifeste](../../../previews/en-preparation/manifest.json). La conversion est implémentée par [l'adaptateur de formats](../../../scripts/build-living-books-working-formats.py), sans second compositeur doctrinal. La publication directe sur GitHub ne vaut pas déploiement de l'URL `/candidate.html` sur Fracta2.
+
+Le numéro inclut désormais le [Pacte Républicain d'Effectivité](../doctrine/pacte-republicain-effectivite.md), la [chronique du 20 novembre](../magazine/2026-11-20-pacte-republicain-effectivite.md), le [point d'état de l'Histoire de la devise](../../../research/devise_republicaine/etat_chantier_2026-11-20.md) et la nouvelle [hypothèse de convergence volontaire des candidatures](../campaign/marche-du-soleil.md).
 
 Le fichier [workflow GitHub Actions](../../../.github/workflows/living-books-news-previews.yml) déclenche sur les changements apportés à l'Observatoire de l'autonomie ou aux plans d'éditions de **Capable**, **Suicide Corse** et **1755**.
 

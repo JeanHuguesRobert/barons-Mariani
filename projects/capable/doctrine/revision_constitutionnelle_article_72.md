@@ -98,6 +98,12 @@ Les obstacles substantiels constatés doivent provoquer un réexamen motivé par
 
 L'objectif n'est pas de garantir que toute demande soit acceptée, mais d'empêcher que les exigences constitutionnelles d'autonomie territoriale puissent être neutralisées par une absence d'examen, un refus injustifié ou une indifférence durable aux résultats constatés.
 
+## Pacte Républicain d'Effectivité — articulation doctrinale du 20 novembre 2026
+
+La présente proposition constitue une première traduction juridique du [Pacte Républicain d'Effectivité](pacte-republicain-effectivite.md) : la demande d'adaptation révèle un obstacle ou une capacité territoriale, tandis que l'instruction contradictoire, la publicité des décisions et l'évaluation des effets constituent des éléments du **Stabilisateur procédural**.
+
+Cette lecture distingue le contrôle **avant** l'application (finalités et effets attendus), **pendant** (suivi des résultats et des contestations) et **après** (bilan, réexamen, correction éventuelle). Le détail serait à organiser par la loi organique et les dispositifs applicables. **Cette note d'interprétation ne modifie aucun mot de l'article unique proposé le 12 novembre 2026**, ni la prérogative du Parlement de légiférer.
+
 ## Accroître la capacité d'adaptation de la République
 
 La République doit garantir l'unité des droits sans imposer l'uniformité des solutions lorsque celle-ci n'est pas nécessaire.

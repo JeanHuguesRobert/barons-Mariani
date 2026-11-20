@@ -4,7 +4,7 @@ description: "Working paper définissant un observatoire public et traçable des
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
+last_modified_at: "2026-11-20"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -125,6 +125,14 @@ L'objectif n'est pas de produire un « score de sincérité », mais de permettr
 - ce qui a été sourcé ;
 - ce qui s'est matérialisé ;
 - ce qui reste inexpliqué.
+
+## Comparer les promesses sans les transformer en résultats — 20 novembre 2026
+
+L'orientation nouvelle de la [Marche du Soleil](marche-du-soleil.md) propose d'utiliser les **promesses explicites documentées** comme un indicateur de discussion possible entre plusieurs candidatures, susceptible d'éclairer d'éventuels **désistements volontaires**. Cet usage n'altère ni l'Observatoire, ni sa symétrie entre candidats, ni les catégories P0–P6.
+
+Une comparaison publique doit préciser la date d'arrêté, l'identité du candidat concerné, les règles de dédoublonnage des engagements et le degré de vérification des sources publiables. Les refus de publication de données personnelles ne sont pas des promesses inexistantes : leur état est simplement non vérifiable publiquement. Les comptes observés ne sont ni des intentions de vote des citoyens ni des parrainages certifiés.
+
+L'Observatoire ne recommande aucun désistement et n'infère aucune adhésion à la [proposition de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md). Un candidat peut choisir d'annoncer, de conditionner ou de refuser son soutien ; de telles déclarations seraient documentées dans des traces séparées. Les élus restent libres de leurs actes de présentation.
 
 ## Produits possibles
 

@@ -71,6 +71,12 @@ La fraternité effective vise le non-abandon capacitaire évitable : rendre une 
 
 > **Ne pas abandonner ne signifie pas faire à la place.**
 
+## Un Pacte, trois matières, une épreuve continue
+
+Le nom **Pacte Républicain d'Effectivité** désigne une exigence commune aux trois axes : de quoi les personnes et les territoires sont-ils réellement capables, et que faut-il changer pour étendre ces capacités sans en détruire d'autres ?
+
+Le [Révélateur et le Stabilisateur procédural](../doctrine/pacte-republicain-effectivite.md) s'articulent dans cet ordre : **rendre visibles les capacités empêchées**, puis **tester les conséquences sur la liberté, l'égalité et la fraternité avant, pendant et après l'application** d'une règle. Une mesure acceptée à l'issue du débat ne vaut pas encore preuve d'effectivité : ses effets sont à confronter au Réel.
+
 ## Des principes que l'on puisse exercer — et corriger
 
 Une jeune personne peut avoir le droit de se loger sans trouver de logement accessible. Un village peut vouloir produire son énergie sans disposer de toutes les compétences ou ressources nécessaires. Une personne âgée peut souhaiter changer d'activité sans trouver de parcours praticable. La République ne saurait promettre que chaque désir sera satisfait ; elle peut en revanche se demander **ce qui empêche réellement d'exercer des libertés proclamées**, si cet empêchement est justifié et quels moyens légitimes permettraient de le lever.

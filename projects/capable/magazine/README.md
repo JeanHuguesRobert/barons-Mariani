@@ -28,6 +28,12 @@ déploiement ; les chroniques plus récentes portent les états actuels.
 
 
 
+## Actualisation du 20 novembre 2026 — Pacte Républicain d'Effectivité
+
+La [chronique « De Corte à toute la République »](2026-11-20-pacte-republicain-effectivite.md) introduit le nom retenu pour le Pacte, l'Autonomie de Capacité comme examen des trois matières de la devise, le Révélateur, le Stabilisateur procédural et le droit commun à l'adaptation territoriale sans législateur local concurrent.
+
+La [Marche du Soleil](../campaign/marche-du-soleil.md) conserve le libre choix de chaque marcheur et documente désormais une hypothèse de **convergence volontaire de candidats** à partir des promesses de présentation tracées, avec éventuel engagement sur la proposition constitutionnelle. Aucune candidature n'est présumée désistée ou engagée.
+
 ## Enquêtes et études du 13 novembre 2026 — version ouverte
 
 - **Enquête centrale — agenda démocratique.** [Qui choisit les sujets de la politique ?](2026-11-13-qui-choisit-agenda-politique.md) : distinguer les priorités souhaitées, les anticipations de campagne, la saillance effectivement observée et les décisions sous mandat. Tableau primaire Ipsos vérifié, aucune intention politique non démontrée imputée.

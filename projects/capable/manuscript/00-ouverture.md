@@ -1,9 +1,10 @@
 ---
 title: "Ouverture — De quoi voulons-nous être capables ?"
 author: "Jean Hugues Noël Robert"
+affiliation: "Mouvement Capable"
 date: "2026-10-03"
-last_modified_at: "2026-11-17"
-status: "working-draft"
+last_modified_at: "2026-11-20"
+status: "draft"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
@@ -12,7 +13,8 @@ visibility: "public"
 lifecycle_state: "working"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "corpus-synthesis"
+  origin_type: "repository"
+  origin_method: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "main"
   origin_date: "2026-10-03"
@@ -20,6 +22,9 @@ provenance:
     - "../README.md"
     - "../../../research/noyau_doctrinal_rendre_capable.md"
     - "../../../research/principe_effectivite.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # De quoi voulons-nous être capables ?
@@ -44,6 +49,12 @@ Le Corpus appelle **écart d’effectivité** la distance entre ce qui est forme
 Cette question vaut à plusieurs échelles : personne, collectif, commune, territoire, institution, État ou réseau. Le sujet change ; la structure de la question demeure.
 
 Le Livre ne promet pas un résultat. Il propose une méthode : rendre les capacités observables, leurs conditions explicites, leurs obstacles contestables et leurs effets corrigibles.
+
+## Le Pacte Républicain d'Effectivité
+
+**Liberté, Égalité, Fraternité. Pour de vrai.** L'[expression retenue pour ce projet](../doctrine/pacte-republicain-effectivite.md) n'ajoute pas une quatrième valeur à la devise : elle demande ce que chacun peut effectivement **faire**, dans les trois matières de la liberté, de l'égalité et de la fraternité.
+
+Le **Révélateur** fait apparaître les obstacles et les demandes d'Autonomie de Capacité, de la personne au territoire. Le **Stabilisateur procédural** rend les réponses contrôlables **avant, pendant et après** leur application. Puis **le Réel répond** : les effets doivent pouvoir confirmer ou contredire la proposition.
 
 ## Redonner l'espoir, c'est rendre l'action possible
 
