@@ -3,7 +3,7 @@ title: "Trois Machines, une boucle de correction"
 author: "Jean Hugues Noël Robert"
 affiliation: "Mouvement Capable"
 date: "2026-10-03"
-last_modified_at: "2026-11-13"
+last_modified_at: "2026-11-20"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -30,7 +30,7 @@ review:
 
 # Trois Machines, une boucle de correction
 
-Le Corpus utilise trois fonctions de travail.
+Pour comprendre pourquoi une possibilité reste hors de portée, ce Livre propose trois **images simples** : ce qui empêche d'agir, ce qui aide à chercher et ce qui rend finalement l'action possible. Le mot « machine » désigne ici un mécanisme ou un ensemble de décisions, pas nécessairement un appareil ou une personne.
 
 **Machine à Empêcher** : réduit, ferme, fragilise ou rend inaccessible une capacité. Elle n’est pas nécessairement intentionnelle ; une accumulation de frictions peut suffire.
 

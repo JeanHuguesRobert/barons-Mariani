@@ -4,7 +4,7 @@ description: "Traiter les campagnes comme des enquêtes documentées, sans confo
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-03"
-last_modified_at: "2026-10-24"
+last_modified_at: "2026-11-20"
 version: "0.2"
 status: "working-paper"
 language: "fr"
@@ -32,7 +32,7 @@ review:
 
 # Des campagnes comme Reality Tests
 
-Une campagne électorale est d’abord une séquence politique. *Capable* propose en plus de la traiter comme un **Reality Test documenté**. Elle n'épuise pas la question politique : son intérêt ici est de fournir un terrain d'observation et de contradiction, non une preuve automatique de la doctrine.
+Une campagne électorale est d'abord une période de débat et de décisions politiques. *Capable* propose aussi d'en faire un **test du Réel** (*Reality Test*) : annoncer ce que l'on compte essayer, conserver les faits observés, puis comparer les résultats aux attentes. Elle n'épuise pas la question politique : son intérêt ici est de fournir un terrain d'observation et de contradiction, non une preuve automatique de la doctrine.
 
 Cela ne transforme pas l’élection en expérience contrôlée. Cela signifie que certaines hypothèses peuvent être écrites avant les résultats, confrontées à des traces, puis maintenues, corrigées ou abandonnées.
 

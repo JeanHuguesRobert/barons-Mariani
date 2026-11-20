@@ -73,7 +73,7 @@ Le premier numéro **en préparation** incorpore désormais, dans ses chapitres 
 
 Le Magazine accueille une **enquête centrale** : [*Qui choisit les sujets de la politique ?*](../magazine/2026-11-13-qui-choisit-agenda-politique.md), avec les données du Baromètre de la République vérifiées sur le rapport primaire du 13 novembre, une [chronique sur l'IA qui contredit sans commander](../magazine/2026-11-13-ia-contradiction-et-autonomie.md), et un [encadré culturel Bleu de Chine](../magazine/2026-11-13-bleu-de-chine-appartenances.md). Les hypothèses sur la polarisation ne sont pas promues en conclusions démontrées.
 
-Une [annexe nouvelle](../annexes/2026-11-13-recherches-decisions-et-objections.md) rassemble les sources longues, objections et questions ouvertes. Cette version de travail peut être corrigée à la relecture sans attendre le gel d'une nouvelle édition. Les éditions déjà gelées demeurent intactes.
+Une [annexe nouvelle](../annexes/2026-11-13-recherches-decisions-et-objections.md) rassemble les sources longues, objections et questions ouvertes. Cette version de travail peut être corrigée à la relecture sans attendre le gel d'une nouvelle édition. Il n'existe à ce jour **aucune édition Capable gelée** : il s'agit uniquement de versions de travail datées.
 
 ## Actualisation du 13 novembre 2026 — proposition constitutionnelle nationale et sources de l'Autonomie de Capacité
 
@@ -81,7 +81,7 @@ Une [annexe nouvelle](../annexes/2026-11-13-recherches-decisions-et-objections.m
 
 **Ce qui change :** la subsidiarité ne se limite plus à un cas institutionnel corse ; Capable propose un droit commun à demander des adaptations législatives et réglementaires justifiées par les réalités territoriales, tout en conservant au Parlement le pouvoir de faire la loi. Les demandes, refus et effets devraient être examinés, motivés, publiés et réexaminés lorsqu'un obstacle substantiel persiste. L'égalité des garanties n'impose pas l'uniformité des réponses.
 
-**Ce qui ne change pas :** cette proposition citoyenne n'est pas une révision adoptée, ne confère pas un pouvoir législatif régional et ne remplace pas l'[amendement historique au projet corse d'article 72-5](../../../research/autonomia/amendement_effectivite_article_72-5.md). Une adaptation n'est pas accordée automatiquement et aucun juge ne peut, par cette seule proposition, imposer au Parlement un vote. Le traitement de la Corse reste attribué et daté. Les éditions gelées ne sont pas modifiées.
+**Ce qui ne change pas :** cette proposition citoyenne n'est pas une révision adoptée, ne confère pas un pouvoir législatif régional et ne remplace pas l'[amendement historique au projet corse d'article 72-5](../../../research/autonomia/amendement_effectivite_article_72-5.md). Une adaptation n'est pas accordée automatiquement et aucun juge ne peut, par cette seule proposition, imposer au Parlement un vote. Le traitement de la Corse reste attribué et daté. L'article constitutionnel et les versions historiques restent accessibles dans leurs états datés.
 
 Cette projection publique est **en préparation et non gelée** : elle privilégie l'accès immédiat aux sources révisables. Les commentaires, corrections et désaccords documentés pourront nourrir un numéro ultérieur.
 
@@ -93,7 +93,7 @@ Le dossier [Préparation du lancement Capable et de la Marche du Soleil](../edit
 
 L'[index des cinq cas](../cases/README.md) et la [chronique *L’épreuve de l’effectivité*](../magazine/2026-10-05-epreuve-de-l-effectivite.md) entrent dans cette **édition en préparation** : accès au dossier médical, parrainages présidentiels, DALO, consignation des amendes automatisées et dématérialisation des services ruraux.
 
-Les cas constituent des **dossiers de travail non relus** : constats, sources et qualifications restent à vérifier, sans les présenter comme audits définitivement établis. Ils sont accessibles dans l'assemblage HTML/PDF/EPUB, mais ne modifient aucune édition gelée.
+Les cas constituent des **dossiers de travail non relus** : constats, sources et qualifications restent à vérifier, sans les présenter comme audits définitivement établis. Ils sont accessibles dans l'assemblage HTML/PDF/EPUB, et ne constituent pas une publication définitive.
 
 ## À l'entrée du numéro
 
@@ -101,11 +101,11 @@ Les cas constituent des **dossiers de travail non relus** : constats, sources et
 
 ## Continuité des éditions et étude de la devise
 
-Le chapitre « Liberté, Égalité, Fraternité effectives » s'appuie sur l'[étude complète v2.5](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et son [audit](../../../research/devise_republicaine/audit_final_consolidation_v2_5.md). Le Livre donne accès à une lecture intelligible ; les annexes documentent les sources, les objections et les limites de la recherche. L'étude reste un document de travail, non évalué par les pairs.
+Le chapitre « Liberté, Égalité, Fraternité effectives » s'appuie sur l'[étude complète v2.5](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et son [audit](../../../research/devise_republicaine/audit_final_consolidation_v2_5.md). Le Livre propose une lecture accessible à un lecteur qui ne connaît pas le Corpus ; les annexes documentent les sources, les objections et les limites de la recherche. L'étude reste un document de travail, non évalué par les pairs.
 
 Le Magazine suit séparément les événements politiques datés : rejet sénatorial d'octobre 2026, négociations et propositions de consultation. Ces actualités ne modifient pas rétroactivement l'histoire de la devise.
 
-**Un Livre Vivant peut être corrigé dans un numéro ultérieur.** Les corrections doivent identifier le texte d'origine, le changement et sa raison. Une édition gelée demeure identifiable ; aucun changement substantiel ne doit être fait silencieusement. Cette projection reste en préparation, non gelée.
+**Un Livre Vivant peut être corrigé dans un numéro ultérieur.** Les corrections doivent identifier le texte d'origine, le changement et sa raison. Une édition définitivement arrêtée devra, le cas échéant, recevoir une date et une identification explicites ; **aucune n'existe actuellement**. Les modifications des textes de travail restent traçables. Cette projection reste en préparation, non gelée.
 
 ## I. Livre — récit durable
 

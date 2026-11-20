@@ -94,6 +94,14 @@ def main():
             content = (active / name).read_bytes()
             assert receipt["guide_assets_sha256"][name] == hashlib.sha256(content).hexdigest()
         assert b'id="compose-agent"' in (active / "guide.html").read_bytes()
+        reader = (active / "candidate.html").read_text(encoding="utf-8")
+        assert reader.count("<h1>") == 1, "Only one main heading for the reader"
+        assert "Le Livre — comprendre Capable" in reader
+        assert "Aucun numéro Capable n'a encore été définitivement arrêté" in reader
+        assert "Archives de lancement d'octobre" in reader
+        assert "<h3>De quoi voulons-nous être capables ?</h3>" in reader
+        assert "Livre — 00-ouverture" not in reader
+        assert "Les éditions gelées restent distinctes" not in reader
         assert receipt["source_sha256"] == new["source_sha256"]
         assert len(list(releases.iterdir())) == 2
         again = run(revision, root, True)

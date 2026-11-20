@@ -3,7 +3,7 @@ title: "Liberté, Égalité, Fraternité effectives"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-last_modified_at: "2026-11-13"
+last_modified_at: "2026-11-20"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md
 status: draft
 language: "fr"
@@ -33,23 +33,7 @@ review:
 
 # Liberté, Égalité, Fraternité effectives
 
-## République d'effectivité — proposition contemporaine de l'auteur (29 octobre 2026)
-
-L'auteur se réclame de la **République et de ses principes fondamentaux**, sans considérer son organisation institutionnelle actuelle comme nécessaire ou intangible. Il propose d'explorer une **forme républicaine alternative** où droits, libertés et souveraineté populaire seraient garantis non seulement par les textes mais par des **capacités effectives d'exercice, de contrôle et de correction**. L'enjeu n'est pas de trouver des gouvernants supposés sages ou vertueux : il est de concevoir des règles, contre-pouvoirs, dispositifs de participation directe, de traçabilité, de recours et de révision qui demeurent robustes face à la faillibilité, aux intérêts et aux abus des acteurs.
-
-Cette ambition comprend : **libertés publiques**, **égalité réelle d'accès aux droits et au pouvoir**, **fraternité et non-abandon**, **sécurité proportionnée**, **autonomie individuelle et collective**, **transparence et responsabilité d'effectivité**, **correction pacifique des institutions**, **protection des minorités et des personnes contre les abus y compris majoritaires**, et **révisabilité intergénérationnelle**. La démocratie directe ne dispense ni de l'État de droit ni des protections contre l'arbitraire collectif. « Rendre capable » ne signifie pas obliger à agir : le non-usage, le choix, la sortie et le recours comptent aussi.
-
-Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse institutionnelle à éprouver**, non d'un fait historique, d'une règle déjà en vigueur ou d'une supériorité démontrée sur le droit positif. L'évaluation doit porter sur les droits concrètement accessibles, les coûts et délais, les asymétries de pouvoir, la sécurité, les effets sur les tiers, les recours, la résilience face aux mauvais acteurs et les possibilités de correction. La référence à la devise « Liberté, Égalité, Fraternité » et à l'amendement d'effectivité ne modifie ni le libellé ni le statut parlementaire de cette proposition.
-
-
-## De la devise à une proposition de République
-
-L'auteur se réclame de la **République et de ses principes fondamentaux**, sans considérer son organisation institutionnelle actuelle comme nécessaire ou intangible. Il propose d'explorer une **forme républicaine alternative** où droits, libertés et souveraineté populaire seraient garantis non seulement par les textes mais par des **capacités effectives d'exercice, de contrôle et de correction**. L'enjeu n'est pas de trouver des gouvernants supposés sages ou vertueux : il est de concevoir des règles, contre-pouvoirs, dispositifs de participation directe, de traçabilité, de recours et de révision qui demeurent robustes face à la faillibilité, aux intérêts et aux abus des acteurs.
-
-Cette ambition comprend : **libertés publiques**, **égalité réelle d'accès aux droits et au pouvoir**, **fraternité et non-abandon**, **sécurité proportionnée**, **autonomie individuelle et collective**, **transparence et responsabilité d'effectivité**, **correction pacifique des institutions**, **protection des minorités et des personnes contre les abus y compris majoritaires**, et **révisabilité intergénérationnelle**. La démocratie directe ne dispense ni de l'État de droit ni des protections contre l'arbitraire collectif. « Rendre capable » ne signifie pas obliger à agir : le non-usage, le choix, la sortie et le recours comptent aussi.
-
-Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse institutionnelle à éprouver**, non d'un fait historique, d'une règle déjà en vigueur ou d'une supériorité démontrée sur le droit positif. L'évaluation doit porter sur les droits concrètement accessibles, les coûts et délais, les asymétries de pouvoir, la sécurité, les effets sur les tiers, les recours, la résilience face aux mauvais acteurs et les possibilités de correction. La référence à la devise « Liberté, Égalité, Fraternité » et à l'[amendement d'effectivité](../../../research/autonomia/amendement_effectivite_article_72-5.md) ne modifie ni le libellé ni le statut parlementaire de cette proposition.
-
+Ce chapitre propose de lire la devise de la République **à partir de ce que les personnes peuvent réellement faire**. Une liberté ne devient pas effective simplement parce qu'un texte la proclame ; l'égalité et la fraternité demandent elles aussi des possibilités concrètes d'agir. Il s'agit d'une proposition politique à discuter, non d'une nouvelle définition juridique déjà adoptée.
 
 *Capable* lit la devise républicaine comme trois axes d’effectivité, sans les réduire à un score unique.
 
@@ -61,13 +45,13 @@ La liberté ne se réduit pas à l’absence d’interdiction. Elle dépend auss
 
 ## Égalité effective
 
-Deux personnes peuvent disposer du même droit formel et de capacités très différentes pour l’exercer. L’égalité effective demande quels facteurs de conversion sont nécessaires et quels écarts évitables doivent être réduits.
+Deux personnes peuvent disposer du même droit formel et de capacités très différentes pour l’exercer. L’égalité effective demande quels moyens concrets — temps, information, ressources, accessibilité — sont nécessaires et quels écarts évitables doivent être réduits.
 
 > **Même droit ne signifie pas toujours même capacité.**
 
 ## Fraternité effective
 
-La fraternité effective vise le non-abandon capacitaire évitable : rendre une aide praticable dans le temps utile, sans que l’aide devienne capture ou substitution permanente.
+La fraternité effective signifie qu’une personne ne doit pas rester sans aide praticable lorsque cet abandon peut être évité. L’aide doit arriver à temps, sans retirer durablement à son bénéficiaire la capacité de décider et d’agir.
 
 > **Ne pas abandonner ne signifie pas faire à la place.**
 
@@ -87,11 +71,11 @@ C'est le sens proposé à l'**Autonomie de Capacité**, née notamment du débat
 
 Une personne agit aussi dans sa manière d'habiter, de travailler, de coopérer, de contester ou de se retirer : elle peut parfois « voter avec ses pieds ». Encore faut-il que ces choix soient effectivement ouverts. Une **démocratie assistée par ordinateur** pourrait aider chacun à distinguer ses aspirations des moyens qu'il suppose nécessaires, à reconnaître les incertitudes ou influences et à envisager des alternatives, **sans jamais choisir à sa place**.
 
-Le projet de **KYS du désir d'agir**, extension envisagée de Cogentia Personal, propose un accompagnement non directif inspiré de Carl Rogers : écouter sans prescrire les fins, examiner les faits sans complaisance, accueillir la possibilité de ne pas s'engager. L'usager interrogerait **son propre agent conversationnel**, tandis que l'outil n'assurerait qu'une orchestration algorithmique et une continuité locale volontaire. Cette proposition est encore un chantier, non un service réalisé ni un résultat d'effectivité démontré. Les opinions politiques constituent des données sensibles ; l'outil ne doit pas créer de profil partisan ou transmettre un dossier personnel à un mouvement.
+Le projet expérimental **KYS du désir d'agir**, envisagé dans Cogentia Personal, propose un assistant numérique pour explorer librement ses envies et ses choix. Il s'inspire de l'approche non directive de Carl Rogers : écouter sans prescrire les fins, examiner les faits sans complaisance, accueillir la possibilité de ne pas s'engager. L'usager interrogerait **son propre agent conversationnel**, tandis que l'outil n'assurerait qu'une orchestration algorithmique et une continuité locale volontaire. Cette proposition est encore un chantier, non un service réalisé ni un résultat d'effectivité démontré. Les opinions politiques constituent des données sensibles ; l'outil ne doit pas créer de profil partisan ou transmettre un dossier personnel à un mouvement.
 
 Un système démocratique capable a besoin à la fois de **citoyens pouvant former et réviser leur jugement** et d'**institutions pouvant recevoir et corriger les décisions contestées**. Aucune de ces capacités ne remplace l'autre.
 
-Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif.md), [étude historique en Double Lecture](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
+Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif.md), [étude historique proposant deux niveaux de lecture, un récit accessible et des notes critiques](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
 
 ## Gouverner sous mandat : rendre le pouvoir aux citoyens entre deux élections
 

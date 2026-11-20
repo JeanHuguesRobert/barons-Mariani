@@ -66,7 +66,7 @@ def layout(title, description, canonical, content, nav, prefix="", community=Non
 <main id="contenu" class="landing-main">{content}</main>
 <footer class="landing-footer">
  <p><strong>Capable</strong> · Le citoyen reste souverain. Les idées restent discutables.</p>
- <p><a href="{prefix}book.html">Le Livre</a> · <a href="{prefix}n1.html">Numéro 1</a> · <a href="{prefix}en-preparation.html">En préparation</a> · <a href="{prefix}sources.html">Sources</a> · <a href="{prefix}contribuer.html">Contribuer</a> · <a href="{prefix}mentions.html">Mentions</a>{community_footer}</p>
+ <p><a href="{prefix}candidate.html">Le Livre actuel</a> · <a href="{prefix}en-preparation.html">En préparation</a> · <a href="{prefix}annexes.html">Sources et annexes</a> · <a href="{prefix}contribuer.html">Contribuer</a> · <a href="{prefix}mentions.html">Mentions</a>{community_footer}</p>
 </footer>
 </body>
 </html>
@@ -115,11 +115,11 @@ def home(cfg):
  <p class="eyebrow">DÉMOCRATIE ASSISTÉE PAR ORDINATEUR</p>
  <h2 id="comprendre-title">Accroître la capacité, jamais confisquer la décision</h2>
  <div class="principle-grid">{principles}</div>
- <p class="reading-link">Pour approfondir : <a href="book.html">le Livre Vivant</a> · <a href="guide.html">son Guide</a> · <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine.md">la doctrine et ses sources</a></p>
+ <p class="reading-link">Pour approfondir : <a href="candidate.html">le Livre Vivant en préparation</a> · <a href="guide.html">son Guide</a> · <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine.md">la doctrine et ses sources</a></p>
 </section>
 '''
     nav = [("Accueil", "index.html"), ("La Marche", "marche/"), ("Avec mon IA", "assistants.html"),
-           ("Guide", "guide.html"), ("Le Pacte", "en-preparation.html#pacte-20261120"), ("Le Livre", "book.html"), ("Sources", "sources.html")]
+           ("Guide", "guide.html"), ("Le Pacte", "en-preparation.html#pacte-20261120"), ("Le Livre actuel", "candidate.html"), ("Sources", "annexes.html")]
     community = cfg.get("community", {})
     if community.get("enabled"):
         nav.append((community.get("label", "Discord"), community["url"]))
@@ -164,7 +164,7 @@ def assistants(cfg):
 }})();
 </script>
 '''
-    nav = [("Accueil", "index.html"), ("La Marche", "marche/"), ("Guide", "guide.html"), ("Le Livre", "book.html")]
+    nav = [("Accueil", "index.html"), ("La Marche", "marche/"), ("Guide", "guide.html"), ("Le Livre actuel", "candidate.html")]
     return layout("Avec mon IA — " + cfg["name"], a["lead"], cfg["canonical_base"] + "/assistants.html", body, nav)
 
 
@@ -187,10 +187,10 @@ def marche(cfg):
  <p>Cette page constitue le premier point d'entrée stable. Les outils interactifs de la Marche du Soleil seront raccordés ici lorsqu'ils seront prêts.</p></div>
  <div class="focus-actions"><a class="action-primary" href="{href(focus["source_url"])}">Lire la Marche du Soleil ↗</a>
  <a class="subtle-link" href="../assistants.html">L'explorer avec mon IA</a></div></div>
- <p class="reading-link"><a href="../index.html">Retour au Mouvement Capable</a> · <a href="../book.html">Découvrir le Livre Vivant</a></p>
+ <p class="reading-link"><a href="../index.html">Retour au Mouvement Capable</a> · <a href="../candidate.html">Lire le Livre Vivant en préparation</a></p>
 </section>
 '''
-    nav = [("Accueil", "index.html"), ("Avec mon IA", "assistants.html"), ("Guide", "guide.html"), ("Le Livre", "book.html")]
+    nav = [("Accueil", "index.html"), ("Avec mon IA", "assistants.html"), ("Guide", "guide.html"), ("Le Livre actuel", "candidate.html")]
     return layout("La Marche du Soleil — " + cfg["name"], focus["text"], cfg["canonical_base"] + "/marche/", body, nav, prefix="../")
 
 

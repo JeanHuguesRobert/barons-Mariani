@@ -3,7 +3,7 @@ title: "Le Capable Test — Évaluer une règle par ses effets"
 author: "Jean Hugues Noël Robert"
 affiliation: "Mouvement Capable"
 date: "2026-10-05"
-last_modified_at: "2026-11-13"
+last_modified_at: "2026-11-20"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -66,7 +66,7 @@ Chaque palier fait l'objet d'un examen empirique sur pièces et traces observabl
 
 ---
 
-## De la grille aux traces — articulation EIM
+## De la grille aux preuves : la matrice de suivi des demandes (EIM)
 
 L'ancien brouillon du Capable Test liait chaque palier à une **Matrice d'Interaction d'Effectivité (EIM)**. Ce lien reste pertinent : un résultat ne peut être établi à partir d'une qualification doctrinale sans trace d'une demande, de son destinataire, de sa réponse et de l'effet observable.
 

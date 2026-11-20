@@ -1,16 +1,28 @@
 ---
 title: "Capable — édition en préparation"
+author: unknown
+affiliation: "Mouvement Capable"
+language: fr
+license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/editions/2026-10-09-en-preparation.md"
 date: "2026-10-09"
-status: "draft — en préparation, non gelé"
-document_role: "adapted"
+status: "draft"
+publication_status: "en préparation, non gelé"
+document_role: "derived"
 document_kind: "living-book-edition-working"
 visibility: "public"
 lifecycle_state: "working"
 source_as_of: "2026-10-27"
 opened_at: "2026-10-09"
-last_modified_at: "2026-10-27"
+last_modified_at: "2026-11-20"
 version: "0.2"
 update_policy: "UP-DEFAULT-REVIEWED"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -76,7 +88,7 @@ Le secrétariat de la commission des lois du Sénat, saisi à l'adresse `secreta
 
 La contribution associative du 28 mai 2026 à l'Assemblée nationale demeure une antériorité distincte ; la rédaction candidate d'effectivité de l'article 72-5 est publiée mais **aucun dépôt parlementaire de cette proposition n'est attesté**. Une transcription automatique de l'audition Gatel du 13 octobre a été calculée à partir de la captation publique du Sénat : 512 segments de média couverts, 16 lots, texte horodaté et empreintes, chaîne `compute.batch` exécutée sur GitHub Actions. Ce matériau est **ASR non revu, non assimilable à un compte rendu officiel ou à un verbatim attribué**. Les 16 lots ont été exécutés, notamment par [matrice GitHub Actions](https://github.com/JeanHuguesRobert/inseme/actions/runs/38559404817) ; le [Cognitive Packet documentaire](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) en conserve les références.
 
-**Implication pour l'effectivité :** les capacités d'accès aux documents, d'observation, de transcription, de traçabilité et de reprise après panne sont elles-mêmes mesurables ; elles ne valent pas validation humaine du contenu ni accomplissement d'un acte institutionnel. Les livres et dossiers en préparation peuvent intégrer ces faits, sans modifier rétroactivement les éditions gelées.
+**Implication pour l'effectivité :** les capacités d'accès aux documents, d'observation, de transcription, de traçabilité et de reprise après panne sont elles-mêmes mesurables ; elles ne valent pas validation humaine du contenu ni accomplissement d'un acte institutionnel. Les livres et dossiers en préparation peuvent intégrer ces faits, en conservant la provenance des textes datés. Aucune édition Capable n'a encore été gelée.
 
 ### Sources nouvelles conservées dans le Corpus — 14 octobre 2026
 
@@ -139,7 +151,7 @@ La page [« En préparation »](https://capable.lepp.fr/en-preparation.html) a �
 - Produire des propositions éditoriales ciblées pour le Livre et le Magazine, puis des projections déterministes après revue.
 - Examiner la compatibilité du Guide avec sa politique de traitement des données avant déploiement.
 
-**Journal de consolidation :** 27 octobre 2026 — actualisation de `source_as_of`, conservation des jalons des 9/14 octobre, ajout de l'état parlementaire, de l'analyse explicitement attribuée et des dépendances de projection. Aucune édition gelée modifiée, aucun déploiement engagé par cette modification.
+**Journal de consolidation :** 27 octobre 2026 — actualisation de `source_as_of`, conservation des jalons des 9/14 octobre, ajout de l'état parlementaire, de l'analyse explicitement attribuée et des dépendances de projection. Aucune édition Capable gelée n'existait à cette date ; aucun déploiement n'était engagé par cette modification.
 
 ## Projection candidate de montage — 28 octobre 2026
 

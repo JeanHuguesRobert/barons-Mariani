@@ -134,6 +134,10 @@ Une comparaison publique doit préciser la date d'arrêté, l'identité du candi
 
 L'Observatoire ne recommande aucun désistement et n'infère aucune adhésion à la [proposition de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md). Un candidat peut choisir d'annoncer, de conditionner ou de refuser son soutien ; de telles déclarations seraient documentées dans des traces séparées. Les élus restent libres de leurs actes de présentation.
 
+## Travail différé : positions déclarées des élus
+
+Prévoir ultérieurement une consultation des **positions publiquement exprimées** par les élus sur l'éventuelle présentation d'un candidat ayant participé à la Marche du Soleil. Il s'agit d'une future **vue documentée** sur des déclarations attribuables, avec leurs dates et rectifications ; pas d'un sondage sur les préférences privées des élus, ni d'une présentation officiellement acquise. Ce chantier est volontairement **différé** et aucun registre nominatif nouveau n'est ouvert.
+
 ## Produits possibles
 
 Après le 7 octobre, et sans détourner de ressources du contentieux prioritaire :

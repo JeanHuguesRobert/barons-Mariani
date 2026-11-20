@@ -59,7 +59,7 @@ Ces textes sont effectivement assemblés dans la [version publique Capable en pr
 
 ## Contrat de propagation
 
-Chaque nouvelle entrée de Magazine doit préciser : date de l'événement, date de la constatation, nature (**fait établi / propos rapporté / interprétation / hypothèse / projet**), référence de la source souveraine, lien vers la projection et état de vérification. Les corrections restent traçables ; un événement récent ne réécrit pas silencieusement le numéro 1 ni les éditions gelées.
+Chaque nouvelle entrée de Magazine doit préciser : date de l'événement, date de la constatation, nature (**fait établi / propos rapporté / interprétation / hypothèse / projet**), référence de la source souveraine, lien vers la projection et état de vérification. Les corrections restent traçables ; une actualité récente ne transforme pas rétroactivement les archives de lancement en numéros définitivement publiés.
 
 Cette première entrée constitue **un index éditorial réel et utilisable**, pas une page de remplissage : le travail de rédaction des chroniques reste à poursuivre. La projection HTML publique `/magazine.html` actuellement servie possède une histoire distincte et ne doit pas être écrasée sans rapprochement et recette.
 

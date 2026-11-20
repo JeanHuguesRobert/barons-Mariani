@@ -49,9 +49,9 @@
     {
       "number": "03",
       "title": "En lecture libre",
-      "description": "Lisez le Livre, consultez les numéros, les documents et les arguments contradictoires à votre rythme.",
-      "label": "Ouvrir le Livre",
-      "href": "book.html"
+      "description": "Lisez la version complète du Livre Vivant en préparation, avec les chroniques datées et les sources permettant de vérifier les propositions.",
+      "label": "Lire le Livre actuel",
+      "href": "candidate.html"
     }
   ],
   "principles": [
@@ -89,7 +89,7 @@
         "href": "https://gemini.google.com/"
       }
     ],
-    "prompt": "Je souhaite explorer le Mouvement Capable et la notion de Démocratie Assistée par Ordinateur (DAO). Je reste souverain : l'IA m'aide à comprendre, examiner, contredire et décider, mais ne décide pas à ma place.\n\nPoint de départ : https://capable.acorsica.org/\nPrésentation du projet : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine.md\nLa Marche du Soleil : https://capable.acorsica.org/marche/\nSources de la Marche : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md\n\nSi tu peux consulter ces pages, commence par les lire ; sinon, demande-moi de coller les passages utiles. Distingue les faits documentés, les intentions, les propositions et les inconnues. Cherche des arguments contraires et des alternatives. Ne suppose ni présentation d'élu déjà acquise ni candidature officiellement validée.\n\nCommence par me proposer trois voies : (1) comprendre Capable, (2) examiner librement une proposition et ses objections, (3) découvrir la Marche du Soleil et envisager une contribution volontaire."
+    "prompt": "Je souhaite explorer le Mouvement Capable et la notion de Démocratie Assistée par Ordinateur (DAO). Je reste souverain : l'IA m'aide à comprendre, examiner, contredire et décider, mais ne décide pas à ma place.\n\nPoint de départ : https://capable.acorsica.org/\nLire le Livre Vivant en préparation : https://capable.acorsica.org/candidate.html\nPrésentation du Pacte Républicain d’Effectivité : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/pacte-republicain-effectivite.md\nLa Marche du Soleil : https://capable.acorsica.org/marche/\nSources de la Marche : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md\n\nSi tu peux consulter ces pages, commence par les lire ; sinon, demande-moi de coller les passages utiles. Distingue les faits documentés, les intentions, les propositions et les inconnues. Cherche des arguments contraires et des alternatives. Ne suppose ni présentation d'élu déjà acquise ni candidature officiellement validée.\n\nCommence par me proposer trois voies : (1) comprendre Capable, (2) examiner librement une proposition et ses objections, (3) découvrir la Marche du Soleil et envisager une contribution volontaire."
   },
   "pacte": {
     "eyebrow": "LE PACTE RÉPUBLICAIN D’EFFECTIVITÉ",

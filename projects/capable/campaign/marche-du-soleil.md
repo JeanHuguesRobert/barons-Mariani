@@ -67,6 +67,8 @@ L'auteur envisage qu'à un moment déterminé, des candidats disposant objective
 
 Pour que la comparaison ait un sens, l'[Observatoire des Présentations 2027](observatoire-presentations-2027.md) doit isoler les promesses explicites nominatives des simples intentions, publier une méthode commune et les sources publiables, signaler les doublons, les corrections, les contestations et les inconnues. Une promesse déclarée n'est **ni une présentation envoyée ni une présentation officiellement validée**. Il n'existe pas de transfert automatique de promesses d'une candidature à une autre : les élus concernés conservent leur entière liberté.
 
+**À faire ultérieurement — registre des positions publiques des élus.** Il faudra pouvoir consulter, pour les élus habilités, leurs déclarations publiques et vérifiables sur une éventuelle présentation de candidats participant à la Marche du Soleil, ainsi que leurs évolutions. Ce registre n'est **pas** créé à ce stade : priorité au Livre et à la clarté de ses interfaces. Ne pas assimiler une opinion favorable, un échange ou une promesse à une présentation effectivement transmise.
+
 Le désistement, le soutien et l'adhésion au projet constitutionnel sont **trois décisions distinctes des candidats**. Un éventuel engagement politique doit être attribué, daté, public et vérifiable, sans présumer qu'il sera donné ou honoré. Aucune comparaison de promesses ne saurait être présentée comme un pronostic électoral ou imposer une convergence.
 
 Ce mécanisme envisagé se distingue de la collecte citoyenne des besoins d'Autonomie de Capacité : la Marche n'est subordonnée à aucun candidat, à aucun accord de désistement et à aucune adhésion au Pacte.

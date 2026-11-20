@@ -78,7 +78,7 @@ Le Livre décrit des principes et des propositions. Le Magazine leur donne une e
 - [Histoire de la devise, double lecture v2.5](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet de réécriture contradictoire #150](https://github.com/JeanHuguesRobert/barons-Mariani/issues/150) : source historique et juridique distincte de la proposition politique contemporaine.
 - [Révision constitutionnelle Capable de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) : **proposition citoyenne**, pas droit en vigueur ni amendement parlementaire déposé ; distincte du [projet corse relatif à l'article 72-5](../../../research/autonomia/amendement_effectivite_article_72-5.md).
 
-Ces sources peuvent évoluer indépendamment de la présente projection. Une édition gelée devra conserver son empreinte et ses références exactes. Les désaccords et corrections documentés ne sont pas une défaillance du Livre Vivant : ils constituent une part de sa méthode.
+Ces sources peuvent évoluer indépendamment de la présente projection. Si une édition est un jour définitivement arrêtée, elle devra conserver son empreinte et ses références exactes. Ce n'est pas encore le cas pour Capable. Les désaccords et corrections documentés ne sont pas une défaillance du Livre Vivant : ils constituent une part de sa méthode.
 
 ## F. Épreuve commune : une hypothèse n'est pas un résultat
 

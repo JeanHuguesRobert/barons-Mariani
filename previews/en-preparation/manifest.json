@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "99842cc7ba4628eab745ee93397a20f0807a9d396e452cad932287d8e6d84a45",
+      "source_sha256": "50453677e959d34a1e2e8bbfe929114aa0e276380328fae474a9ef5b76a0f8af",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
-          "sha256": "2dc544a8af835c39ba82145f61a813e3eb11ea7f3d3285672fb1574ef59afe46"
+          "sha256": "1f299306aec94a9efce3a774043a921b1eedc38d0f6af32990581104ebb4cf17"
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
@@ -25,11 +25,11 @@
         },
         {
           "path": "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md",
-          "sha256": "83f6257c9867da7938214ee368e94a9383d5e5b227ff024f7407fe69d381a174"
+          "sha256": "24854ce1de3ef3805ea98e60b31897d90c4888950b7e4dd7ea45f4fdf3ae6545"
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
-          "sha256": "86ee45a5052b66f4480696a5bb1d0407941e599a66ab5903df8dbde02b8b8788"
+          "sha256": "5ffe5f381697bebc565184ed4ec79ec52221d1caea822e830f02f9f1a4989eb0"
         },
         {
           "path": "projects/capable/manuscript/06-fractalite-et-echelles.md",
@@ -37,11 +37,11 @@
         },
         {
           "path": "projects/capable/manuscript/07-campagnes-comme-reality-tests.md",
-          "sha256": "f5645df16c6ac921e97ccbbb5d31110f19b61d8b9134f8455e2bd5bcdb31fcc5"
+          "sha256": "82990cf690f5cb4fc34b4ff456441ef284fc289fd229093719e5bf89bef7470c"
         },
         {
           "path": "projects/capable/manuscript/08-presidentielle-2027.md",
-          "sha256": "51f9530d0e25db45500472b02d6cba285f119ad96ba04848c5a9a82d384b6e20"
+          "sha256": "56bd410bc9e9d06e3d9691962be76e79d1c35fb374311b65e26f9a63e0cdf381"
         },
         {
           "path": "projects/capable/manuscript/09-communs-et-moyens.md",
@@ -49,7 +49,7 @@
         },
         {
           "path": "projects/capable/manuscript/10-capable-test.md",
-          "sha256": "fa03992d535f091b6a0f0d6539e4266af5cafc7d0a138c2793065b19d367d075"
+          "sha256": "30e0f47d67626d3e3a4f7741be976a44cadb5daf43d844ac42988d5f2e4842d2"
         },
         {
           "path": "projects/capable/magazine/2026-10-28-autonomie-corse.md",
@@ -153,11 +153,11 @@
         },
         {
           "path": "projects/capable/campaign/marche-du-soleil.md",
-          "sha256": "7033bfaeca92c4b6958d25ae941deb21abd7d17f60080841e269f5e81bd5b4e8"
+          "sha256": "f119128d25d3d10f6b7cb59c9e5d0c16da76a05a2d440c02a457d80038e5c90b"
         },
         {
           "path": "projects/capable/campaign/observatoire-presentations-2027.md",
-          "sha256": "09feaf4998202f12adf6f50c06fc93dec26da3c002a014ed31931d56e9e98942"
+          "sha256": "8a5281b0c840ab0517abdedaf62fd3d43ff4e86efde5054826ff9cf7a379ba02"
         },
         {
           "path": "projects/capable/doctrine/metaprogramme-politique-generatif.md",
@@ -169,11 +169,11 @@
         },
         {
           "path": "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md",
-          "sha256": "da364ae938ca832c8eeadb47e88e7436fb2cf94059d9505eca4f11a328e51f59"
+          "sha256": "8e5d63447615780748ecd086393796e494bf8d4d536e3cc68793781cff030d1c"
         },
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "8242e806e27a9eea9dbb87924c7eb3873803250b7114950650a88257d28fe5ed"
+          "sha256": "1c6163938baef920a4fb47f6cd381b116e0d2e25c9abe26fad6cd099ad38af76"
         }
       ]
     },

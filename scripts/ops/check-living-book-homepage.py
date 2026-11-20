@@ -61,7 +61,7 @@ def main():
     assert 'href="assistants.html"' in (SITE / "index.html").read_text()
     assert 'href="marche/"' in (SITE / "index.html").read_text()
     assert 'href="guide.html"' in (SITE / "index.html").read_text()
-    assert 'href="book.html"' in (SITE / "index.html").read_text()
+    assert 'href="candidate.html"' in (SITE / "index.html").read_text()
     assert 'href="en-preparation.html#pacte-20261120"' in (SITE / "index.html").read_text()
     assert 'id="pacte-20261120"' in (SITE / "en-preparation.html").read_text()
     assert "navigator.clipboard" in (SITE / "assistants.html").read_text()

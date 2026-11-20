@@ -167,11 +167,12 @@ def main():
     item = next(book for book in manifest["books"] if book["id"] == "capable")
     html = (OUT / "capable.html").read_text(encoding="utf-8")
     if not all(s in html for s in (
-        "PUBLIC · NON GELÉ",
+        "Le Livre Vivant en préparation",
         "Les collectivités territoriales ont droit aux adaptations",
-        "Actualisation du 13 novembre 2026",
+        "Le Livre — comprendre Capable",
+        "Aucun numéro Capable n'a encore été définitivement arrêté",
     )):
-        raise ValueError("Existing HTML is not the expected 13-Nov Capable candidate")
+        raise ValueError("Working HTML is not the expected reader-facing Capable edition")
     cached = reusable_receipt(item, html)
     if cached is not None:
         print(json.dumps({"outcome": "REUSED_VERIFIED", **cached}, ensure_ascii=False))

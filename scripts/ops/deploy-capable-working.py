@@ -55,10 +55,10 @@ def read_candidate(repo, revision):
     if not ("Les collectivités territoriales ont droit aux adaptations" in html
             and "Pacte Républicain d&#x27;Effectivité" in html):
         raise ValueError("Article 72 candidate not found in HTML")
-    opening = html.find("Livre — 00-ouverture")
-    note = html.find("Note de composition du numéro")
+    opening = html.find("<h3>De quoi voulons-nous être capables ?</h3>")
+    note = html.find("<summary>Note de composition du numéro")
     if opening < 0 or note <= opening:
-        raise ValueError("Book opening must precede technical composition notes")
+        raise ValueError("Reader-facing book must precede editorial production notes")
     if not files["capable.pdf"].startswith(b"%PDF-"):
         raise ValueError("Invalid PDF")
     if not files["capable.epub"].startswith(b"PK"):

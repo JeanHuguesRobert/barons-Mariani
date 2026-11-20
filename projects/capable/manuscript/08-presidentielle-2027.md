@@ -3,7 +3,7 @@ title: "Présidentielle 2027 — seconde campagne"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-last_modified_at: "2026-11-17"
+last_modified_at: "2026-11-20"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/08-presidentielle-2027.md
 status: draft
 language: "fr"
@@ -43,7 +43,7 @@ Ce chapitre examine la portée méthodologique durable de ce changement d'échel
 
 La nouvelle campagne change la nature du scrutin, le territoire, les acteurs, les procédures, l’audience et les contraintes. Elle ne repart pourtant pas de zéro.
 
-La pile méthodologique peut être réemployée : Livre Vivant, Corpus versionné, sources, chronologies, Cognitive Packets, matrices d’effectivité, Reality Tests, contradictions, continuations et projections datées.
+Les mêmes méthodes peuvent servir à une autre échelle : publier les documents et les sources, dater les observations, vérifier ce qui a réellement eu lieu, accueillir les objections et conserver les corrections. Le travail technique emploie également des dossiers structurés et des outils informatiques, décrits dans les références plutôt qu'imposés comme vocabulaire au lecteur.
 
 L’hypothèse fractale est directement testable : **les mêmes primitives restent-elles utiles à une autre échelle électorale ?**
 
