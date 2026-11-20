@@ -11,9 +11,15 @@
   "focus": {
     "eyebrow": "LE PROJET EN MOUVEMENT",
     "title": "La Marche du Soleil",
-    "text": "Aller vers les habitants et les élus, découvrir ce qui fonctionne et ce qui empêche, chercher des solutions vérifiables. La démarche vise également à solliciter les présentations d'élus nécessaires à une candidature présidentielle en 2027.",
+    "text": "Aller vers les habitants et les élus, découvrir ce qui fonctionne et ce qui empêche, chercher des solutions vérifiables. Chaque marcheur peut également solliciter des élus en faveur du candidat de son choix à l'élection présidentielle de 2027.",
     "action": {"label": "Entrer dans la Marche du Soleil", "href": "marche/"},
     "source_url": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md"
+  },
+  "community": {
+    "enabled": true,
+    "provider": "discord",
+    "label": "Communauté Discord",
+    "url": "https://discord.gg/KmYEQb2cF"
   },
   "paths": [
     {"number": "01", "title": "Avec mon assistant IA habituel", "description": "ChatGPT, Claude, Grok, Gemini ou autre : poursuivez avec l'outil que vous connaissez, à partir de sources vérifiables.", "label": "Explorer avec mon IA", "href": "assistants.html"},

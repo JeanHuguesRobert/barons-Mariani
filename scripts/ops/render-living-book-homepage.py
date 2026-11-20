@@ -35,8 +35,13 @@ def anchor(item, css_class=""):
     return f'<a{css} href="{href(item["href"])}"{ext}>{e(item["label"])}<span aria-hidden="true"> ↗</span></a>'
 
 
-def layout(title, description, canonical, content, nav, prefix=""):
+def layout(title, description, canonical, content, nav, prefix="", community=None):
     links = "".join(f'<a href="{prefix}{href(path)}">{e(label)}</a>' for label, path in nav)
+    community_footer = ""
+    if community and community.get("enabled"):
+        url = href(community["url"])
+        label = e(community.get("label", "Discord"))
+        community_footer = f' · <a href="{url}" target="_blank" rel="noopener noreferrer">{label}</a>'
     return f'''<!doctype html>
 <html lang="fr">
 <head>
@@ -61,7 +66,7 @@ def layout(title, description, canonical, content, nav, prefix=""):
 <main id="contenu" class="landing-main">{content}</main>
 <footer class="landing-footer">
  <p><strong>Capable</strong> · Le citoyen reste souverain. Les idées restent discutables.</p>
- <p><a href="{prefix}book.html">Le Livre</a> · <a href="{prefix}n1.html">Numéro 1</a> · <a href="{prefix}en-preparation.html">En préparation</a> · <a href="{prefix}sources.html">Sources</a> · <a href="{prefix}contribuer.html">Contribuer</a> · <a href="{prefix}mentions.html">Mentions</a></p>
+ <p><a href="{prefix}book.html">Le Livre</a> · <a href="{prefix}n1.html">Numéro 1</a> · <a href="{prefix}en-preparation.html">En préparation</a> · <a href="{prefix}sources.html">Sources</a> · <a href="{prefix}contribuer.html">Contribuer</a> · <a href="{prefix}mentions.html">Mentions</a>{community_footer}</p>
 </footer>
 </body>
 </html>
@@ -109,7 +114,10 @@ def home(cfg):
 '''
     nav = [("Accueil", "index.html"), ("La Marche", "marche/"), ("Avec mon IA", "assistants.html"),
            ("Guide", "guide.html"), ("Le Livre", "book.html"), ("Sources", "sources.html")]
-    return layout(cfg["name"] + " — " + cfg["headline"], cfg["lead"], cfg["canonical_base"] + "/", body, nav)
+    community = cfg.get("community", {})
+    if community.get("enabled"):
+        nav.append((community.get("label", "Discord"), community["url"]))
+    return layout(cfg["name"] + " — " + cfg["headline"], cfg["lead"], cfg["canonical_base"] + "/", body, nav, community=community)
 
 
 def assistants(cfg):
@@ -164,7 +172,7 @@ def marche(cfg):
  <h2>Deux objectifs distincts, une démarche ouverte</h2>
  <div class="principle-grid">
   <article><h3>Explorer les capacités</h3><p>Aller à la rencontre des habitants, écouter les obstacles et les solutions, documenter et confronter les observations.</p></article>
-  <article><h3>Solliciter les élus</h3><p>Rencontrer des élus habilités à présenter un candidat, dans la perspective des 500 présentations requises pour l'élection présidentielle.</p></article>
+  <article><h3>Solliciter les élus</h3><p>Chaque marcheur peut rencontrer des élus habilités à présenter le candidat de son choix. Chaque présentation reste une décision libre de l'élu.</p></article>
   <article><h3>Rendre des comptes</h3><p>Distinguer contact, intérêt, promesse et présentation officiellement établie. Une intention n'est pas un résultat.</p></article>
  </div>
  <div class="focus-panel"><div><p class="eyebrow">PAGE DE TRANSITION</p><h2>Le parcours participatif est en construction</h2>
