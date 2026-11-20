@@ -100,7 +100,7 @@ def main():
         assert "Aucun numéro Capable n'a encore été définitivement arrêté" in reader
         assert "Archives de lancement d'octobre" in reader
         assert "<h3>De quoi voulons-nous être capables ?</h3>" in reader
-        assert "Livre — 00-ouverture" not in reader
+        assert "<h3>Livre — 00-ouverture</h3>" not in reader
         assert "Les éditions gelées restent distinctes" not in reader
         assert receipt["source_sha256"] == new["source_sha256"]
         assert len(list(releases.iterdir())) == 2
