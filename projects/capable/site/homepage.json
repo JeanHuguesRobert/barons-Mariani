@@ -19,7 +19,7 @@
     "enabled": true,
     "provider": "discord",
     "label": "Communauté Discord",
-    "url": "https://discord.gg/KmYEQb2cF"
+    "url": "https://discord.gg/AtV3dqyXqA"
   },
   "paths": [
     {"number": "01", "title": "Avec mon assistant IA habituel", "description": "ChatGPT, Claude, Grok, Gemini ou autre : poursuivez avec l'outil que vous connaissez, à partir de sources vérifiables.", "label": "Explorer avec mon IA", "href": "assistants.html"},
