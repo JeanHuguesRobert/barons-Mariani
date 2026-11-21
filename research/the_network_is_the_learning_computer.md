@@ -1392,6 +1392,33 @@ arising from a stable principal intent should benefit from learned
 operational yield while preserving an inspectable distinction between
 principal intent, packet state, mandate, and learned routing state.
 
+## Complementary field validation — first real users (2026-11-21)
+
+The first Cogentia Personal Twins also provide an **in-situ empirical test**:
+John/JHN is already an active user of the evolving system; Maguy and Frédéric
+have hosted provisional Twins and declared ChatGPT conversational agents, while
+their own ChatGPT Free-account MCP access and first useful-task results remain
+unverified. These people are *de facto* alpha/beta testers of the emerging
+solution, **not** a formally launched public beta or evidence that every
+onboarding step is operational.
+
+This **does not replace the two-Odyssey controlled test** above. Daily tasks
+can reveal usability, continuity, effective autonomy, human-attention cost,
+missing capacities and useful generalizations. But an observation, a technical
+success, a stored trace and a demonstrably changed future packet journey are
+four different evidentiary claims. To establish *network learning*, connect
+attributable observations to a generalized change and demonstrate that it
+improves a later comparable journey, without a bespoke test-only exception.
+
+FractaCognition may consolidate observations **within the observer's mandate**.
+The locality of each person's private memory and correspondence does not
+collapse merely because the provisional Twins share JHN infrastructure.
+The reusable learning can propagate without propagating private raw data,
+authority or undocumented assumptions. User feedback is evidence of user
+experience; COP records the acts and their subsequent corrections without
+rewriting history. See [FractaCognition — Validated Learning and Selective Propagation](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md#9-validated-learning-and-selective-propagation)
+and [Hosted Personal Twin onboarding](https://github.com/JeanHuguesRobert/inseme/blob/main/docs/hosted-personal-twin-onboarding.md).
+
 # 27. What failure would teach us
 
 If packet identity cannot survive handler substitution, packet primacy
