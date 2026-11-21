@@ -75,9 +75,11 @@ def main():
         assert b'en-preparation.html#pacte-20261120' in (active / "index.html").read_bytes()
         assert b'href="marche/"' in (active / "index.html").read_bytes()
         assert b'Votre IA' in (active / "assistants.html").read_bytes()
-        assert b'Le parcours participatif est en construction' in (
-            active / "marche/index.html"
-        ).read_bytes()
+        marche_page = (active / "marche/index.html").read_text(encoding="utf-8")
+        assert "La Marche du Soleil est ouverte" in marche_page
+        assert 'href="https://services.acorsica.org/3code/marche-du-soleil"' in marche_page
+        assert 'href="https://services.acorsica.org/3code/marche-du-soleil/mode-emploi"' in marche_page
+        assert "Le parcours participatif est en construction" not in marche_page
         assert receipt["case_page_sha256"] == hashlib.sha256(cases.encode("utf-8")).hexdigest()
         magazine = (active / "magazine.html").read_text(encoding="utf-8")
         annexes = (active / "annexes.html").read_text(encoding="utf-8")
