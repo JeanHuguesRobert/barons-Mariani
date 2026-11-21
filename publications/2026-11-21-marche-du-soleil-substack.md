@@ -8,8 +8,8 @@ version: "1.0"
 document_role: adapted
 document_kind: substack-article
 visibility: public
-lifecycle_state: reviewed
-status: "author-validated — Substack draft created"
+lifecycle_state: published
+status: "published-on-substack — verified"
 language: fr
 license: CC BY-SA 4.0
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/publications/2026-11-21-marche-du-soleil-substack.md"
@@ -29,14 +29,15 @@ derivation:
     - "projects/capable/campaign/observatoire-presentations-2027.md"
   toolchain: "Ubikia — publication Substack"
   destination: "Substack — Les Carnets du Baron Mariani"
-  status: "author-approved; substack-draft-verified"
+  status: "published"
 publication:
   platform: substack
-  status: "draft_created"
+  status: "published"
+  publication_url: "https://jeanhugues.substack.com/p/la-marche-du-soleil-de-la-corse-a"
   platform_post_id: 225903969
   draft_edit_url: "https://jeanhugues.substack.com/publish/post/225903969"
-  published_at: null
-  email_distribution: "not executed"
+  published_at: "2026-11-21T09:33:57.922Z"
+  email_distribution: "not verified"
   excerpt: "De l'impasse de Beauvau à une mobilisation nationale : la Marche du Soleil aide librement tous les candidats à recueillir des promesses de parrainage et met à l'épreuve l'autonomie de capacité."
   tags:
     - "Marche du Soleil"
