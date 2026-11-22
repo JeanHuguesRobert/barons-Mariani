@@ -139,3 +139,13 @@ Ordre de collecte proposé :
 7. rapprochement puis estimation bornée.
 
 Les données privées nécessaires à la comptabilité ne doivent pas être copiées dans le Corpus public. Le présent document ne contient que la méthode et les agrégats publiables.
+
+## 8. Affectation financière envisagée au fonds Barons Mariani — 22 novembre 2026
+
+Le Président indique qu'une assemblée antérieure, il y a approximativement trois ans, a réservé des fonds au projet de fonds de dotation Barons Mariani. **Antécédent déclaré, montant, PV et ventilation comptable à retrouver**. La décision ancienne n'est pas substituée à un justificatif bancaire ou au pouvoir de l'organe compétent pour la dépense effective.
+
+**Hypothèse à soumettre à la prochaine AG** : C.O.R.S.I.C.A., cofondatrice, apporte **15 000 € en numéraire** à la dotation initiale du fonds, qualifiée **consomptible** par les statuts du fonds ; les frais du transfert de Minesteggio peuvent être financés sur cette trésorerie si leur objet et leur traitement sont correctement établis. Ne pas compter les mêmes euros une seconde fois comme réserve non consommée.
+
+**Plan de cash indicatif, non budget adopté** : dotation 15 000 € ; prélèvements immobiliers estimés à environ 6 571 € si exonération DMTG et renonciation du notaire à ses émoluments ; trésorerie restante théorique **8 429 €** avant autres frais, ou **5 929 €** avec provision de 2 500 € de géomètre. Si émoluments facturés, l'enveloppe doit être réévaluée. Valeur indicative de Minesteggio : 1 M€ en pleine propriété, avec réserve d'usufruit et donation de droits immobiliers estimés fiscalement à 920 k€ après les 61 ans du fondateur ; **aucune de ces valeurs patrimoniales n'est de la trésorerie**.
+
+Voir [dossier institutionnel et notarial](barons-mariani-fonds-dotation-notaire-2026.md). Aucune écriture comptable ou décision de dépense n'est actée par cette notice.
