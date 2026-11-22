@@ -249,3 +249,19 @@ Le protocole applicable est :
 `projects/institut/preparation/membership-active-verification-protocol.md`.
 
 Aucun message externe ne doit être envoyé automatiquement sans validation humaine du destinataire et du texte.
+
+## 7. Réorientation datée du 22 novembre 2026 — objectif Noël / Barons Mariani
+
+L'objectif du Président est **AG ordinaire et AGE concomitantes avant Noël**, pour viser le **dépôt en ligne des statuts révisés le samedi 26 décembre 2026** (anniversaire de déclaration selon le JO 1996). Le dépôt horodaté, le récépissé et la mise à jour effective du RNA sont des événements distincts. Téléservice : https://www.service-public.gouv.fr/particuliers/vosdroits/R37933 . Le numéro RNA et l'accès effectif au service doivent être contrôlés. Aucune déclaration par simple email n'est présumée valable.
+
+**Nouveaux gates à mener en parallèle** :
+- résolution AG de participation de C.O.R.S.I.C.A. comme fondatrice du fonds Barons Mariani ;
+- antécédent d'affectation financière au fonds, rapporté par le Président, à retrouver dans les pièces d'AG et les comptes ;
+- dotation monétaire initiale envisagée à **15 000 € consomptibles**, distincte de la donation immobilière personnelle de Minesteggio, hypothèse de financement des frais sur cette dotation ;
+- budget et provenance des ressources de l'association, pouvoir de signature et représentant désigné ;
+- validation technique de l'usufruit partiel, de la donation et des conditions fiscales avec un notaire ;
+- production du projet consolidé des nouveaux **statuts associatifs**, puis convocation régulière au moins **15 jours** avant l'AGE et décision dans les formes existantes.
+
+**Le gate CRITICAL_BLOCKER sur les membres électeurs et le CA n'est pas levé** par ce calendrier. Un second appel nécessitant au moins 15 jours supplémentaires compromettrait vraisemblablement l'objectif symbolique. Les projets de résolution et le calendrier ne constituent ni convocation ni adoption.
+
+Dossier détaillé : [Barons Mariani — notaire et constitution](barons-mariani-fonds-dotation-notaire-2026.md).
