@@ -158,3 +158,20 @@ Pièces types : PV d'AGE signé ; statuts mis à jour datés et signés par au m
 | Testament | ENVISAGED | projet validé avec notaire, acte signé si décidé |
 
 **Interdiction d'extrapoler :** ce dossier de travail ne vaut ni résolution d'AG, ni statuts adoptés, ni paiement de dotation, ni offre notariale, ni déclaration préfectorale. Le prochain acte juridique ou financier n'est réputé accompli qu'après sa propre preuve.
+
+## 10. Reprise du 22 novembre 2026 — AG/AGE du 19 décembre et diffusion préparatoire
+
+**Décision de calendrier du Principal** : tenir l'AG ordinaire et l'AGE de C.O.R.S.I.C.A. le **samedi 19 décembre 2026 à 15 h, au 1 cours Paoli à Corte** ; viser le dépôt électronique des statuts associatifs adoptés le 26 décembre 2026. Cette date de réunion est le cap opérationnel choisi ; elle n'établit pas qu'une convocation régulière a déjà été expédiée.
+
+**Communications** : une annonce préparatoire, distincte de la convocation statutaire définitive, est rédigée en brouillon Gmail le 22 novembre 2026, sous l'objet « C.O.R.S.I.C.A. — préparation AG + AGE avant Noël 2026 : diffusion aux membres ». Elle s'adresse initialement à six contacts identifiés par le Principal, dont certains anciens responsables, et demande la diffusion aux membres potentiels. Une septième personne, connue comme « Momo, Minesteggio », doit également être invitée ; son adresse électronique reste inconnue. La communication Facebook est prévue sur la page Institut Mariani, à repartager sur la page personnelle du Président. **Aucun envoi ni publication n'est attesté.** Les adresses et autres données privées sont conservées dans les outils de correspondance et non copiées dans ce dépôt public.
+
+**Préalables à la convocation définitive** :
+1. Vérifier le corps des membres participant à l'AG, les catégories statutaires, le CA et l'autorité de convocation ; calculer le quorum selon les statuts applicables.
+2. Achever le texte consolidé des statuts de C.O.R.S.I.C.A. et les projets de résolutions des deux assemblées ; y joindre rapports et situation financière, ainsi que la décision antérieure relative à l'affectation de fonds au projet Barons Mariani, dont la pièce reste à localiser.
+3. Adresser aux membres statutaires la convocation définitive et le projet de modification au moins 15 jours avant le 19 décembre ; **date cible d'expédition : au plus tard le 3 décembre 2026**, afin de conserver une marge de réception. Le 8 décembre précédemment évoqué pour une assemblée simplement « avant Noël » **n'est pas un échéancier valable pour la séance du 19 décembre**.
+4. Fixer les modalités de représentation et participation à distance permises par les statuts en vigueur ; distinguer la diffusion ouverte d'information de l'envoi des convocations aux personnes ayant qualité.
+5. Après la réunion seulement : constater votes et quorums, signer les PV, préparer le dépôt par e-modification et conserver ses accusés.
+
+**Coordination notariale** : préparer un dossier de consultation contenant titres, plans, inscription MH, droits réservés, hypothèses fiscales et financement. La piste du notaire apparenté à Lucas, évoquée par le Principal, est à instruire sans présenter une renonciation aux émoluments comme acquise.
+
+**État** : paquet de continuation enrichi ; convocation officielle NON ENVOYÉE ; annonce Gmail DRAFT ; Facebook NON PUBLIÉ ; AG/AGE NON TENUES ; constitution du fonds NON EFFECTUÉE.
