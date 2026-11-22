@@ -982,7 +982,7 @@ Les continuations prioritaires sont :
 - date et contenu précis de l’échange oral avec Sylvain Lizon ;
 - statut exact du lien entre Damien Ruvet et Marie-Louise à la Villa Arson ;
 - trace écrite de l’intérêt actuel de Damien pour le projet et état de ses relations avec la nouvelle direction de la Villa Arson ;
-- existence éventuelle, depuis mars 2026, de l’arrêté final d’inscription MH de Minesteggio ;
+- suivi des formalités individuelles et foncières prévues par l’arrêté d’inscription MH **R20-2026-09-21-00003** du **21 septembre 2026**, publié le **24 septembre 2026** ([recueil R20-2026-080](https://politique.pappers.fr/commune/document/3c1b99a6fc76eb7aedbe9f3597d44e92)) : notification et publicité foncière, sans remettre en cause l’inscription déjà acquise ;
 - périmètre exact des biens qui seront transférés ou affectés au futur fonds ;
 - modalités juridiques et techniques applicables aux résidences à La Gaude ;
 - statut juridique exact de la piste incendie mentionnée en 2017, son gestionnaire et les éventuelles servitudes associées ;
