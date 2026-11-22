@@ -572,8 +572,7 @@ depuis 2018, l'Institut Mariani.
 les pratiques démocratiques, les biens communs, et la gouvernance de
 l'intelligence artificielle. Adresse : 1 cours Paoli, F-20250 Corte.
 
-Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum
-(CC BY-SA 4.0), FractaVolta, Musée Mariani.
+Patrimoine protégé : le domaine de Minesteggio est inscrit au titre des monuments historiques par l'[arrêté du 21 septembre 2026, publié le 24 septembre 2026](https://politique.pappers.fr/commune/document/3c1b99a6fc76eb7aedbe9f3597d44e92) (R20-2026-09-21-00003). La protection couvre l'emprise foncière et les parties bâties désignées par l'arrêté, non l'ensemble des intérieurs. Travaux en cours : valorisation et projet muséal de Minesteggio, cadre MareNostrum (CC BY-SA 4.0), FractaVolta et Musée Mariani.
 
 ---
 
