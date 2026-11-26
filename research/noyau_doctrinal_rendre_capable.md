@@ -1,9 +1,10 @@
 ---
+last_modified_at: '2026-11-26'
 title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.10
+version: "0.5.11"
 date: '2026-09-27'
 review_status: v0.5.8 stabilizes Fraternité effective as non-abandon capacitaire without capture; constructive review remains welcome
 type: doctrinal_kernel
@@ -165,6 +166,10 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.11 — 2026-11-26
+
+Clarification : transhumanisme humaniste, prothèse cognitive, souveraineté et mimétisme organisationnel.
 
 ## Liberté personnelle, autrui et mandat (31 octobre 2026)
 
@@ -600,6 +605,18 @@ souveraineté sur les capacités
 ```
 
 sans les confondre.
+
+### Transhumanisme humaniste et prothèse cognitive (26 novembre 2026)
+
+Le Principal situe explicitement sa démarche dans une vision transhumaniste de l'humain augmenté : la prothèse cognitive doit accroître sa liberté effective, à la condition qu'il demeure souverain. Cette augmentation concerne aussi la capacité de coopérer et de constituer des organisations formelles plus sophistiquées, et pas uniquement les performances cognitives individuelles.
+
+La prothèse cognitive est un facteur de conversion de possibles en capacités effectivement mobilisables. Elle peut augmenter la mémoire, le jugement, la conception, la réalisation et la coopération sans devenir titulaire de la souveraineté qu'elle sert. L'autonomie d'exécution n'est pas une délégation de souveraineté. La liberté de réviser ses choix et de ne pas exercer une capacité demeure constitutive de cette augmentation.
+
+Le mimétisme organisationnel proposé dans [The Network is the Learning Computer](the_network_is_the_learning_computer.md) consiste à extraire les mécanismes éprouvés des organisations humaines et leurs antécédents sociaux ou biologiques, puis à les informatiser. Le réseau apprenant doit augmenter les capacités collectives des humains qui y participent. [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md) en fixe la condition démocratique : la compétence technique ne confère pas la souveraineté; les humains exposés aux conséquences restent les titulaires de la légitimité politique.
+
+La formule « Le Possibilisme est un humanisme », en écho à Sartre, demeure une piste de formulation philosophique, non un nouvel axiome stabilisé.
+
+*Provenance : clarification du Principal et synthèse exploratoire assistée par ChatGPT (GPT-6.2), échange des 25–26 novembre 2026 ; intégration explicitement autorisée le 26 novembre.*
 
 ### Liberté de non-usage
 
