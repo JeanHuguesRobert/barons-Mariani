@@ -135,7 +135,42 @@ def add_sitemap(data, host, routes, previous_routes=()):
     return result
 
 
-def prepare(repo, revision, book, host, base, build, out, previous=None):
+SOURCE_URL = "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/"
+
+
+def initial_sitemap(base, host):
+    """Only canonical root-level pages actually present, not guessed URLs."""
+    locations = []
+    for file in sorted(base.glob("*.html")):
+        text = file.read_text()
+        matches = re.findall(r'<link\s+rel="canonical"\s+href="([^"]+)"', text)
+        url = f"https://{host}/" + ("" if file.name == "index.html" else file.name)
+        if matches == [url]:
+            locations.append(url)
+    if f"https://{host}/" not in locations:
+        raise ValueError("Homepage canonical URL required for initial sitemap")
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            + "".join(f"  <url><loc>{escape(url)}</loc></url>\n" for url in locations)
+            + "</urlset>\n").encode()
+
+
+def project_working_links(data, route_map, previous_map):
+    """Rewrite exact anchor hrefs only; preserve all unrelated bytes.
+
+    Restore the canonical source link if an earlier managed route is removed.
+    """
+    reverse = {route: SOURCE_URL + source for source, route in previous_map.items()}
+    def replace(match):
+        href = match[2]
+        original = reverse.get(href, href)
+        if original.startswith(SOURCE_URL):
+            original = route_map.get(original[len(SOURCE_URL):], original)
+        return match[1] + original + '"'
+    return re.sub(r'(<a\b[^>]*?\bhref=")([^"]*)"', replace, data.decode(), flags=re.I).encode()
+
+
+def prepare(repo, revision, book, host, base, build, out, previous=None, working_link_pages=()):
     if not BOOK.fullmatch(book) or not HOST.fullmatch(host):
         raise ValueError("Invalid book or canonical host")
     if not re.fullmatch(r"[0-9a-f]{40}", revision) or git(
@@ -149,8 +184,9 @@ def prepare(repo, revision, book, host, base, build, out, previous=None):
         raise ValueError("Release output must be outside source/build/public trees")
     receipt, receipt_sha, resource_files = verify_resource_build(repo, revision, book, build)
     inherited = inventory(base)
-    if not {"index.html", "sitemap.xml"}.issubset(inherited):
-        raise ValueError("Existing site lacks homepage or sitemap")
+    if "index.html" not in inherited:
+        raise ValueError("Existing site lacks homepage")
+    old = {}
     old_resources = {k: v for k, v in inherited.items() if k.startswith("ressources/")}
     if (base / "ressources").exists():
         if not old_resources:
@@ -165,12 +201,21 @@ def prepare(repo, revision, book, host, base, build, out, previous=None):
     elif previous is not None:
         raise ValueError("Previous resource receipt without existing resources")
     homepage = add_navigation((base / "index.html").read_bytes())
-    sitemap = add_sitemap((base / "sitemap.xml").read_bytes(), host,
+    sitemap_base = ((base / "sitemap.xml").read_bytes() if "sitemap.xml" in inherited
+                    else initial_sitemap(base, host))
+    sitemap = add_sitemap(sitemap_base, host,
                           ["/" + name for name in resource_files],
                           ["/" + name for name in old_resources])
     expected = {name: info for name, info in inherited.items() if name not in old_resources}
     expected.update(resource_files)
-    for name, content in (("index.html", homepage), ("sitemap.xml", sitemap)):
+    changes = {"index.html": homepage, "sitemap.xml": sitemap}
+    route_map = {item["source"]: item["route"] for item in receipt["resources"]}
+    previous_map = old.get("working_link_routes", {})
+    for name in working_link_pages:
+        if not re.fullmatch(r"[a-z0-9-]+\.html", name) or name not in inherited or name == "index.html":
+            raise ValueError("Invalid explicitly managed working link page")
+        changes[name] = project_working_links((base / name).read_bytes(), route_map, previous_map)
+    for name, content in changes.items():
         expected[name] = {"sha256": digest(content), "size": len(content)}
     tree_sha = digest(canonical(expected))
     dest = out / f"{book}-resources-{tree_sha}"
@@ -184,6 +229,7 @@ def prepare(repo, revision, book, host, base, build, out, previous=None):
         "base_tree_sha256": digest(canonical(inherited)),
         "tree_sha256": tree_sha, "release": dest.name,
         "resource_files": resource_files, "files": expected,
+        "working_link_routes": route_map if working_link_pages else {},
     }
     # Do not create a duplicate release when the current site already serves
     # exactly the requested bytes. Verify ownership and all inputs above first.
@@ -214,8 +260,8 @@ def prepare(repo, revision, book, host, base, build, out, previous=None):
         if old_resources:
             shutil.rmtree(site / "ressources")
         shutil.copytree(build / "site" / "ressources", site / "ressources")
-        (site / "index.html").write_bytes(homepage)
-        (site / "sitemap.xml").write_bytes(sitemap)
+        for name, content in changes.items():
+            (site / name).write_bytes(content)
         if inventory(site) != expected:
             raise ValueError("Assembled release differs from complete byte manifest")
         (staging / "receipt.json").write_bytes(canonical(result))
@@ -236,9 +282,10 @@ def main():
     parser.add_argument("--build", type=Path, required=True)
     parser.add_argument("--out", type=Path, required=True)
     parser.add_argument("--previous-receipt", type=Path)
+    parser.add_argument("--working-link-page", action="append", default=[])
     args = parser.parse_args()
     result = prepare(args.repo, args.revision, args.book, args.host, args.base,
-                     args.build, args.out, args.previous_receipt)
+                     args.build, args.out, args.previous_receipt, args.working_link_page)
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 

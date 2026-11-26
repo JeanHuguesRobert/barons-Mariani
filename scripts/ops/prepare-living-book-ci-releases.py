@@ -20,7 +20,9 @@ spec.loader.exec_module(release)
 REPO = "JeanHuguesRobert/barons-Mariani"
 WORKFLOW = ".github/workflows/living-books-resources.yml"
 SITES = {"1755": ("1755", "1755.acorsica.org"),
-         "rise-and-fall": ("riseandfall", "riseandfall.baronsmariani.org")}
+         "rise-and-fall": ("riseandfall", "riseandfall.baronsmariani.org"),
+         "musee": ("musee", "museum.baronsmariani.org")}
+WORKING_LINK_PAGES = {"musee": ("annexes.html", "magazine.html")}
 
 
 def pinned_factory(repo, revision):
@@ -96,7 +98,8 @@ def consume(repo, revision, artifact, out, previous_dir, webroot=Path("/srv/www"
         plans.append((book, host, current, base, build, previous))
     results = []
     for book, host, current, base, build, previous in plans:
-        r = release.prepare(repo, revision, book, host, base, build, out, previous)
+        r = release.prepare(repo, revision, book, host, base, build, out, previous,
+                            WORKING_LINK_PAGES.get(book, ()))
         if current.resolve() != base:
             raise ValueError("Current changed during assembly: " + book)
         results.append(r)

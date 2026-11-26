@@ -91,6 +91,36 @@ with tempfile.TemporaryDirectory(prefix="resource-release-test-") as tmp:
     assert third["tree_sha256"] != first["tree_sha256"]
     assert third["files"]["book.pdf"] == first["files"]["book.pdf"]
     assert (out / third["release"] / "site/ressources/a.html").read_text() == "A changed"
+    # A working site without a sitemap can be onboarded without
+    # altering a frozen book or unrelated pages.
+    (base / "sitemap.xml").unlink()
+    (base / "index.html").write_text(
+        '<link rel="canonical" href="https://test.example/">'
+        '<nav><a href="/">Accueil</a></nav>')
+    (base / "annexes.html").write_text(
+        '<link rel="canonical" href="https://test.example/annexes.html">'
+        '<a href="' + release.SOURCE_URL + 'source.md">Source</a>'
+        '<a href="' + release.SOURCE_URL + 'other.md">Other</a>')
+    before = release.inventory(base)
+    fourth = release.prepare(repo, rev, "test", "test.example", base, build, out,
+                             working_link_pages=("annexes.html",))
+    fourth_dir = out / fourth["release"]
+    assert release.inventory(base) == before
+    assert fourth["files"]["book.pdf"] == before["book.pdf"]
+    annexes = (fourth_dir / "site/annexes.html").read_text()
+    assert 'href="/ressources/a.html">Source' in annexes
+    assert release.SOURCE_URL + 'other.md' in annexes
+    sitemap = (fourth_dir / "site/sitemap.xml").read_text()
+    assert 'https://test.example/annexes.html' in sitemap
+    assert 'https://test.example/ressources/a.html' in sitemap
+    assert release.prepare(repo, rev, "test", "test.example",
+        fourth_dir / "site", build, out, fourth_dir / "receipt.json",
+        ("annexes.html",))["outcome"] == "CURRENT_VERIFIED"
+    assert 'href="/ressources/new.html"' in release.project_working_links(
+        annexes.encode(), {"source.md": "/ressources/new.html"},
+        {"source.md": "/ressources/a.html"}).decode()
+    assert release.SOURCE_URL + 'source.md' in release.project_working_links(
+        annexes.encode(), {}, {"source.md": "/ressources/a.html"}).decode()
     (site / "a.html").write_text("tampered")
     must_fail(prepare, "integrity mismatch")
     (site / "a.html").write_text("A changed")

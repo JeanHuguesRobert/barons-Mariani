@@ -1,0 +1,49 @@
+schema: living-book.selection/v0
+status: working
+# First pilot: the public Markdown references of the existing annexes and magazine.
+resources:
+  - id: intention
+    route: /ressources/intention.html
+    source: musee-mariani/intention.md
+  - id: plan-museal
+    route: /ressources/plan-museal.html
+    source: musee-mariani/plan-museal.md
+  - id: doctrine-museologique
+    route: /ressources/doctrine-museologique.html
+    source: musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - id: minesteggio-la-gaude
+    route: /ressources/minesteggio-la-gaude.html
+    source: research/mariani_school_sites_minesteggio_la_gaude.md
+  - id: index-ateliers
+    route: /ressources/index-ateliers.html
+    source: musee-mariani/README.md
+  - id: atelier-ble
+    route: /ressources/atelier-ble.html
+    source: musee-mariani/ateliers/ble_minesteggio_2019_2027.md
+  - id: atelier-ane
+    route: /ressources/atelier-ane.html
+    source: musee-mariani/ateliers/atelier_culture_de_l_ane.md
+  - id: atelier-huiles-essentielles
+    route: /ressources/atelier-huiles-essentielles.html
+    source: musee-mariani/ateliers/atelier_huiles_essentielles.md
+  - id: atelier-miel
+    route: /ressources/atelier-miel.html
+    source: musee-mariani/ateliers/atelier_miel.md
+  - id: casa-mariani
+    route: /ressources/casa-mariani.html
+    source: musee-mariani/presentation-publique-casa-mariani.md
+  - id: bouteille-a-la-mer
+    route: /ressources/bouteille-a-la-mer.html
+    source: musee-mariani/methodes/bouteille_a_la_mer.md
+  - id: livre-vivant
+    route: /ressources/livre-vivant.html
+    source: research/livre_vivant.md
+  - id: musee-janus
+    route: /ressources/musee-janus.html
+    source: musee-mariani/musee_janus_note_fondatrice.md
+  - id: lancement-2026-11-15
+    route: /ressources/lancement-2026-11-15.html
+    source: projects/musee/magazine/2026-11-15-lancement-du-livre-vivant.md
+  - id: activites-2026-11-15
+    route: /ressources/activites-2026-11-15.html
+    source: projects/musee/magazine/2026-11-15-etat-initial-des-activites.md
