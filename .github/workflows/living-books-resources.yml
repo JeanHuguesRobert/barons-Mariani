@@ -1,0 +1,88 @@
+name: Living Books — incremental resource builds
+
+# Any committed Corpus path can be a declared resource dependency.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: living-books-resource-builds-main
+  cancel-in-progress: false
+
+jobs:
+  build-resources:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Allocate runner-local build paths
+        shell: bash
+        run: |
+          echo "RESOURCE_CACHE=$RUNNER_TEMP/living-book-resources" >> "$GITHUB_ENV"
+          echo "RESOURCE_PLAN=$RUNNER_TEMP/living-book-resource-plan.json" >> "$GITHUB_ENV"
+          echo "RESOURCE_RESULT=$RUNNER_TEMP/living-book-resource-result.json" >> "$GITHUB_ENV"
+      - name: Checkout exact Corpus revision with source history
+        uses: actions/checkout@v4
+        with:
+          path: corpus
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Checkout pinned Living Book Factory
+        uses: actions/checkout@v4
+        with:
+          repository: JeanHuguesRobert/cogentia
+          ref: c02f95a75463f2d2169e70f0ccc0b85db01e4476
+          path: factory
+          persist-credentials: false
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.28.2
+          run_install: false
+          package_json_file: factory/package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install pinned Factory dependencies
+        working-directory: factory
+        run: pnpm install --frozen-lockfile --ignore-scripts
+      - name: Compute exact declared resource dependency fingerprints
+        id: plan
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RESOURCE_CACHE"
+          node factory/scripts/living-book.js build-resources corpus --out "$RESOURCE_CACHE" --plan > "$RESOURCE_PLAN"
+          python3 corpus/scripts/ops/living-books-resource-ci.py plan "$RESOURCE_PLAN" >> "$GITHUB_OUTPUT"
+      - name: Restore previous verified resource cache
+        id: cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.RESOURCE_CACHE }}
+          key: lbf-resources-v1-${{ steps.plan.outputs.fingerprint }}
+          restore-keys: |
+            lbf-resources-v1-
+      - name: Build only changed books and verify cache hits
+        shell: bash
+        run: |
+          set -euo pipefail
+          node factory/scripts/living-book.js build-resources corpus --out "$RESOURCE_CACHE" > "$RESOURCE_RESULT"
+          python3 corpus/scripts/ops/living-books-resource-ci.py finish "$RESOURCE_PLAN" "$RESOURCE_RESULT" "$RESOURCE_CACHE" "$RUNNER_TEMP/lbf-resource-artifacts" "$GITHUB_SHA" "$(git -C factory rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - name: Save current resource cache
+        if: steps.cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ env.RESOURCE_CACHE }}
+          key: lbf-resources-v1-${{ steps.plan.outputs.fingerprint }}
+      - name: Archive current public resource projections and build receipt
+        uses: actions/upload-artifact@v4
+        with:
+          name: living-books-resource-build-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/lbf-resource-artifacts/
+          if-no-files-found: error
+          retention-days: 7
+
+# No Git writes, website publication, deployment credentials or frozen editions.
