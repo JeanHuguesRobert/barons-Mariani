@@ -5,8 +5,8 @@ description: "Définition source du concept de Livre Vivant : cinq faces complé
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-02"
-last_modified_at: "2026-11-15"
-version: "0.2"
+last_modified_at: "2026-11-26"
+version: "0.3"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -434,6 +434,20 @@ autre composant composable
 Ainsi, le wiki sous-jacent n'est pas limité à des pages textuelles.
 
 > **Une page est une unité adressable de connaissance ou de capacité.**
+
+Le lecteur doit pouvoir consulter les ressources documentaires publiques
+retenues par le Livre Vivant sur son site canonique, sans devoir connaître
+le dépôt technique qui conserve le Corpus. L'identité de la ressource et
+son adresse publique ne se confondent pas avec le chemin de son fichier
+source. Une même source souveraine peut alimenter plusieurs Livres Vivants,
+chacun dans son propre contexte éditorial, sans duplication de la source.
+
+L'accessibilité réelle d'une projection se vérifie sur le site public.
+Une fabrication réussie n'est pas une publication ; une sélection
+documentaire partielle n'est pas une couverture exhaustive du Corpus.
+La couverture progresse par décisions éditoriales explicites et
+corrigibles, sans divulgation automatique des références non sélectionnées.
+
 
 Le Site permet notamment d'accéder :
 

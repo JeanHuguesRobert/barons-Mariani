@@ -25,12 +25,15 @@ SITES = {"1755": ("1755", "1755.acorsica.org"),
          "school": ("school", "school.acorsica.org"),
          "commons": ("commons", "commons.acorsica.org"),
          "institut": ("institut", "institut.acorsica.org"),
-         "privai": ("privai", "privai.acorsica.org")}
+         "privai": ("privai", "privai.acorsica.org"),
+         "napoleon": ("napoleon", "napoleon.acorsica.org"),
+         "village": ("village", "village.acorsica.org")}
 WORKING_LINK_PAGES = {
     "musee": ("annexes.html", "magazine.html"),
     "commons": ("annexes.html", "sources.html", "magazine.html"),
     "institut": ("magazine.html",),
     "privai": ("annexes.html", "sources.html", "magazine.html"),
+    "village": ("magazine.html",),
 }
 
 

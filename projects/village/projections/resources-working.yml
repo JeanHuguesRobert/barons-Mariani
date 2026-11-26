@@ -1,0 +1,12 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: lancement-village
+    route: /ressources/lancement-village.html
+    source: projects/village/magazine/2026-10-04-lancement-livre-vivant-mariani-village.md
+  - id: communs-energetiques
+    route: /ressources/communs-energetiques.html
+    source: projects/commons/magazine/2026-10-04-communs-energetiques-fractavolta.md
+  - id: homeostasie-habitat
+    route: /ressources/homeostasie-habitat.html
+    source: research/homeostasie_habitat.md

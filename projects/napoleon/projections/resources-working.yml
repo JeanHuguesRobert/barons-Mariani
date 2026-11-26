@@ -1,0 +1,9 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: bootstrap-twin
+    route: /ressources/bootstrap-twin.html
+    source: projects/napoleon/magazine/2026-10-02-bootstrap-twin.md
+  - id: campagne-du-reel
+    route: /ressources/campagne-du-reel.html
+    source: projects/napoleon/magazine/2026-10-05-transposition-campagne-du-reel.md
