@@ -1,0 +1,47 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: gaffori-mariani-1801
+    route: /ressources/gaffori-mariani-1801.html
+    source: musee-mariani/sources/gaffori-mariani-actes-2026-11-26.md
+  - id: meurgey-tableau-1
+    route: /ressources/meurgey-tableau-1.html
+    source: musee-mariani/sources/meurgey-1933/apparatus/tableau-01-les-mariani.md
+  - id: gaffori-enquete-2026-11-18
+    route: /ressources/gaffori-enquete-2026-11-18.html
+    source: projects/1755/sources/gaffori-descendance-enquete-2026-11-18.md
+# Explicit dispositions for the first bounded text pilot, not exhaustive
+# Corpus reconciliation or an authorization to publish.
+dispositions:
+  - schema: cogentia.delta-disposition/v0
+    id: meurgey-transcription
+    sources: [musee-mariani/sources/meurgey-1933/transcription/p004.md]
+    summary: Transcription citée par les ressources secondaires
+    significance: unknown
+    projection_relevance: medium
+    disposition: DEFERRED
+    rationale: Examiner et qualifier cette source dans une prochaine boucle de couverture.
+  - schema: cogentia.delta-disposition/v0
+    id: meurgey-etat-branches
+    sources: [musee-mariani/sources/meurgey-1933/apparatus/etat-branches-tableau-01-2026.md]
+    summary: État des branches cité par le tableau
+    significance: unknown
+    projection_relevance: medium
+    disposition: DEFERRED
+    rationale: Le premier pilote privilégie le dossier et ses deux références immédiates.
+  - schema: cogentia.delta-disposition/v0
+    id: minesteggio-contexte
+    sources: [research/projet_minesteggio.md]
+    summary: Contexte patrimonial cité par l'enquête du 18 novembre
+    significance: unknown
+    projection_relevance: low
+    disposition: DEFERRED
+    rationale: Examiner sa place dans chaque Livre Vivant séparément.
+  - schema: cogentia.delta-disposition/v0
+    id: reproductions-actes
+    sources: [musee-mariani/sources/gaffori-mariani-actes-2026-11-26.md]
+    summary: Cinq reproductions historiques non incluses dans le dossier textuel
+    significance: high
+    projection_relevance: high
+    disposition: REJECTED
+    rationale: Exclues du présent pilote textuel uniquement. Conservation et éventuelle reproduction relèvent d'une décision distincte.
