@@ -1,0 +1,31 @@
+schema: living-book.selection/v0
+status: working
+# Bounded public resource pilot; existing working pages and current documentary sources.
+resources:
+  - id: declaration-1995-1996
+    route: /ressources/declaration-1995-1996.html
+    source: projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md
+  - id: statuts-1995
+    route: /ressources/statuts-1995.html
+    source: projects/institut/sources/statuts-corsica-1995-transcription.md
+  - id: statuts-1995-errata
+    route: /ressources/statuts-1995-errata.html
+    source: projects/institut/sources/statuts-corsica-1995-transcription-errata.md
+  - id: ag-2020-extrait
+    route: /ressources/ag-2020-extrait.html
+    source: projects/institut/sources/pv-ag-corsica-2020-institutional-extract.md
+  - id: communs-energetiques
+    route: /ressources/communs-energetiques.html
+    source: projects/commons/magazine/2026-10-04-communs-energetiques-fractavolta.md
+  - id: electeur-synthetique
+    route: /ressources/electeur-synthetique.html
+    source: projects/privai/magazine/2026-10-04-illusion-electeur-synthetique.md
+dispositions:
+  - schema: cogentia.delta-disposition/v0
+    id: anciennes-transcriptions
+    sources: [projects/institut/sources/statuts-1995-transcription.md, projects/institut/sources/recepisse-jo-1996-transcription.md]
+    summary: Anciennes transcriptions conservées pour provenance
+    significance: medium
+    projection_relevance: medium
+    disposition: SUPERSEDED
+    rationale: Projeter les transcriptions canoniques plus récentes et conserver les anciennes dans le Corpus.

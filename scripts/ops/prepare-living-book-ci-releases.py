@@ -22,8 +22,16 @@ WORKFLOW = ".github/workflows/living-books-resources.yml"
 SITES = {"1755": ("1755", "1755.acorsica.org"),
          "rise-and-fall": ("riseandfall", "riseandfall.baronsmariani.org"),
          "musee": ("musee", "museum.baronsmariani.org"),
-         "school": ("school", "school.acorsica.org")}
-WORKING_LINK_PAGES = {"musee": ("annexes.html", "magazine.html")}
+         "school": ("school", "school.acorsica.org"),
+         "commons": ("commons", "commons.acorsica.org"),
+         "institut": ("institut", "institut.acorsica.org"),
+         "privai": ("privai", "privai.acorsica.org")}
+WORKING_LINK_PAGES = {
+    "musee": ("annexes.html", "magazine.html"),
+    "commons": ("annexes.html", "sources.html", "magazine.html"),
+    "institut": ("magazine.html",),
+    "privai": ("annexes.html", "sources.html", "magazine.html"),
+}
 
 
 def pinned_factory(repo, revision):

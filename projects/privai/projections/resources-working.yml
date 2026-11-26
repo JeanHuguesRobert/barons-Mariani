@@ -1,0 +1,40 @@
+schema: living-book.selection/v0
+status: working
+# Bounded public resource pilot; existing working pages and current documentary sources.
+resources:
+  - id: anti-demos
+    route: /ressources/anti-demos.html
+    source: projects/privai/doctrine/anti-demos.md
+  - id: matrice-asymetries
+    route: /ressources/matrice-asymetries.html
+    source: projects/privai/annexes/matrice-asymetries-personnes-morales.md
+  - id: inventeur-humain
+    route: /ressources/inventeur-humain.html
+    source: projects/privai/annexes/precedents-juridiques-inventeur-humain.md
+  - id: reality-cases
+    route: /ressources/reality-cases.html
+    source: projects/privai/cases/README.md
+  - id: sources-n1
+    route: /ressources/sources-n1.html
+    source: projects/privai/sources/README.md
+  - id: grammaire-autonomie
+    route: /ressources/grammaire-autonomie.html
+    source: research/autonomia/grammaire_autonomie_de_capacite.md
+  - id: democratic-ai-safety
+    route: /ressources/democratic-ai-safety.html
+    source: research/democratic_ai_safety.md
+  - id: livre-vivant
+    route: /ressources/livre-vivant.html
+    source: research/livre_vivant.md
+  - id: pathologie-du-secret
+    route: /ressources/pathologie-du-secret.html
+    source: research/pathologie_du_secret.md
+  - id: traceabilite-des-actes
+    route: /ressources/traceabilite-des-actes.html
+    source: research/traceabilite_des_actes.md
+  - id: electeur-synthetique
+    route: /ressources/electeur-synthetique.html
+    source: projects/privai/magazine/2026-10-04-illusion-electeur-synthetique.md
+  - id: nobles-douze-algorithmiques
+    route: /ressources/nobles-douze-algorithmiques.html
+    source: projects/privai/magazine/2026-10-04-le-syndrome-des-nobles-douze-algorithmiques.md

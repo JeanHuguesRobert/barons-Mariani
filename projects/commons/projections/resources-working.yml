@@ -1,0 +1,28 @@
+schema: living-book.selection/v0
+status: working
+# Bounded public resource pilot; existing working pages and current documentary sources.
+resources:
+  - id: archives-communaux-corse
+    route: /ressources/archives-communaux-corse.html
+    source: projects/commons/annexes/archives-communaux-corse.md
+  - id: carta-de-foresta-1217
+    route: /ressources/carta-de-foresta-1217.html
+    source: projects/commons/annexes/carta-de-foresta-1217.md
+  - id: comparatif-licences-ia
+    route: /ressources/comparatif-licences-ia.html
+    source: projects/commons/annexes/comparatif-licences-ia.md
+  - id: grille-ostrom-audit
+    route: /ressources/grille-ostrom-audit.html
+    source: projects/commons/annexes/grille-ostrom-audit.md
+  - id: nobles-douze
+    route: /ressources/nobles-douze.html
+    source: projects/commons/annexes/nobles-douze-et-gouvernance-corse.md
+  - id: communs-energetiques
+    route: /ressources/communs-energetiques.html
+    source: projects/commons/magazine/2026-10-04-communs-energetiques-fractavolta.md
+  - id: eau-rare
+    route: /ressources/eau-rare.html
+    source: projects/commons/magazine/2026-10-04-eau-rare-et-consorzi-mediterraneens.md
+  - id: enclosure-cloud-ia
+    route: /ressources/enclosure-cloud-ia.html
+    source: projects/commons/magazine/2026-10-04-enclosure-du-cloud-et-ia.md

@@ -6,7 +6,7 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 date: "2026-10-04"
 version: "0.1"
 status: "working-paper"
-license: "CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/magazine/2026-10-04-le-syndrome-des-nobles-douze-algorithmiques.md"
 document_role: "source"
