@@ -54,3 +54,8 @@ Telle est la vocation vivante de ce Livre : faire dialoguer le serment démocrat
 La discussion constitutionnelle relative à l'autonomie corse en 2026 permet de poser une question contemporaine distincte de l'histoire de 1755 : quelles conditions font qu'une attribution de pouvoirs devient une capacité réellement exerçable et contrôlable ? Le rapprochement est **heuristique**, non une démonstration de filiation institutionnelle directe.
 
 La [méthode des terrains féconds](../../../../research/methode_terrains_feconds.md) invite à dépasser l'alternative abstraite entre pouvoirs territoriaux et garanties communes en examinant, séparément, les règles, les moyens, le contrôle et les effets. [Autonomia](../../../../research/autonomia.md) développe cette hypothèse à l'échelle territoriale. L'histoire demeure soumise à ses propres preuves ; elle n'est pas mobilisée comme validation automatique d'une proposition politique actuelle.
+
+
+## Complément documentaire — 26 novembre 2026
+
+Les réseaux familiaux cortenais prolongent cette enquête historique : trois actes de 1777 à 1833 précisent le mariage Mariani–Gaffori de 1801. Ils ne démontrent pas une descendance directe du général ; la distinction entre homonymes et la piste Filippini sont exposées dans le [dossier critique](../../../../musee-mariani/sources/gaffori-mariani-actes-2026-11-26.md).

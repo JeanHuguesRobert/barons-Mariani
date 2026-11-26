@@ -70,3 +70,8 @@ Les titres fonciers, autorisations et rapports archéologiques doivent être vé
 **Protocole de comparaison :** pour chaque époque, distinguer la règle déclarée, ses destinataires, ses procédures de mise en œuvre, ses contrôles et ses effets observables. Relever les contre-exemples et les silences. Le principe d'effectivité est une grille d'analyse contemporaine, non une expression attribuée rétroactivement à Paoli.
 
 Ces références renforcent la passerelle éditoriale *Rise & Fall* / *1755* / *Autonomia* sans faire de l'annexe une nouvelle source souveraine et sans modifier les restrictions de diffusion des pièces privées relatives aux Capucins.
+
+
+## Complément documentaire — 26 novembre 2026
+
+Les actes de baptême (1777), mariage (1801) et décès (1833) précisent une alliance déjà connue de Meurgey : Hyacinthe Mariani et Maria Vincenza Luigia Gaffori. Ils permettent de distinguer naissance et baptême et ouvrent une enquête sur deux François-Antoine homonymes. [Relevé critique et provenance](../../../../musee-mariani/sources/gaffori-mariani-actes-2026-11-26.md).

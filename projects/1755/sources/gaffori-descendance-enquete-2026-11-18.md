@@ -207,3 +207,8 @@ La proposition **« tous les Gaffori corses encore présents descendent du gén�
 **Dossiers prioritaires** : (1) naissance/mariage/filiation de Mathieu Gaffori de Salice vers 1770–1776, et actes de ses enfants ; (2) ascendances et fratrie de **Filippo Antonio Gafforio**, père présumé du général, ainsi que familles GAFFORI de Corte avant 1704 ; (3) un tronc Guagno GAFFORY au XVIIIe siècle, sans le confondre avec Salice ; (4) tableau des collatéraux et variantes du nom, uniquement pour reconstituer les filiations historiques et distinguer les foyers familiaux.
 
 **Statut : recherches secondaires recoupées, certains recensements précisément localisés mais non relus sur fac-similés dans cette passe ; aucune généalogie exhaustive des porteurs contemporains.**
+
+
+## Complément documentaire — 26 novembre 2026
+
+Les actes de Corte de 1777, 1801 et 1833 documentent une autre alliance Mariani–Gaffori. Le père de la mariée, Francesco Antonio, paraît distinct du fils du général mort en 1796. Ne pas fusionner les identités. Voir le [relevé critique des trois actes](../../../musee-mariani/sources/gaffori-mariani-actes-2026-11-26.md).
