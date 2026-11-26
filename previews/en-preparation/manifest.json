@@ -191,7 +191,7 @@
     {
       "id": "1755",
       "page": "1755.html",
-      "source_sha256": "be41f9e75b856956bfd87ee4dbc9224ee300dfa56f462cda2482855afbac7294",
+      "source_sha256": "5b965fcb4b6a001d956086dc37bb60bcdfd459fb2f0ebd00df42cb9b70e30943",
       "inputs": [
         {
           "path": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
@@ -199,7 +199,7 @@
         },
         {
           "path": "projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md",
-          "sha256": "abb624a9c570efd8e2e91fd5c37b6e74b08624b838636fe7c4103e2fa4553b15"
+          "sha256": "22b170230924fab1b1a254191dcd71b8301f04d3a62be702a37fab46067e728d"
         },
         {
           "path": "projects/1755/cases/case-01-dieta-generale-1755.md",
@@ -214,7 +214,7 @@
     {
       "id": "rise-and-fall",
       "page": "rise-and-fall.html",
-      "source_sha256": "cc7f6ddf552641017d996b8dd4c6cd5c0a7afb2a04d9502f547c1e9df22ae281",
+      "source_sha256": "137e5d7ffdead666b2f3aef544bab7cf6fd19c10003c19d855c46cb586d6b5ad",
       "inputs": [
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",
@@ -230,7 +230,7 @@
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/annexes.md",
-          "sha256": "9b42d32b9186bcb8fae8df250a011910c593f8d3cec7a6312245dc250861de30"
+          "sha256": "149575d0a6df72c62d403d9e784277b14658055619a5f915a3ce1901cd7dd7d3"
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/passerelles.md",
