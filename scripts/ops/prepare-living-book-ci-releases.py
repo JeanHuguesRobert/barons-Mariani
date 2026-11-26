@@ -21,7 +21,8 @@ REPO = "JeanHuguesRobert/barons-Mariani"
 WORKFLOW = ".github/workflows/living-books-resources.yml"
 SITES = {"1755": ("1755", "1755.acorsica.org"),
          "rise-and-fall": ("riseandfall", "riseandfall.baronsmariani.org"),
-         "musee": ("musee", "museum.baronsmariani.org")}
+         "musee": ("musee", "museum.baronsmariani.org"),
+         "school": ("school", "school.acorsica.org")}
 WORKING_LINK_PAGES = {"musee": ("annexes.html", "magazine.html")}
 
 

@@ -1,0 +1,7 @@
+schema: living-book.selection/v0
+status: working
+# Shared canonical source with the Musée Mariani; no duplicate source.
+resources:
+  - id: minesteggio-la-gaude
+    route: /ressources/minesteggio-la-gaude.html
+    source: research/mariani_school_sites_minesteggio_la_gaude.md
