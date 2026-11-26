@@ -185,6 +185,11 @@ def prepare(repo, revision, book, host, base, build, out, previous=None):
         "tree_sha256": tree_sha, "release": dest.name,
         "resource_files": resource_files, "files": expected,
     }
+    # Do not create a duplicate release when the current site already serves
+    # exactly the requested bytes. Verify ownership and all inputs above first.
+    if expected == inherited:
+        result["outcome"] = "CURRENT_VERIFIED"
+        return result
     # Keep provenance and operational metadata outside the public document root.
     # Identical deployed bytes have identical identity, independent of unrelated commits.
     if dest.exists():

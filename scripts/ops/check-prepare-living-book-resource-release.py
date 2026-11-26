@@ -74,7 +74,11 @@ with tempfile.TemporaryDirectory(prefix="resource-release-test-") as tmp:
     assert (new / "site/sitemap.xml").read_text().count("https://test.example/ressources/a.html") == 1
     assert not (new / "site/receipt.json").exists()
     must_fail(lambda: prepare(new / "site"), "previous release receipt")
-    assert prepare(new / "site", new / "receipt.json")["tree_sha256"] == first["tree_sha256"]
+    before_count = len(list(out.iterdir()))
+    unchanged = prepare(new / "site", new / "receipt.json")
+    assert unchanged["tree_sha256"] == first["tree_sha256"]
+    assert unchanged["outcome"] == "CURRENT_VERIFIED"
+    assert len(list(out.iterdir())) == before_count
     (base / "manifest.json").write_bytes(b'{"shared":false}')
     second = prepare()
     assert second["tree_sha256"] != first["tree_sha256"]

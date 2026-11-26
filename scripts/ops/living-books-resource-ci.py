@@ -61,13 +61,21 @@ def finish(plan_path, result_path, cache, output, corpus_revision, factory_revis
         if not receipt.get("selection_revision") or any(
                 not source.get("source_revision") for source in receipt["resources"]):
             raise ValueError("CI projections require committed source provenance")
+        # Transport only the provenance required by the existing release
+        # assembler. Editorial dispositions and unresolved links stay local.
+        projected = {key: receipt[key] for key in (
+            "schema", "book_id", "input_sha256", "implementation_sha256",
+            "selection_sha256", "selection_revision", "resources", "artifacts")}
+        raw = canonical(projected) + b"\n"
         summary.append({"book_id": book, "input_sha256": item["input_sha256"],
-                        "status": item["status"], "artifacts": receipt["artifacts"]})
-        sites.append((book, directory / "site"))
+                        "status": item["status"], "artifacts": receipt["artifacts"],
+                        "projection_receipt_sha256": hashlib.sha256(raw).hexdigest()})
+        sites.append((book, directory / "site", raw))
     output.mkdir()
-    for book, site in sites:
-        shutil.copytree(site, output / book)
-    result = {"schema": "living-book.resource-ci/v1", "outcome": "BUILD_VERIFIED",
+    for book, site, raw in sites:
+        shutil.copytree(site, output / book / "site")
+        (output / book / "receipt.json").write_bytes(raw)
+    result = {"schema": "living-book.resource-ci/v2", "outcome": "BUILD_VERIFIED",
               "corpus_revision": corpus_revision, "factory_revision": factory_revision,
               "books": summary, "publication": "not_attempted"}
     (output / "build-receipt.json").write_bytes(canonical(result) + b"\n")
