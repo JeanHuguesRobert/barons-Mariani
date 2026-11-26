@@ -8,6 +8,7 @@ ai_assisted_by:
 author: Jean Hugues Noël Robert, baron Mariani
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/the_network_is_the_learning_computer.md"
 changelog:
+- v0.11 (2026-11-26) — records the Principal's retrospective testimony and organizational mimesis hypothesis; connects network programmability, human augmentation and DHITL.
 - v0.1 (2026-08-15) — initial formulation under the title The Network is
   the Computer, Revisited.
 - v0.2 (2026-08-15) — made the paper self-contained; added internal and
@@ -68,7 +69,7 @@ description: An independent-research working paper proposing Cognitive
 document_kind: research-paper
 document_role: source
 language: en
-last_modified_at: 2026-09-19
+last_modified_at: '2026-11-26'
 last_stamped_at: unknown
 license: CC BY-SA 4.0
 lifecycle_state: working
@@ -137,7 +138,7 @@ tags:
 - independent-research
 title: The Network is the Learning Computer
 update_policy: UP-ARCHAEOLOGY-LIVING
-version: "0.10"
+version: "0.11"
 visibility: public
 ---
 
@@ -258,6 +259,22 @@ Revisited*.
 The stronger candidate is:
 
 > **The Network is the Learning Computer.**
+
+## Organizational mimesis and the programmable network (2026-11-26)
+
+**Principal's retrospective testimony:** Jean Hugues Noël Robert studied the JVM, Jini and related distributed-computing approaches around 1999. He recalls expecting the JVM to enable Sun's vision. His present hypothesis is that the decisive limitation was imagination rather than the fundamental availability of technology: a successful organizational model might have been realizable thirty years earlier, or even before computers existed. This is testimony and a research hypothesis, not a demonstrated explanation of Jini's historical trajectory.
+
+The Principal's current formulation is **The Programmable Network is the Learning Computer**. Programmability concerns the network itself: procedural control can move towards local capabilities, rather than requiring every operation to be orchestrated remotely. Learning includes the acquisition and transmission of new programs, adapters, coordination methods and organizational capacities.
+
+The proposed method is *organizational mimesis*, an extension of biomimicry. Start with the most sophisticated formal human organizations whose mechanisms we understand; identify the organizational patterns that make them work, and trace their antecedents in earlier social and biological systems where useful. Extract the substrate-independent mechanism before implementing it with the smallest sufficient computational primitives. Existing human cooperation is evidence of organizational possibility, not proof of a particular software implementation.
+
+The intended network includes humans as participants, not merely as a source of analogies. Its cognitive substrate may be human, deterministic software or AI. It should reduce the cost of cooperation and make previously impracticable organizational complexity feasible without imposing that complexity on every participant. The reciprocal hypothesis is that programmable organizations can discover useful patterns and transmit them back to human organizations.
+
+A bounded technical probe is a generic task/worker runtime with local state and explicit continuations, plus independently composable host and domain adapters. A browser tab and a Node.js process offer contrasting test localities; an Inox interpreter embedded in the host is a candidate, not a prerequisite. See [Locality (Cogentia #195)](https://github.com/JeanHuguesRobert/cogentia/issues/195), [Navigation Assistant (#291)](https://github.com/JeanHuguesRobert/cogentia/issues/291), and [Inox #41](https://github.com/JeanHuguesRobert/Inox/issues/41).
+
+The normative boundary is [DHITL — Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md): learning how to cooperate must not transfer human sovereignty to the learning infrastructure. See also [Rendre capable](noyau_doctrinal_rendre_capable.md).
+
+*Provenance: Principal's statements and exploratory synthesis with ChatGPT (GPT-6.2), conversation of 25–26 November 2026; incorporation explicitly authorized on 26 November. The proposed implementation remains to be tested.*
 
 # 2. Independent research posture
 
