@@ -161,8 +161,11 @@ def perform(repo, site_root, revision, apply):
         for name in ("book.html", "book.pdf", "book.epub")
     }
     version = digest(
-        files["capable.html"] + files["capable.pdf"] +
-        files["capable.epub"] + new_page.encode("utf-8") +
+        # Include every published preview blob, including the shared manifest
+        # and format receipt. A change to another book may change the manifest
+        # without changing Capable's reader files.
+        b"".join(bytes.fromhex(digest(files[name])) for name in PREVIEW) +
+        new_page.encode("utf-8") +
         case_page.encode("utf-8") + magazine_page.encode("utf-8") +
         annexes_page.encode("utf-8") +
         b"".join(guide_assets[name] for name in GUIDE_ASSETS) +

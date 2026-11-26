@@ -123,6 +123,21 @@ def main():
         assert module.comparable_release_receipts(receipt, expected)
         expected["input_count"] += 1
         assert not module.comparable_release_receipts(receipt, expected)
+        # A sibling Living Book changes the shared manifest only. The new
+        # manifest must produce a distinct immutable release, not a collision.
+        from unittest.mock import patch
+        candidate = module.read_candidate(REPO, revision)
+        changed_files = dict(candidate[0])
+        manifest = json.loads(changed_files["manifest.json"])
+        manifest["books"].append({"id": "test-sibling", "source_sha256": "b" * 64})
+        changed_files["manifest.json"] = json.dumps(manifest).encode()
+        with patch.object(module, "read_candidate", return_value=(changed_files, *candidate[1:])):
+            sibling = module.perform(REPO, root, revision, True)
+            assert sibling["release"] != new["release"]
+            assert (active / "candidate-manifest.json").read_bytes() == candidate[0]["manifest.json"]
+            assert (root / "current" / "candidate-manifest.json").read_bytes() == changed_files["manifest.json"]
+            assert module.perform(REPO, root, revision, True)["release"] == sibling["release"]
+        assert len(list(releases.iterdir())) == 3
         print("CANONICAL_DEPLOY_TEST_PASS", new["release"],
               "source_count", new["input_count"], "idempotent", True)
 
