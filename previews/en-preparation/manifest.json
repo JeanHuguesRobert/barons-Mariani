@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "2a272b23784a010690be4c041e805cea571635320f2002ebf32d1a3171a133dc",
+      "source_sha256": "3e4a899fdb167383104ae3adbf4b36011b1187c4b16efb2a96b8c2fead2f941f",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -50,6 +50,10 @@
         {
           "path": "projects/capable/manuscript/10-capable-test.md",
           "sha256": "30e0f47d67626d3e3a4f7741be976a44cadb5daf43d844ac42988d5f2e4842d2"
+        },
+        {
+          "path": "projects/capable/manuscript/11-nouveau-contrat-social.md",
+          "sha256": "a51ed824e68627017ef413fddeb63f56c2fbbd39e6aa43d78d715e30f7e74fb6"
         },
         {
           "path": "projects/capable/magazine/2026-10-28-autonomie-corse.md",
@@ -172,8 +176,20 @@
           "sha256": "8e5d63447615780748ecd086393796e494bf8d4d536e3cc68793781cff030d1c"
         },
         {
+          "path": "projects/capable/doctrine/nouveau-contrat-social.md",
+          "sha256": "78f156b61a350dca4b90ce860402b751280b867b561e6d45dd17948f64b37849"
+        },
+        {
+          "path": "projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md",
+          "sha256": "52eb204abb94192467f09a41732cf093fdb20e065a6aade8f1f59748d0316552"
+        },
+        {
+          "path": "projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md",
+          "sha256": "fbe9589446868f20eb1dc4d213ec1a4ea9b495a8647ede6dfb6214d8f60755c8"
+        },
+        {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "1c6163938baef920a4fb47f6cd381b116e0d2e25c9abe26fad6cd099ad38af76"
+          "sha256": "a7e31e3e5c0b9ed92481ffbc68f55d7bbca9e2c22518d29f694270e8d1c8515e"
         }
       ]
     },

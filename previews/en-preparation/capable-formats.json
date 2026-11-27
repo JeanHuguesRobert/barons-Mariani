@@ -1,18 +1,18 @@
 {
   "schema": "living-books.working-formats/v1",
   "status": "en-preparation-non-gele",
-  "source_sha256": "2a272b23784a010690be4c041e805cea571635320f2002ebf32d1a3171a133dc",
-  "inputs": 42,
-  "html_sha256": "62e5324521628f74207af549b5a4094a18f540c97e3d62320bccc3d744f1f62d",
+  "source_sha256": "3e4a899fdb167383104ae3adbf4b36011b1187c4b16efb2a96b8c2fead2f941f",
+  "inputs": 46,
+  "html_sha256": "61a6fee1c0229f2dc62bc5f621db4999f83da72fb38464be6d899520a6315be2",
   "renderer_sha256": "717e4589c18645f283c367735325468c3cbc9886ab598ffe4fc2fa2da103934a",
   "pdf": {
     "path": "capable.pdf",
-    "sha256": "ae4a0c6270ec28af0fb1ab1d5e1aeafa5dd394476798f4f48d239150a39e6572",
-    "bytes": 1395121
+    "sha256": "e342ab4c4d90a0f06316dc1c9ca6db3d2e42c9a3e320fe59ebb86ab09bca6b64",
+    "bytes": 1509288
   },
   "epub": {
     "path": "capable.epub",
-    "sha256": "e700384e0249ca190302faf4e10448e32f8d0e22b85a973d2f1bfe6535d2f173",
-    "bytes": 103514
+    "sha256": "f60744c2f6096b7076000b58c17d86a0aee73b3cae540a7556674ed9a378c80d",
+    "bytes": 115088
   }
 }
