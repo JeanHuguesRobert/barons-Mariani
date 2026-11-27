@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "3e4a899fdb167383104ae3adbf4b36011b1187c4b16efb2a96b8c2fead2f941f",
+      "source_sha256": "2a1884f8593b422c3006e8551b90cb259faba35beb36639f059fd30d660c9b2d",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -149,7 +149,7 @@
         },
         {
           "path": "projects/capable/doctrine/pacte-republicain-effectivite.md",
-          "sha256": "28712b5d5aebc7c1c0a5bf2d0acda379055f2864432afdc15f3e72ec2495b55c"
+          "sha256": "4cdc149f6155bf2eed107c0080d9d2126256d90276bbd4fb24a5496adabcfe00"
         },
         {
           "path": "research/devise_republicaine/etat_chantier_2026-11-20.md",
@@ -165,7 +165,7 @@
         },
         {
           "path": "projects/capable/doctrine/metaprogramme-politique-generatif.md",
-          "sha256": "073ded1f0d6dbccf79c3ad89ffffc4a2c4893e6e0d00e7030e15d8c409eb8491"
+          "sha256": "a07f8b491a72cc363e3ceaa2f4ea3838753fadc344c93906258a82ef1d1028f1"
         },
         {
           "path": "research/autonomia/grammaire_autonomie_de_capacite.md",
@@ -185,7 +185,7 @@
         },
         {
           "path": "projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md",
-          "sha256": "fbe9589446868f20eb1dc4d213ec1a4ea9b495a8647ede6dfb6214d8f60755c8"
+          "sha256": "711ba18ccfa9009a68eef6f9b44a71bfae918933c34897439383f77e94a201ce"
         },
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
