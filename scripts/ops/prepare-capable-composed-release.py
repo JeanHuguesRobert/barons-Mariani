@@ -157,26 +157,9 @@ def prepare(repo, revision, base, build, out, previous=None):
 
 
 def from_ci(repo, revision, artifact, run, base, out, previous=None):
-    transfer.verify_run(run, revision)
-    summary = json.loads((artifact / "build-receipt.json").read_bytes())
-    if (summary.get("schema") != "living-book.resource-ci/v2"
-            or summary.get("outcome") != "BUILD_VERIFIED"
-            or summary.get("publication") != "not_attempted"
-            or summary.get("corpus_revision") != revision
-            or summary.get("factory_revision") != transfer.pinned_factory(repo, revision)):
-        raise ValueError("CI receipt revision or contract mismatch")
-    matches = [b for b in summary["books"] if b["book_id"] == BOOK]
-    if len(matches) != 1 or matches[0]["status"] not in ("BUILT_VERIFIED", "REUSED_VERIFIED"):
-        raise ValueError("Expected one verified Capable build")
-    build = artifact / BOOK
-    if build.is_symlink() or {p.name for p in build.iterdir()} != {"site", "receipt.json"}:
-        raise ValueError("Unexpected projection build entries")
-    receipt, sha, _ = resource.verify_resource_build(repo, revision, BOOK, build)
-    b = matches[0]
-    if (sha != b["projection_receipt_sha256"] or receipt["input_sha256"] != b["input_sha256"]
-            or receipt["artifacts"] != b["artifacts"]):
-        raise ValueError("CI-to-projection receipt mismatch")
-    return prepare(repo, revision, base, build, out, previous)
+    _, _, delivery = transfer.verify_transfer(repo, revision, artifact, run)
+    result = prepare(repo, revision, base, artifact / BOOK, out, previous)
+    return {**result, "delivery": delivery}
 
 
 def main():
@@ -190,7 +173,7 @@ def main():
     repo = args.repo.resolve(strict=True)
     revision = resource.git(repo, "rev-parse", "origin/main").decode().strip()
     run = json.loads(subprocess.check_output(["gh", "api", f"repos/{transfer.REPO}/actions/runs/{args.run}"]))
-    transfer.verify_run(run, revision)
+    transfer.verify_run(run, repo, revision)
     if run["id"] != args.run:
         raise ValueError("Unexpected run ID")
     current = Path("/srv/www/capable/current")
