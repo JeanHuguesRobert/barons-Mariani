@@ -92,7 +92,9 @@ def verify_resource_build(repo, revision, book, build):
     return receipt, digest(raw), expected
 
 
-def add_navigation(data):
+def add_navigation(data, container="nav"):
+    if container not in ("nav", "header"):
+        raise ValueError("Unsupported navigation container")
     text = data.decode("utf-8")
     if NAV in text:
         if text.count(NAV) != 1:
@@ -100,10 +102,10 @@ def add_navigation(data):
         return data
     if 'data-lbf-resources=' in text or '/ressources/index.html' in text:
         raise ValueError("Unrecognized existing resource navigation")
-    match = re.search(r"<nav\b[^>]*>[\s\S]*?</nav\s*>", text, re.I)
+    match = re.search(r"<" + container + r"\b[^>]*>[\s\S]*?</" + container + r"\s*>", text, re.I)
     if not match:
-        raise ValueError("Homepage lacks navigation")
-    end = text.lower().rfind("</nav", match.start(), match.end())
+        raise ValueError("Homepage lacks configured navigation container")
+    end = text.lower().rfind("</" + container, match.start(), match.end())
     return (text[:end] + "  " + NAV + "\n" + text[end:]).encode()
 
 
@@ -138,16 +140,22 @@ def add_sitemap(data, host, routes, previous_routes=()):
 SOURCE_URL = "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/"
 
 
-def initial_sitemap(base, host):
+def initial_sitemap(base, host, home_page="index.html", entry_route="/"):
     """Only canonical root-level pages actually present, not guessed URLs."""
     locations = []
+    if entry_route != "/":
+        # An explicitly observed redirect destination is the canonical entry
+        # for this layout, even if the legacy page lacks a canonical tag.
+        if entry_route != "/" + home_page:
+            raise ValueError("Entry route does not identify configured homepage")
+        locations.append(f"https://{host}{entry_route}")
     for file in sorted(base.glob("*.html")):
         text = file.read_text()
         matches = re.findall(r'<link\s+rel="canonical"\s+href="([^"]+)"', text)
         url = f"https://{host}/" + ("" if file.name == "index.html" else file.name)
         if matches == [url]:
             locations.append(url)
-    if f"https://{host}/" not in locations:
+    if f"https://{host}{entry_route}" not in locations:
         raise ValueError("Homepage canonical URL required for initial sitemap")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -170,7 +178,13 @@ def project_working_links(data, route_map, previous_map):
     return re.sub(r'(<a\b[^>]*?\bhref=")([^"]*)"', replace, data.decode(), flags=re.I).encode()
 
 
-def prepare(repo, revision, book, host, base, build, out, previous=None, working_link_pages=()):
+def prepare(repo, revision, book, host, base, build, out, previous=None,
+            working_link_pages=(), *, home_page="index.html",
+            entry_route="/", navigation_container="nav"):
+    if not re.fullmatch(r"(?:[a-z0-9-]+/)*[a-z0-9-]+\.html", home_page):
+        raise ValueError("Invalid homepage path")
+    if entry_route not in ("/", "/" + home_page):
+        raise ValueError("Invalid public entry route")
     if not BOOK.fullmatch(book) or not HOST.fullmatch(host):
         raise ValueError("Invalid book or canonical host")
     if not re.fullmatch(r"[0-9a-f]{40}", revision) or git(
@@ -184,7 +198,7 @@ def prepare(repo, revision, book, host, base, build, out, previous=None, working
         raise ValueError("Release output must be outside source/build/public trees")
     receipt, receipt_sha, resource_files = verify_resource_build(repo, revision, book, build)
     inherited = inventory(base)
-    if "index.html" not in inherited:
+    if home_page not in inherited:
         raise ValueError("Existing site lacks homepage")
     old = {}
     old_resources = {k: v for k, v in inherited.items() if k.startswith("ressources/")}
@@ -200,21 +214,21 @@ def prepare(repo, revision, book, host, base, build, out, previous=None, working
             raise ValueError("Existing resource namespace differs from prior receipt")
     elif previous is not None:
         raise ValueError("Previous resource receipt without existing resources")
-    homepage = add_navigation((base / "index.html").read_bytes())
+    homepage = add_navigation((base / home_page).read_bytes(), navigation_container)
     sitemap_base = ((base / "sitemap.xml").read_bytes() if "sitemap.xml" in inherited
-                    else initial_sitemap(base, host))
+                    else initial_sitemap(base, host, home_page, entry_route))
     sitemap = add_sitemap(sitemap_base, host,
                           ["/" + name for name in resource_files],
                           ["/" + name for name in old_resources])
     expected = {name: info for name, info in inherited.items() if name not in old_resources}
     expected.update(resource_files)
-    changes = {"index.html": homepage, "sitemap.xml": sitemap}
+    changes = {home_page: homepage, "sitemap.xml": sitemap}
     route_map = {item["source"]: item["route"] for item in receipt["resources"]}
     previous_map = old.get("working_link_routes", {})
     for name in working_link_pages:
-        if not re.fullmatch(r"[a-z0-9-]+\.html", name) or name not in inherited or name == "index.html":
+        if not re.fullmatch(r"(?:[a-z0-9-]+/)*[a-z0-9-]+\.html", name) or name not in inherited:
             raise ValueError("Invalid explicitly managed working link page")
-        changes[name] = project_working_links((base / name).read_bytes(), route_map, previous_map)
+        changes[name] = project_working_links(changes.get(name, (base / name).read_bytes()), route_map, previous_map)
     for name, content in changes.items():
         expected[name] = {"sha256": digest(content), "size": len(content)}
     tree_sha = digest(canonical(expected))
@@ -283,9 +297,14 @@ def main():
     parser.add_argument("--out", type=Path, required=True)
     parser.add_argument("--previous-receipt", type=Path)
     parser.add_argument("--working-link-page", action="append", default=[])
+    parser.add_argument("--home-page", default="index.html")
+    parser.add_argument("--entry-route", default="/")
+    parser.add_argument("--navigation-container", choices=("nav", "header"), default="nav")
     args = parser.parse_args()
     result = prepare(args.repo, args.revision, args.book, args.host, args.base,
-                     args.build, args.out, args.previous_receipt, args.working_link_page)
+                     args.build, args.out, args.previous_receipt, args.working_link_page,
+                     home_page=args.home_page, entry_route=args.entry_route,
+                     navigation_container=args.navigation_container)
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 

@@ -27,14 +27,50 @@ SITES = {"1755": ("1755", "1755.acorsica.org"),
          "institut": ("institut", "institut.acorsica.org"),
          "privai": ("privai", "privai.acorsica.org"),
          "napoleon": ("napoleon", "napoleon.acorsica.org"),
-         "village": ("village", "village.acorsica.org")}
+         "village": ("village", "village.acorsica.org"),
+         "diaspora": ("diaspora", "diaspora.acorsica.org"),
+         "suicide-corse": ("suicidecorse", "suicidecorse.baronsmariani.org"),
+         "orta": ("orta", "orta.acorsica.org"),
+         "capable": ("capable", "capable.acorsica.org")}
 WORKING_LINK_PAGES = {
     "musee": ("annexes.html", "magazine.html"),
     "commons": ("annexes.html", "sources.html", "magazine.html"),
     "institut": ("magazine.html",),
     "privai": ("annexes.html", "sources.html", "magazine.html"),
     "village": ("magazine.html",),
+    "suicide-corse": ("index.html",),
 }
+
+
+# Local publication profiles. Rendering and resource URLs stay generic.
+LAYOUTS = {
+    "diaspora": {"home_page": "web/index.html", "entry_route": "/web/index.html"},
+    "suicide-corse": {"navigation_container": "header"},
+}
+BOOTSTRAP = {"orta": "projects/orta/site"}
+EXTERNAL_OWNER = {"capable": "existing canonical working deployer"}
+
+
+def committed_site(repo, revision, prefix, destination):
+    """Materialize only the explicitly declared committed site tree."""
+    entries = release.git(repo, "ls-tree", "-r", "-z", revision, "--", prefix + "/")
+    destination.mkdir()
+    for entry in entries.split(b"\x00"):
+        if not entry:
+            continue
+        metadata, name = entry.decode().split("\t", 1)
+        mode, kind, _ = metadata.split(" ")
+        if kind != "blob" or mode not in ("100644", "100755") or not name.startswith(prefix + "/"):
+            raise ValueError("Unsupported bootstrap site entry")
+        relative = name[len(prefix)+1:]
+        path = Path(relative)
+        if path.is_absolute() or any(part in ("", ".", "..") for part in relative.split("/")):
+            raise ValueError("Unsafe bootstrap file")
+        target = destination / path
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(release.git_bytes(repo, revision, name))
+    if not (destination / "index.html").is_file():
+        raise ValueError("Bootstrap site lacks committed homepage")
 
 
 def pinned_factory(repo, revision):
@@ -74,7 +110,7 @@ def consume(repo, revision, artifact, out, previous_dir, webroot=Path("/srv/www"
     expected_entries = {"build-receipt.json", *ids}
     if {p.name for p in artifact.iterdir()} != expected_entries:
         raise ValueError("Unexpected artifact entries")
-    plans = []
+    plans, results = [], []
     # Verify the whole transfer before assembling any candidate.
     for item in books:
         book = item["book_id"]
@@ -89,7 +125,18 @@ def consume(repo, revision, artifact, out, previous_dir, webroot=Path("/srv/www"
                 or pr["artifacts"] != item["artifacts"]):
             raise ValueError("CI-to-projection receipt mismatch")
         slug, host = SITES[book]
+        if book in EXTERNAL_OWNER:
+            results.append({"book_id": book, "canonical_host": host,
+                "outcome": "BUILD_VERIFIED_EXTERNAL_OWNER",
+                "deployment_owner": EXTERNAL_OWNER[book],
+                "resource_input_sha256": pr["input_sha256"],
+                "resource_files": {x["route"][1:]: {"sha256": x["sha256"], "size": x["size"]}
+                                   for x in pr["artifacts"]}})
+            continue
         current = webroot / slug / "current"
+        if not current.exists() and not current.is_symlink() and book in BOOTSTRAP:
+            plans.append((book, host, current, None, build, None))
+            continue
         if not current.is_symlink() or current.resolve().parent != (webroot / slug / "releases").resolve():
             raise ValueError("Unexpected current release layout")
         base = current.resolve(strict=True)
@@ -108,13 +155,24 @@ def consume(repo, revision, artifact, out, previous_dir, webroot=Path("/srv/www"
         else:
             previous = None
         plans.append((book, host, current, base, build, previous))
-    results = []
     for book, host, current, base, build, previous in plans:
-        r = release.prepare(repo, revision, book, host, base, build, out, previous,
-                            WORKING_LINK_PAGES.get(book, ()))
-        if current.resolve() != base:
-            raise ValueError("Current changed during assembly: " + book)
+        if base is None:
+            with tempfile.TemporaryDirectory(prefix="living-book-bootstrap-") as tmp:
+                staged = Path(tmp) / "site"
+                committed_site(repo, revision, BOOTSTRAP[book], staged)
+                r = release.prepare(repo, revision, book, host, staged, build, out,
+                                    working_link_pages=WORKING_LINK_PAGES.get(book, ()),
+                                    **LAYOUTS.get(book, {}))
+            if current.exists() or current.is_symlink():
+                raise ValueError("Current appeared during bootstrap: " + book)
+            r = {**r, "outcome": "BOOTSTRAP_PREPARED", "publication": "origin_not_provisioned"}
+        else:
+            r = release.prepare(repo, revision, book, host, base, build, out, previous,
+                                WORKING_LINK_PAGES.get(book, ()), **LAYOUTS.get(book, {}))
+            if current.resolve() != base:
+                raise ValueError("Current changed during assembly: " + book)
         results.append(r)
+    results.sort(key=lambda r: r["book_id"])
     return {"schema": "living-book.resource-cd-preparation/v1",
             "corpus_revision": revision, "factory_revision": receipt["factory_revision"],
             "publication": "not_attempted", "books": results}

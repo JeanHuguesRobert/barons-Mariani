@@ -1,0 +1,15 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: pacte-republicain-effectivite
+    route: /ressources/pacte-republicain-effectivite.html
+    source: projects/capable/doctrine/pacte-republicain-effectivite.md
+  - id: revision-article-72
+    route: /ressources/revision-article-72.html
+    source: projects/capable/doctrine/revision_constitutionnelle_article_72.md
+  - id: possibilisme-souverainete
+    route: /ressources/possibilisme-souverainete.html
+    source: projects/capable/doctrine/clarifications-possibilisme-souverainete.md
+  - id: metaprogramme-politique
+    route: /ressources/metaprogramme-politique.html
+    source: projects/capable/doctrine/metaprogramme-politique-generatif.md

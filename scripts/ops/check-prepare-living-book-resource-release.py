@@ -121,6 +121,36 @@ with tempfile.TemporaryDirectory(prefix="resource-release-test-") as tmp:
         {"source.md": "/ressources/a.html"}).decode()
     assert release.SOURCE_URL + 'source.md' in release.project_working_links(
         annexes.encode(), {}, {"source.md": "/ressources/a.html"}).decode()
+    # Nested entrypoint; root-relative resources remain at the served root.
+    nested = root / "nested"
+    (nested / "web").mkdir(parents=True)
+    (nested / "data").mkdir()
+    (nested / "web/index.html").write_text('<nav><a href="../data/seed.json">Data</a></nav>')
+    (nested / "data/seed.json").write_text('{"seed":true}')
+    nested_before = release.inventory(nested)
+    n = release.prepare(repo, rev, "test", "test.example", nested, build, out,
+                        home_page="web/index.html", entry_route="/web/index.html")
+    nd = out / n["release"]
+    assert release.inventory(nested) == nested_before
+    assert n["files"]["data/seed.json"] == nested_before["data/seed.json"]
+    assert release.NAV in (nd / "site/web/index.html").read_text()
+    assert 'https://test.example/web/index.html' in (nd / "site/sitemap.xml").read_text()
+    assert release.prepare(repo, rev, "test", "test.example", nd / "site", build,
+        out, nd / "receipt.json", home_page="web/index.html",
+        entry_route="/web/index.html")["outcome"] == "CURRENT_VERIFIED"
+    # Existing header without nav; homepage may carry selected source links.
+    header = root / "header"
+    header.mkdir()
+    (header / "index.html").write_text('<link rel="canonical" href="https://test.example/">'
+        '<header><a href="' + release.SOURCE_URL + 'source.md">Source</a></header>')
+    h = release.prepare(repo, rev, "test", "test.example", header, build, out,
+                        working_link_pages=("index.html",), navigation_container="header")
+    hd = out / h["release"]
+    text = (hd / "site/index.html").read_text()
+    assert release.NAV in text and 'href="/ressources/a.html">Source' in text
+    assert release.prepare(repo, rev, "test", "test.example", hd / "site", build,
+        out, hd / "receipt.json", ("index.html",),
+        navigation_container="header")["outcome"] == "CURRENT_VERIFIED"
     (site / "a.html").write_text("tampered")
     must_fail(prepare, "integrity mismatch")
     (site / "a.html").write_text("A changed")

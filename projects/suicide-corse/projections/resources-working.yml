@@ -1,0 +1,9 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: pivot-rise-and-fall
+    route: /ressources/pivot-rise-and-fall.html
+    source: projects/suicide-corse/manuscript/07-pivot-rise-and-fall.md
+  - id: appel-contribution
+    route: /ressources/appel-contribution.html
+    source: projects/suicide-corse/manuscript/appel-a-contribution.md

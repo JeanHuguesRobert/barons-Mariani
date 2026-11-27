@@ -1,0 +1,12 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: modele-donnees
+    route: /ressources/modele-donnees.html
+    source: projects/diaspora/annexes/data-model.md
+  - id: repere-effectivite
+    route: /ressources/repere-effectivite.html
+    source: projects/diaspora/annexes/effectivity-benchmark.md
+  - id: corse-furtive
+    route: /ressources/corse-furtive.html
+    source: projects/diaspora/magazine/2026-10-02-corse-furtive.md

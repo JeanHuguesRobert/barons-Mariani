@@ -1,0 +1,9 @@
+schema: living-book.selection/v0
+status: working
+resources:
+  - id: sources-questions
+    route: /ressources/sources-questions.html
+    source: projects/orta/annexes/sources-et-questions-ouvertes.md
+  - id: pourquoi-orta
+    route: /ressources/pourquoi-orta.html
+    source: projects/orta/magazine/2026-11-16-un-livre-vivant-pour-lorta.md
