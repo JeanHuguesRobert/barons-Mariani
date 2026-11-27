@@ -50,6 +50,10 @@ sources:
     path: projects/capable/manuscript/11-nouveau-contrat-social.md
     role: manuscript-candidate
     required: false
+  - id: minitelia-hypotheses-et-epreuves
+    path: projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md
+    role: research-agenda
+    required: false
   - id: nouveau-contrat-social-interlocuteurs
     path: projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md
     role: research-agenda

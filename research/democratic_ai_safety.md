@@ -1018,6 +1018,10 @@ It is constitutional.
 
 *Draft v0.4 — Corte, 2026-05-11*  
 *Institut Mariani — C.O.R.S.I.C.A.*
+## Institutional research application (2026-11-27)
+
+The [New Social Contract](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/nouveau-contrat-social.md) applies Democratic AI Safety to a possible universal cognitive infrastructure. The research question is whether independently verifiable accountability, privacy, proportionate restrictions, affordable exit and reciprocal cognitive asylum remain effective under institutional failure. This is an application hypothesis, not proof of existing guarantees.
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

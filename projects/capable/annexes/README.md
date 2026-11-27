@@ -4,7 +4,7 @@ description: "Index des annexes des éditions de travail et de leurs sources sou
 author: "Jean Hugues Noël Robert"
 affiliation: "Mouvement Capable"
 date: "2026-11-13"
-last_modified_at: "2026-11-13"
+last_modified_at: "2026-11-27"
 language: fr
 license: "CC BY-SA 4.0"
 status: working-paper
@@ -35,5 +35,9 @@ Les annexes conservent les preuves, objections et textes de référence. Elles n
 - [Recherches, décisions et objections — 13 novembre 2026](2026-11-13-recherches-decisions-et-objections.md) : liberté révisable, mandat révocable, souveraineté, polarisation et agenda, IA, appartenances et sources spécialisées.
 - [Proposition nationale de révision constitutionnelle de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) : proposition citoyenne et non droit positif.
 - [Métaprogramme politique génératif](../doctrine/metaprogramme-politique-generatif.md) et [Grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md) : corpus de référence.
+
+- [Nouveau Contrat Social — source doctrinale](../doctrine/nouveau-contrat-social.md) : articulation et garanties de liberté cognitive.
+- [Collège des Interlocuteurs](2026-11-27-college-interlocuteurs-nouveau-contrat-social.md) : questions et pistes bibliographiques.
+- [Minitelia — hypothèses et épreuves](2026-11-27-minitelia-hypotheses-et-epreuves.md) : chiffrage, sûreté, pluralisme et coût d'exil.
 
 La [projection publique en préparation](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) rassemble les textes sélectionnés. Les archives restent corrigibles jusqu'au gel d'une édition, qui doit être conservée et identifiée.

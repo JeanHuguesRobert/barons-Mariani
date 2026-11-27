@@ -26,6 +26,7 @@ BOOKS = {
             "projects/capable/manuscript/08-presidentielle-2027.md",
             "projects/capable/manuscript/09-communs-et-moyens.md",
             "projects/capable/manuscript/10-capable-test.md",
+            "projects/capable/manuscript/11-nouveau-contrat-social.md",
         ],
         "magazine": [
             "projects/capable/magazine/2026-10-28-autonomie-corse.md",
@@ -63,6 +64,9 @@ BOOKS = {
             "projects/capable/doctrine/metaprogramme-politique-generatif.md",
             "research/autonomia/grammaire_autonomie_de_capacite.md",
             "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md",
+            "projects/capable/doctrine/nouveau-contrat-social.md",
+            "projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md",
+            "projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md",
         ],
     },
     "suicide-corse": {

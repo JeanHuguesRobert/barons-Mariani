@@ -34,11 +34,11 @@ provenance:
 
 **Accéder au Livre Vivant :** [Capable — site public](https://capable.acorsica.org/).
 
-**Nouvelle version publique « en préparation » (20 novembre 2026, non gelée, 42 sources) :**
+**Version publique « en préparation » (non gelée ; état exact dans le manifeste de fabrication) :**
 [Lire la version HTML en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) ·
 [Télécharger le PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf) ·
 [Télécharger l'EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) ·
-[Consulter les empreintes et les 42 sources](../../previews/en-preparation/manifest.json).
+[Consulter les empreintes et les sources sélectionnées](../../previews/en-preparation/manifest.json).
 
 Cette version actualisée se distingue des anciennes **projections de travail** encore accessibles sur le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Elle intègre aussi le [Pacte Républicain d'Effectivité](doctrine/pacte-republicain-effectivite.md), la [chronique datée du 20 novembre](magazine/2026-11-20-pacte-republicain-effectivite.md), le [bilan documentaire de l'Histoire de la devise](../../research/devise_republicaine/etat_chantier_2026-11-20.md) et l'[hypothèse de convergence volontaire des candidatures dans la Marche du Soleil](campaign/marche-du-soleil.md). Elle comprend désormais [l’enquête centrale sur l’agenda politique](magazine/2026-11-13-qui-choisit-agenda-politique.md), [l’étude sur l’IA et la contradiction](magazine/2026-11-13-ia-contradiction-et-autonomie.md), [l’encadré Bleu de Chine](magazine/2026-11-13-bleu-de-chine-appartenances.md) et [l’annexe de provenance et d’objections](annexes/2026-11-13-recherches-decisions-et-objections.md). Les fichiers HTML/PDF/EPUB ci-dessus constituent **le seul assemblage complet courant en préparation**. **Aucun numéro Capable n'a encore été gelé.**
 
@@ -60,7 +60,7 @@ Cette méthode ne remplace ni le choix démocratique ni les engagements express�
 
 ## Nouveau Contrat Social — chantier de moyen et long terme (27 novembre 2026)
 
-La [note de recherche candidate](doctrine/nouveau-contrat-social.md) relie Minitelia, Fonds Cognitif Souverain fractal, Dividende Cognitif Universel, PrivAI, exil et asile cognitifs, Micro-Nations et Citoyenneté Cognitives, Références Communes et Nature comme cocontractante. Le [chapitre de travail](manuscript/11-nouveau-contrat-social.md) et le [Collège des Interlocuteurs](annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md) en proposent les projections et le programme contradictoire. Le Pacte et la proposition constitutionnelle conservent leur objet ; Minitelia est un chantier de moyen terme, après la campagne présidentielle. Ces ajouts sont en revue, non gelés ni encore incorporés à la projection HTML/PDF/EPUB.
+La [note de recherche candidate](doctrine/nouveau-contrat-social.md) relie Minitelia, Fonds Cognitif Souverain fractal, Dividende Cognitif Universel, PrivAI, exil et asile cognitifs, Micro-Nations et Citoyenneté Cognitives, Références Communes et Nature comme cocontractante. Le [chapitre de travail](manuscript/11-nouveau-contrat-social.md) et le [Collège des Interlocuteurs](annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md) en proposent les projections et le programme contradictoire. Le Pacte et la proposition constitutionnelle conservent leur objet ; Minitelia est un chantier de moyen terme, après la campagne présidentielle. Ces ajouts sont en revue, non gelés et inscrits dans la sélection du Livre et des Annexes ; le manifeste de fabrication établit leur incorporation effective aux projections HTML/PDF/EPUB. Voir aussi les [hypothèses économiques et épreuves de Minitelia](annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md).
 
 ## République et effectivité — proposition institutionnelle
 

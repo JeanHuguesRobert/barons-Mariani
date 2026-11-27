@@ -13,3 +13,13 @@ resources:
   - id: metaprogramme-politique
     route: /ressources/metaprogramme-politique.html
     source: projects/capable/doctrine/metaprogramme-politique-generatif.md
+
+  - id: nouveau-contrat-social
+    route: /ressources/nouveau-contrat-social.html
+    source: projects/capable/doctrine/nouveau-contrat-social.md
+  - id: college-interlocuteurs-nouveau-contrat-social
+    route: /ressources/college-interlocuteurs-nouveau-contrat-social.html
+    source: projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md
+  - id: minitelia-hypotheses-et-epreuves
+    route: /ressources/minitelia-hypotheses-et-epreuves.html
+    source: projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md

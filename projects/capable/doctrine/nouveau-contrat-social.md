@@ -94,3 +94,21 @@ Le Collège des Interlocuteurs doit inclure classiques, modernes, contemporains,
 Possibilisme : finalité des libertés effectives et des possibles du Vivant. Nouveau Contrat Social : horizon civilisationnel. Pacte : première traduction républicaine. Fonds : accumulation et transmission. Dividende : distribution des capacités. Minitelia : accès. FractaNet : coopération et apprentissage programmables. PrivAI : liberté et sûreté cognitive. Kudocracy : exercice de la souveraineté et contrôle des mandats. Kudos : piste de reconnaissance des contributions. Micro-Nations, citoyenneté et diplomatie cognitives : communautés et coopérations non exclusives. Minesteggio : terrain d'expérimentation. Réel : confrontation des hypothèses aux effets constatables.
 
 **Mutualiser le calcul, fédérer l'apprentissage, stabiliser les références, libérer les interprétations et préserver les possibles.** Formulation de synthèse proposée, à revoir avec l'auteur.
+
+## 9. Prolongements techniques et documentaires
+
+Les sources spécialisées conservent leur autorité propre. Les liens permettent de revenir de l'application institutionnelle aux mécanismes à éprouver, et réciproquement.
+
+| Source | Question d'application |
+|---|---|
+| [KYS Services / BYOAI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/byoai_commons_service_protocol.md) | Accès avec son propre assistant et alternatives sans IA |
+| [Calculette of the Mind](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/calculette_of_the_mind.md) | Économies cognitives et réutilisation |
+| [PrivAI Migration-Tested](https://github.com/acorsica/privai/blob/main/conformance/migration_tested_v0.1.md) | Exil, asile et continuité fonctionnelle |
+| [Inox — Fractanet Language](https://github.com/JeanHuguesRobert/Inox/blob/master/research/fractanet_language_abstractions.md) | Programmabilité locale des procédures |
+| [Fractanet](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md) | Fédération des capacités et indépendance |
+| [Value-Shaped Solar and Containerized Compute](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/value_shaped_solar_and_containerized_compute.md) | Couplage énergie-calcul et déplacement temporel |
+| [Democratic AI Safety](../../../research/democratic_ai_safety.md) | Contrôle démocratique et défaillances institutionnelles |
+| [Corsica2038](../../../research/autonomia/corsica2038_capacite_experimentation_gouvernee.md) | Terrain territorial d'expérimentation |
+| [Minitelia — hypothèses et épreuves](../annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md) | Modèle paramétrique, preuves et objections |
+
+Ces rapprochements sont un programme de recherche, non une modification des spécifications, de la charte PrivAI ou de la proposition constitutionnelle.

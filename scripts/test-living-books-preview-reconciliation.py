@@ -9,6 +9,11 @@ source = Path(__file__).with_name("build-living-books-news-previews.py")
 spec = importlib.util.spec_from_file_location("living_books_preview", source)
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
+# Distinct chapter and supporting research annexes.
+capable = module.BOOKS["capable"]
+assert 'projects/capable/manuscript/11-nouveau-contrat-social.md' in capable["chapters"]
+for path in ['projects/capable/doctrine/nouveau-contrat-social.md', 'projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md', 'projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md']:
+    assert path in capable["annexes"] and path not in capable["chapters"]
 with tempfile.TemporaryDirectory(prefix="living-books-recovered-test-") as temporary:
     root = Path(temporary)
     docs = root / "sample"

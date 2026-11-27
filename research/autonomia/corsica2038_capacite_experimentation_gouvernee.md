@@ -169,3 +169,7 @@ Corsica2038 reste donc un terrain de capacités concrètes ; l’amendement cons
 - décliner le cahier d'exigences logiciel en issues Cogentia, Inseme et FractaVolta ;
 - choisir un premier pilote de taille modeste et le soumettre à une revue contradictoire ;
 - publier les produits déclinés avec des liens explicites vers les sources.
+
+## Terrain d'expérimentation Minitelia — 27 novembre 2026
+
+Le [Nouveau Contrat Social](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/nouveau-contrat-social.md) et son [annexe d'épreuves](../../projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md) invitent à étudier la Corse comme terrain de mutualisation cognitive, de couplage énergie-calcul, d'accès aux besoins singuliers et de portabilité. Il s'agit d'hypothèses d'expérimentation. Les effets sur le Vivant et les coûts restent à mesurer.

@@ -13,9 +13,13 @@ document_kind: living-book-edition-candidate
 visibility: public
 lifecycle_state: working
 language: fr
-source_as_of: "2026-11-20"
-last_modified_at: "2026-11-20"
+source_as_of: "2026-11-27"
+last_modified_at: "2026-11-27"
 source_documents:
+  - "projects/capable/manuscript/11-nouveau-contrat-social.md"
+  - "projects/capable/doctrine/nouveau-contrat-social.md"
+  - "projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md"
+  - "projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md"
   - "projects/capable/manuscript/README.md"
   - "projects/capable/magazine/README.md"
   - "projects/capable/editions/2026-10-09-en-preparation.md"
@@ -56,6 +60,10 @@ review:
 # Capable — premier numéro, projection candidate de travail
 
 **État : en préparation — non gelé, non validé comme édition finale.** Ce document est le **plan de composition et de navigation vérifiable** vers les sources existantes. Sa projection publique de travail est désormais disponible en HTML, PDF et EPUB ; elle reste évolutive, non gelée, et ne remplace aucune édition définitive. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
+
+## Complément du 27 novembre 2026 — Nouveau Contrat Social
+
+Le [douzième chapitre](../manuscript/11-nouveau-contrat-social.md) rejoint la sélection du Livre durable. Les annexes comprennent la [source doctrinale](../doctrine/nouveau-contrat-social.md), le [Collège des Interlocuteurs](../annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md) et les [hypothèses et épreuves de Minitelia](../annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md). Cette composition reste en préparation, non gelée, sans changement de l'article 72. Le manifeste généré établit les sources effectivement rendues.
 
 ## Complément du 20 novembre 2026 — Marche du Soleil et coordination possible
 
@@ -120,6 +128,7 @@ Le Magazine suit séparément les événements politiques datés : rejet sénato
 9. [Présidentielle 2027 — seconde campagne envisagée](../manuscript/08-presidentielle-2027.md)
 10. [Communs ouverts, moyens partagés et coût marginal](../manuscript/09-communs-et-moyens.md)
 11. [Le Capable Test — Évaluer une règle par ses effets](../manuscript/10-capable-test.md)
+12. [Le Nouveau Contrat Social — rendre capable à l'heure de l'IA](../manuscript/11-nouveau-contrat-social.md)
 
 Les études de cas issues des Notes de Campagne ont été **sédimentées** dans les chapitres 02–06, 09 et 10. Le manuscrit reste amendable. L'[essai *Qu'est-ce que la politique ?*](../manuscript/essai-quest-ce-que-la-politique.md) reste **en atelier, hors assemblage principal**, en attente d'un choix éditorial.
 
@@ -167,6 +176,12 @@ Ces huit dossiers ont désormais une **première rédaction consultable**, sans 
 | A6. Reality Tests et campagnes | [Marche du Soleil](../campaign/marche-du-soleil.md), [observatoire des présentations](../campaign/observatoire-presentations-2027.md), [dossier GR20](../../../research/gr20_autonomie_de_capacite.md) | Protocoles d'épreuve à distinguer des tests accomplis |
 | A7. Objections et discussion | [Revue de continuité du Livre](../editorial/revue-continuite-livre-2026-10-28.md), [traçabilité civique anti-mafieuse](../../../research/traceabilite_civique_antimafia.md) | Formaliser objections, contre-exemples et questions indécises |
 | A8. Énergie, infrastructures et valeur locale | [Dossier technique EDF](../../../research/cas_edf.md), [Note de Campagne EDF](../../../research/cas_edf_blogpost.md), [campagne énergie et logistique](../campaigns/corse-capable-energie.md) | Réconcilier dates, modèles, hypothèses et preuves économiques |
+
+### Nouveau Contrat Social — complément des annexes
+
+- [Source doctrinale de travail](../doctrine/nouveau-contrat-social.md) : concepts et articulation.
+- [Collège des Interlocuteurs](../annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md) : programme de recherche contradictoire.
+- [Minitelia — hypothèses et épreuves](../annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md) : modèle de coûts, métriques, scénarios de défaillance et migrations.
 
 ## IV. Règles de lecture et état de fabrication
 
