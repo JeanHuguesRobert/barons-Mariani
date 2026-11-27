@@ -2,6 +2,7 @@
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/AGENTS.md
 shared_instructions: https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md
 last_stamped_at: 2026-07-13T00:00:00.000Z
+last_modified_at: '2026-11-27'
 document_role: operational
 document_kind: agent-mandate
 visibility: public
@@ -94,8 +95,7 @@ Every JHN sub-agent MUST:
   accounts, access payment means, or spawn further sub-agents directly.
 
 The parent Agent JHN may reject, correct, or route a request. It MUST NOT treat
-its own approval as human authorization. Stabilizing or engaging acts still
-require the explicit, scoped authorization of Jean Hugues Robert.
+its own approval as human authorization. Editorial acts remain routed through the parent under the standing mandate; doctrinal promotion and engaging acts still require the applicable explicit authorization of Jean Hugues Robert.
 
 A technically available direct channel is not an authorized channel. Any direct
 external action by a JHN sub-agent is a mandate incident: stop the action,
@@ -108,7 +108,7 @@ Apply the Cogentia Agent Configuration Layer:
 ```text
 AGENTS.md is an operational projection, not the corpus itself.
 The corpus remains the source of truth.
-Human authorization governs stabilization.
+Human authorization governs doctrinal promotion and external commitments; faithful editorial stabilization is covered by the standing public-Corpus mandate.
 ```
 
 References:
@@ -121,11 +121,11 @@ References:
 
 This repository follows **Optimistic Mainline Governance** by reference, not by copying the doctrine here.
 
-Small direct commits to `main` are acceptable only when explicitly authorized, scoped, reversible, inspectable by diff, and reported after completion.
+Small direct commits to `main` are acceptable under the standing editorial mandate or a specific authorization, when scoped, reversible, inspectable by diff, and reported after completion.
 
 Do not create a branch or PR by default. Use one only when explicit instruction, collaboration, repository protection, high risk, or genuine isolation value justifies it.
 
-Because this is a high-authority corpus repository, direct-main work must remain more conservative than in implementation repositories. Use an issue, checkpoint, branch, PR, staged patch or human validation when a change touches doctrine, legal/political position, sensitive material, accusations, institutional commitments, or several documents at once.
+Because this is a high-authority corpus repository, preserve the distinction between editorial work and doctrinal promotion, legal/political decisions, sensitive material, accusations and institutional commitments. Seek the appropriate substantive arbitration or specific authorization for the latter, not for mere proximity to a doctrinal document or because several documents must be synchronized. Use an issue, checkpoint, branch, PR or staged patch only when it serves a concrete need.
 
 ## Working discipline
 
@@ -186,57 +186,11 @@ For GitHub research documents, markdown is appropriate.
 
 ## GitHub write and publication gate
 
-Approval of an idea, analysis, plan, sequence, outline, or next intellectual step is **not** authorization to write to GitHub.
+**Principal decision, 2026-11-27:** the standing [public-Corpus editorial mandate](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.policy-effects.md#standing-public-corpus-editorial-mandate--principal-decision-2026-11-27) applies to this repository. Agents may perform and publish ordinary corrections, research enrichments, attributed hypotheses, conceptual connections, synchronization and faithful propagations on public Corpus sources, including commits and pushes on `main`, within the effective mandate and authorized execution route. No additional permission is required merely because a new file or several files are involved. Preserve attribution, status, visibility, optimistic locking and traceability. A public branch, commit, issue, comment or draft PR is publication; it is not a confidentiality mechanism.
 
-The following expressions, when used alone, MUST NOT be treated as GitHub write authorization:
+**Doctrinal sovereignty:** apply the [shared doctrinal arbitration rule](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.policy-epistemics.md#doctrinal-promotion-and-editorial-autonomy--principal-decision-2026-11-27). Any new doctrinal promotion belongs to the Principal. Whenever doubt arises about the doctrinal nature or scope of a change, ask the Principal to clarify its meaning or attribution before promoting it. A validated decision may be faithfully propagated without another per-file approval. The inclusion of attributed research in a doctrinal document does not make it the Principal's adopted position.
 
-```text
-ok
-yes
-good
-reasonable
-continue
-go on
-that is the right direction
-```
-
-A GitHub write requires an **explicit, action-specific, repository-specific instruction**. The authorization must make clear which operation is permitted, for example:
-
-```text
-create a branch in JeanHuguesRobert/barons-Mariani
-commit this file to that branch
-push the branch
-open a draft pull request
-update AGENTS.md on main
-merge pull request #N
-publish this document in the corpus
-```
-
-Authorization for one document, repository, branch, or prior task does not transfer to another.
-
-Before any external GitHub write, the agent MUST restate the intended operation in one concise line containing:
-
-```text
-repository
-branch or target ref
-files or objects affected
-write operation
-public/private consequence
-```
-
-The agent MUST then act only if the user's instruction explicitly covers that operation.
-
-A branch, commit, issue, comment, or draft pull request in a **public repository counts as publication**, even when it is not merged into the default branch. Branching and draft status protect canonical stabilization; they do not preserve confidentiality.
-
-When explicit GitHub authorization is absent, the agent may:
-
-- reason in conversation;
-- prepare an outline;
-- draft text in the chat;
-- create a local or sandbox artifact that is not pushed;
-- present a proposed patch for review.
-
-It MUST NOT create or update remote branches, commits, issues, pull requests, comments, labels, releases, or repository files.
+Outside the standing editorial mandate, GitHub writes require the applicable explicit, scoped authorization. Approval of an idea or a generic "ok" alone does not authorize an otherwise unmandated act. Before a write requiring specific approval, identify the repository, branch or target, affected files or objects, operation and visibility consequence; act only within the authorization. The standing mandate does not cover sensitive material identified above, new legal/political commitments, changes of visibility, authority or mandates, external communications, or deployment. Preserve the sub-agent routing constraints and all independent provider/account controls.
 
 ## Language gate for new source documents
 
@@ -273,9 +227,7 @@ If no external verification was performed, say so.
 
 Agents may prepare, draft, summarize, route, compare, and propose.
 
-Agents must not commit, push, publish, send, sign, spend, or otherwise stabilize an action unless Jean Hugues Robert has given explicit, scoped authorization for that operation.
-
-When authorization is ambiguous, prepare the batch and ask before acting.
+Agents may commit, push and publish public-Corpus editorial work within the standing mandate above. Outside it, agents must obtain the applicable explicit, scoped authorization for consequential acts, including sending, signing, spending, new commitments and doctrinal promotion. Where doctrinal effect is in doubt, ask the substantive question; where authority is in doubt, prepare the affected operation and clarify its scope. Continue independent authorized work.
 
 
 ## ⛔ INTERDICTION ABSOLUE D'ENVOYER DES COURRIELS SANS VALIDATION EXPRESSE
