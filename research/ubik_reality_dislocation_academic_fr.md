@@ -409,3 +409,7 @@ Prochaines étapes :
 - [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->
+
+## Prolongement institutionnel — 27 novembre 2026 (en revue)
+
+Le [Nouveau Contrat Social](../projects/capable/doctrine/nouveau-contrat-social.md#6-références-communes-et-dislocation-du-réel) explore les Fonds Cognitifs Souverains fractals comme infrastructure de Références Communes et les FractaNet programmables comme vaste Stabilisateur Procédural. Préserver la provenance, la contradiction et la réponse du Réel ne signifie pas uniformiser les interprétations ni imposer une vérité institutionnelle.

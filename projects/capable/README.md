@@ -58,6 +58,10 @@ Cette méthode ne remplace ni le choix démocratique ni les engagements express�
 
 **Liberté, Égalité, Fraternité. Pour de vrai.** La nouvelle [note canonique](doctrine/pacte-republicain-effectivite.md) articule Autonomie de Capacité dans les trois matières de la devise, Révélateur des demandes et capacités latentes, Stabilisateur procédural avant, pendant et après l'application, et confrontation au Réel. La [proposition normative de révision de l'article 72](doctrine/revision_constitutionnelle_article_72.md) conserve **sans modification son article unique** et le monopole de la loi nationale par le Parlement.
 
+## Nouveau Contrat Social — chantier de moyen et long terme (27 novembre 2026)
+
+La [note de recherche candidate](doctrine/nouveau-contrat-social.md) relie Minitelia, Fonds Cognitif Souverain fractal, Dividende Cognitif Universel, PrivAI, exil et asile cognitifs, Micro-Nations et Citoyenneté Cognitives, Références Communes et Nature comme cocontractante. Le [chapitre de travail](manuscript/11-nouveau-contrat-social.md) et le [Collège des Interlocuteurs](annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md) en proposent les projections et le programme contradictoire. Le Pacte et la proposition constitutionnelle conservent leur objet ; Minitelia est un chantier de moyen terme, après la campagne présidentielle. Ces ajouts sont en revue, non gelés ni encore incorporés à la projection HTML/PDF/EPUB.
+
 ## République et effectivité — proposition institutionnelle
 
 **Proposition constitutionnelle portée par le Mouvement Capable :** [Révision de l'article 72 — subsidiarité et autonomie territoriale effectives](doctrine/revision_constitutionnelle_article_72.md). Le Parlement conserve son pouvoir législatif ; les demandes territoriales d'adaptation bénéficieraient de garanties constitutionnelles d'examen, de motivation, d'évaluation et de réexamen. Cette proposition est distincte de l'amendement historique relatif au projet corse d'article 72-5.

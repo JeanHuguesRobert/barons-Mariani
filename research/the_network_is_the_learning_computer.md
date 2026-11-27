@@ -276,6 +276,10 @@ The normative boundary is [DHITL — Democratic Humans In The Loop](https://gith
 
 *Provenance: Principal's statements and exploratory synthesis with ChatGPT (GPT-6.2), conversation of 25–26 November 2026; incorporation explicitly authorized on 26 November. The proposed implementation remains to be tested.*
 
+## Institutional application under exploration (2026-11-27)
+
+The Principal relates the programmable Learning Computer to a fractal Sovereign Cognitive Fund, the restoration of shared references against Reality dislocation, and a large-scale procedural stabilizer. The network should support inspectable, contestable and corrigible learning procedures while preserving diverse interpretations and independent exit. See the [New Social Contract working note](../projects/capable/doctrine/nouveau-contrat-social.md#6-références-communes-et-dislocation-du-réel). This is an institutional research hypothesis, not an implementation or deployment claim.
+
 # 2. Independent research posture
 
 This work is conducted as **independent research**.

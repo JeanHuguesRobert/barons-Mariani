@@ -191,3 +191,7 @@ Sans créer de droits ni engager juridiquement une institution, tester sur donn�
 - **Non vérifié par une source primaire de 2024–2026 :** le libellé exact et le statut des anciennes déclarations constitutionnelles ; la légitimité institutionnelle et la représentation des bénéficiaires ; les conditions de publication d'un éventuel Journal officiel ; l'instanciation réelle des agents fonctionnels.
 
 **Suite recommandée :** retrouver les versions exactes de la Constitution ; comparer clause par clause les dispositions proposées, les choix explicitement adoptés, les objections et les contraintes du droit positif ; mener ensuite un test de gouvernance simulé avant toute stabilisation normative.
+
+## Prolongement exploratoire — 27 novembre 2026
+
+L'auteur caractérise la Principauté comme une expérimentation de Micro-Nation Cognitive, au sein des lois de la République, sans séparatisme. La Citoyenneté Cognitive envisage des appartenances multiples, volontaires et non exclusives et des accords bilatéraux au sein d'une confédération de communautés territoriales ou thématiques. Voir [Nouveau Contrat Social](../projects/capable/doctrine/nouveau-contrat-social.md#5-micro-nations-cognitives-et-citoyenneté). Cette orientation ne vaut pas adoption d'une constitution, modification statutaire ou conclusion d'un accord.

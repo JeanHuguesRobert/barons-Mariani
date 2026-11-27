@@ -4,7 +4,7 @@ slug: capable
 status: working
 language: fr
 visibility: public
-updated: "2026-11-20"
+updated: "2026-11-27"
 source_of_truth: "repository files under projects/capable, GitHub issue 98, and the referenced sources; this manifest points at them and does not replace them"
 issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/98"
 target_identity: "https://capable.acorsica.org"
@@ -42,6 +42,18 @@ realities:
     statement: "Domaine public canonique : capable.acorsica.org. Site accessible publiquement ; hébergement et déploiement sous la responsabilité d’Operium."
 
 sources:
+  - id: nouveau-contrat-social
+    path: projects/capable/doctrine/nouveau-contrat-social.md
+    role: doctrine-research
+    required: false
+  - id: nouveau-contrat-social-chapter
+    path: projects/capable/manuscript/11-nouveau-contrat-social.md
+    role: manuscript-candidate
+    required: false
+  - id: nouveau-contrat-social-interlocuteurs
+    path: projects/capable/annexes/2026-11-27-college-interlocuteurs-nouveau-contrat-social.md
+    role: research-agenda
+    required: false
   - id: issue-98
     path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/98"
     role: continuation-packet

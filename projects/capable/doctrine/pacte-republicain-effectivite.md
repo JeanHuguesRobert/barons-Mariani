@@ -102,3 +102,7 @@ Le récit politique contemporain relie le moment constituant corse de **1755**, 
 Le **Pacte Républicain d'Effectivité** ne propose pas de reconstituer une institution du XVIIIe siècle : il pose une question contemporaine pour l'ensemble de la République.
 
 **De quoi sommes-nous capables, ensemble, pour que Liberté, Égalité, Fraternité deviennent effectives ?**
+
+## Prolongement exploratoire — 27 novembre 2026
+
+Le [Nouveau Contrat Social](nouveau-contrat-social.md) explore un horizon plus large, incluant la Nature comme cocontractante, les capacités cognitives universelles et les garanties de sûreté démocratique. Le Pacte en constitue une première articulation républicaine ; cette extension de recherche ne modifie pas l'article unique de la proposition de révision de l'article 72.

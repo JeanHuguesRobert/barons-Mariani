@@ -50,3 +50,7 @@ Le profil n'efface pas les différences stylistiques ou les variations probabili
 
 ### 7. Critère d'effectivité
 **Succès** : La personne physique peut quitter son fournisseur d'IA sans abandonner sa mémoire de travail ni concéder une captation de son mandat. L'agence reste portable.
+
+## Prolongement exploratoire — 27 novembre 2026
+
+Le [Nouveau Contrat Social](../../capable/doctrine/nouveau-contrat-social.md#4-privai-sûreté-démocratique-exil-et-asile-cognitifs) étend la portabilité à un Droit à l'Exil Cognitif et son complément, le Droit d'Asile Cognitif : tester la restauration indépendante, les pertes fonctionnelles, le coût et la durée de migration, ainsi que les ressources d'accueil réciproque. Ces garanties constituent des objectifs de recherche, non des droits positifs ou des capacités déjà démontrées.
