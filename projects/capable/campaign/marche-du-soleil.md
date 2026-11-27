@@ -97,6 +97,8 @@ Le rapprochement formulé par l'auteur avec la désynchronisation cognitive et l
 
 **État :** orientation de recherche exprimée le 27 novembre 2026 ; aucune nouvelle parole, production sonore, autorisation d'ayant droit ou diffusion effective n'est attestée par cette inscription. Les éventuelles contributions artistiques et leur documentation restent distinctes des engagements électoraux des participants.
 
+**Épreuve technique distincte — 27 novembre 2026.** Sur Fracta2 (ARM64, 2 vCPU), un prototype neutre à paroles et mélodie originales a enchaîné la lecture d'un fichier MIDI à huit notes avec Mido 1.3.3, la phonétisation par eSpeak NG 1.52, une conversion IPA vers le vocabulaire du modèle TIGER v106, l'inférence acoustique et le vocodeur ONNX Runtime 1.32.0, puis un accompagnement synthétique élémentaire et son mixage. Résultat observé : WAV mono 44,1 kHz de 5,074 s ; inférence acoustique 9,347 s et vocodeur 8,764 s ; pic RSS 538 932 Kio, un thread, sans GPU. Empreinte SHA-256 du mixage : `ea69b32d236723e8e482b9bd2fb2c4861fd7aa9401659a8f9a7dfa83ce27c448`. Prototype et mesures conservés temporairement sur le serveur ; qualité auditive, prosodie contextuelle, reproductibilité indépendante et conditions d'utilisation publique du modèle restent à examiner. Ce résultat ne porte pas sur la réinterprétation de la chanson de Schultheis et ne valide pas l'hypothèse culturelle.
+
 ## Boucle minimale
 
 ```text
