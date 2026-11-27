@@ -79,6 +79,7 @@ provenance:
   origin_ref: unknown
   origin_date: unknown
   derived_from: []
+last_modified_at: '2026-11-27'
 ---
 
 
@@ -671,6 +672,10 @@ La capacité numérique comporte plusieurs couches :
 - traçabilité des décisions assistées par IA.
 
 La Corse ne doit pas devenir simple consommatrice d’outils conçus, hébergés et gouvernés ailleurs.
+
+### Actualisation de recherche — diffusion cognitive et mutualisation (27 novembre 2026)
+
+Le [complément de scalabilité cognitive et territoriale](corsica2038_capacite_experimentation_gouvernee.md#5-ter-scalabilité-cognitive-et-droit-commun-territorial--complément-de-recherche-du-27-novembre-2026) relie le diagnostic de capacité numérique à des scénarios conditionnels de diffusion et à la proposition de droit commun territorial de l'article 72 du 12 novembre 2026. Il distingue diffusion des services BYOAI, équipement en jumeaux personnels, charge d'inférence totale et charge à fournir par une infrastructure commune. Les paramètres de calcul restent dans le [modèle Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ia_pour_tous_ia_pour_chacun.md#scalabilité-territoriale--du-prototype-jhn-à-la-diffusion-nationale-26-novembre-2026), sans duplication ici. Ils ne valent ni budget complet ni engagement d'investissement. Cette actualisation ne réécrit pas les scénarios historiques du contre-rapport de juin.
 
 ## 6.5. Capacité démocratique
 
