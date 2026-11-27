@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "50453677e959d34a1e2e8bbfe929114aa0e276380328fae474a9ef5b76a0f8af",
+      "source_sha256": "2a272b23784a010690be4c041e805cea571635320f2002ebf32d1a3171a133dc",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -145,7 +145,7 @@
         },
         {
           "path": "projects/capable/doctrine/pacte-republicain-effectivite.md",
-          "sha256": "fa54c8e46ef2e19327ef3a8f6785033d09fce6ad9ccb27ca8e886202549f2615"
+          "sha256": "28712b5d5aebc7c1c0a5bf2d0acda379055f2864432afdc15f3e72ec2495b55c"
         },
         {
           "path": "research/devise_republicaine/etat_chantier_2026-11-20.md",
