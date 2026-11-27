@@ -3,7 +3,7 @@ title: "Capable — Métaprogramme politique génératif"
 author: "Institut Mariani / C.O.R.S.I.C.A. — proposition de formalisation à revue par Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-11"
-last_modified_at: "2026-11-20"
+last_modified_at: '2026-11-27'
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/metaprogramme-politique-generatif.md
 status: "working-paper"
 language: fr
@@ -215,6 +215,14 @@ Appliquer aux propositions institutionnelles quatre questions de symétrie :
 **Résultat utile :** identifier les garanties constitutionnelles et institutionnelles requises, puis comparer des instruments possibles — RIC, contrôle des mandats, délibération, recours, assistance numérique, autres mécanismes — sans sacraliser aucun moyen. Le test n'exige pas qu'un conflit d'intérêts disparaisse : il exige qu'il soit visible, instruit et arbitré légitimement.
 
 Ce test complète la distinction entre **politique du premier ordre** (mesures concrètes) et **politique du second ordre** (règles du pouvoir). L'application actuelle de Capable à l'[article 72](revision_constitutionnelle_article_72.md) est territoriale et circonscrite : elle ne vaut pas adoption d'une refonte constitutionnelle générale ni création d'un RIC. Voir la [carte doctrinale](../doctrine.md) et la [théorie de sécurité de la démocratie représentative](../../../research/security_model_representative_democracy.md).
+
+### Terrain d'étude : accélération cognitive et apprentissage institutionnel (27 novembre 2026)
+
+Le [Pacte Républicain d'Effectivité](pacte-republicain-effectivite.md), la [proposition de révision de l'article 72](revision_constitutionnelle_article_72.md) et le [modèle de scalabilité cognitive](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ia_pour_tous_ia_pour_chacun.md#scalabilité-territoriale--du-prototype-jhn-à-la-diffusion-nationale-26-novembre-2026) offrent un terrain supplémentaire pour la grammaire générative. Hypothèse : des capacités cognitives distribuées peuvent diminuer le coût de documentation des obstacles, de l'exploration des alternatives et de leur évaluation, sans transférer la décision aux agents. L'adaptation des normes reste une question distincte des progrès de l'IA.
+
+Éprouver la chaîne à partir d'un dossier communal concret : identifier la capacité empêchée et la compétence réelle, comparer les solutions possibles dans le droit existant et une éventuelle demande d'adaptation, examiner les effets attendus et les objections, puis définir le suivi et les critères de réexamen. Vérifier que la capacité d'instruction de l'autorité compétente suit la charge, et que les personnes non équipées d'IA bénéficient des mêmes garanties procédurales. Préserver les désaccords et ne pas utiliser le nombre d'agents ou de requêtes comme mesure du soutien politique.
+
+Ce complément est une application candidate du métaprogramme, non un nouveau programme électoral. Le [Nouveau Contrat Social](nouveau-contrat-social.md) conserve son horizon propre.
 
 ## 7. Test de cohérence contradictoire
 
