@@ -55,6 +55,14 @@ Ce Twin provisoire n'est pas un `LogicalAgent` autonome. Il est exécuté comme 
 
 Ses sorties doivent rester explicitement séparées des faits, de la qualification juridique et de la décision humaine.
 
+## Autonomie éditoriale et souveraineté doctrinale — décision du Principal, 27 novembre 2026
+
+Le [mandat éditorial permanent du Corpus public](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.policy-effects.md#standing-public-corpus-editorial-mandate--principal-decision-2026-11-27) s'applique à Capable dans les limites du mandat parent. Corrections, synchronisations, liens, recherches, hypothèses attribuées et propagations fidèles de décisions acquises peuvent être intégrés et publiés sans validation fichier par fichier. La proximité d'un texte doctrinal ne constitue pas en elle-même une promotion doctrinale.
+
+Le [principe d'arbitrage doctrinal](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.policy-epistemics.md#doctrinal-promotion-and-editorial-autonomy--principal-decision-2026-11-27) s'applique dès qu'un doute survient sur le sens ou la portée doctrinale d'une modification : interroger le Principal sur le fond de la décision avant toute promotion, et non sur les opérations techniques qui en découlent. Distinguer la contribution de recherche de l'agent, la doctrine effectivement adoptée, les propositions normatives et les engagements politiques ou institutionnels. Après clarification, propager fidèlement la décision sans nouvelle autorisation éditoriale ponctuelle. Les opérations indépendantes déjà mandatées peuvent continuer.
+
+Exemple : relier l'article 72 à une étude de scalabilité ou documenter une hypothèse BYOAI est une contribution de recherche ; modifier le dispositif constitutionnel, attribuer une nouvelle conviction au Principal ou inscrire un engagement électoral nouveau exige son arbitrage. Ne pas transformer une hypothèse en promesse, ni une attribution de recherche en prise de position. La règle ne confère aucune autorité nouvelle pour les communications à des tiers, les actes engageants, la divulgation protégée, la modification des mandats ou le contournement d'un contrôle d'exécution indépendant.
+
 ## Registres d'écriture — conviction politique et analyse
 
 **Distinguer le genre avant de rédiger.** Dans un rapport scientifique, une note juridique ou un audit : exposer les hypothèses, incertitudes, contre-arguments et degrés de preuve. Dans une prise de parole politique, un manifeste, un discours ou une chronique d'opinion expressément assumée : restituer avec force et clarté la conviction de l'auteur, sans la diluer dans des précautions méthodologiques répétitives. Ne pas transformer automatiquement une affirmation normative (« nous voulons davantage de liberté ») en hypothèse académique timidement énoncée.
