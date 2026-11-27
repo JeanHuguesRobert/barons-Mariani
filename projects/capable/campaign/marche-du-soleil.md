@@ -4,7 +4,7 @@ description: "Working paper définissant la Marche du Soleil comme dispositif te
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-11-20"
+last_modified_at: "2026-11-27"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -84,6 +84,18 @@ Les solutions matérielles restent libres : marqueur textile, étiquette cousue,
 **État matériel au 13 novembre 2026 (déclaratif) :** le porteur du projet possède personnellement **trois Bleus de Chine** (un ancien, un moderne bleu, un moderne noir porté comme chemise sous une veste habillée). Cela rend possibles des **observations et des essais techniques non électoraux** sur supports réversibles, sans acquisition préalable. **Aucun des trois n'est déclaré mis en circulation, remis à un tiers ou affecté à la campagne** ; aucune photographie, étiquette ni provenance n'a encore été contrôlée, et leur documentation est différée. Préserver l'ancien, ne pas utiliser le noir habillé comme support d'essai destructif, privilégier les étiquettes et chutes indépendantes puis éventuellement le moderne bleu avec accord de son propriétaire. La [fiche du prototype zéro](../../../musee-mariani/methodes/bleu_chine_marquages_libres.md#prochaine-étape-à-court-terme--prototype-zéro-indépendant-de-3code-13-novembre-2026) fixe les tests sans dépendre de la résolution 3Code.
 
 Cette existence matérielle privée ne vaut ni dépense, ni avantage en nature, ni financement, ni publicité, ni soutien politique. Avant tout usage ou transfert en contexte électoral, examiner séparément l'émetteur, les dépenses et les règles de financement applicables ; **aucune diffusion ni rencontre officielle n'est inférée**.
+
+## Réactualisation des Références Communes — patrimoine musical (27 novembre 2026)
+
+Le porteur du projet propose d'examiner, initialement dans le cadre de la Marche du Soleil, la réinterprétation de chansons existantes par de nouvelles paroles et une nouvelle réalisation musicale et vocale. Cette piste est une application culturelle du [Principe Janus](../../../musee-mariani/musee_janus_note_fondatrice.md) du Musée Mariani des Possibles : enquêter sur le patrimoine transmis et explorer les possibles qu'il contient, en distinguant l'œuvre historique de ses réactualisations contemporaines.
+
+Le rapprochement formulé par l'auteur avec la désynchronisation cognitive et les Terrains Féconds repose sur la conservation d'une référence reconnaissable et l'exploration de significations nouvelles. Il rejoint la question des [Références Communes et de la Dislocation du Réel](../doctrine/nouveau-contrat-social.md#6-références-communes-et-dislocation-du-réel), développée dans [Ubik et la dislocation du réel](../../../research/ubik_reality_dislocation_academic_fr.md). La référence partagée n'implique pas une interprétation uniforme. La réactualisation est ici une hypothèse d'application artistique de la méthode Janus, non un résultat expérimental démontré.
+
+**Premier objet d'étude :** *Confidence pour confidence* de Jean Schultheis (1981), notamment la distinction entre son procédé d'enchaînement verbal, son expression musicale et les significations qu'une réinterprétation pourrait explorer. L'étude doit conserver la provenance de l'œuvre, séparer les interprétations de son sens des faits établis et identifier les transformations effectuées.
+
+**Question juridique distincte :** l'adaptation musicale et sa diffusion envisagée sur YouTube ou TikTok appellent un examen concret des droits d'auteur et des droits voisins, notamment de l'exception de pastiche (CPI, art. L.122-5, 4° ; [CJUE, C-590/23, Pelham](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:62023CJ0590)). La brièveté d'un extrait ne constitue pas à elle seule une autorisation. Une nouvelle interprétation et l'utilisation du phonogramme original sont deux situations différentes.
+
+**État :** orientation de recherche exprimée le 27 novembre 2026 ; aucune nouvelle parole, production sonore, autorisation d'ayant droit ou diffusion effective n'est attestée par cette inscription. Les éventuelles contributions artistiques et leur documentation restent distinctes des engagements électoraux des participants.
 
 ## Boucle minimale
 
