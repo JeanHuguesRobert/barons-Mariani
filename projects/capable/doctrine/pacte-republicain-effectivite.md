@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Mouvement Capable"
 publisher: "Mouvement Capable"
 date: "2026-11-20"
-last_modified_at: "2026-11-20"
+last_modified_at: '2026-11-27'
 language: fr
 license: "CC BY-SA 4.0"
 status: working-paper
@@ -75,6 +75,14 @@ Le Pacte trouve une première traduction normative dans l'[article 72 proposé p
 **La concession structurante est explicite : renoncer à attribuer un pouvoir législatif autonome aux collectivités**, tout en recherchant des **lois nationales dont les dispositions peuvent être adaptées territorialement**. Le Parlement conserve le pouvoir de faire la loi ; le Gouvernement garde ses attributions réglementaires. Ce choix cherche notamment à répondre à l'objection de dépossession du pouvoir législatif national soulevée dans le débat corse de 2026. Il ne crée pas, par lui-même, l'accord du Sénat.
 
 La nuance juridique reste importante : le texte du 12 novembre reconnaît un *droit aux adaptations* sous conditions de justification et de proportionnalité, et non un simple droit de déposer une pétition. L'articulation exacte entre cette garantie opposable et la liberté du législateur demeure une question d'interprétation constitutionnelle à instruire, sans altérer tacitement l'article unique.
+
+## Articulation exploratoire — capacités cognitives et adaptation institutionnelle (27 novembre 2026)
+
+Le [modèle de scalabilité Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ia_pour_tous_ia_pour_chacun.md#scalabilité-territoriale--du-prototype-jhn-à-la-diffusion-nationale-26-novembre-2026) et le [protocole BYOAI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/byoai_commons_service_protocol.md) permettent de distinguer l'évolution des moyens matériels, l'accessibilité économique des services et la possibilité institutionnelle d'agir. Une baisse du coût de l'inférence ne confère pas une compétence juridique ; une nouvelle faculté juridique n'assure pas les moyens de l'exercer. Leur complémentarité est une hypothèse d'application du Pacte, non une modification de sa proposition constitutionnelle.
+
+Dans une expérimentation documentée, le Révélateur pourrait s'appuyer sur des capacités personnelles et collectives pour faire émerger des obstacles précis ; le Stabilisateur pourrait faciliter la constitution des dossiers, l'instruction contradictoire, le suivi des réponses et l'évaluation des effets. Les autorités compétentes demeurent responsables des décisions. Si les demandes augmentent, les moyens de leur instruction nationale constituent eux aussi un objet d'évaluation. Des résultats publics réutilisables peuvent faciliter l'apprentissage entre collectivités, sans transformer une solution locale en obligation générale.
+
+Voir [Corsica2038 — expérimentation gouvernée](../../../research/autonomia/corsica2038_capacite_experimentation_gouvernee.md) et le [Nouveau Contrat Social](nouveau-contrat-social.md). L'étude de Minitelia relève de l'horizon de recherche distinct déjà identifié dans ce dernier document ; le portage présidentiel de la proposition du 12 novembre n'est pas transformé en promesse de déploiement cognitif. L'accès aux services d'intérêt commun demeure indépendant de toute adhésion politique.
 
 ## Deux mouvements possibles : mandat national et apprentissage ascendant
 
