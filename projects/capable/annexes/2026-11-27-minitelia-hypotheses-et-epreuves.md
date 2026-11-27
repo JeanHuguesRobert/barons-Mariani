@@ -19,6 +19,7 @@ provenance:
   origin_date: '2026-11-27'
   derived_from:
     - projects/capable/doctrine/nouveau-contrat-social.md
+last_modified_at: '2026-11-27'
 ---
 
 # Minitelia — hypothèses économiques et épreuves du Réel
@@ -41,6 +42,10 @@ Inférence : 20 millions d'utilisateurs × 1 million de tokens/mois × 12 = 240 
 - Scénario prospectif : 30 %/an de gain matériel et 30 %/an de gain logiciel, contre 25 %/an de croissance d'usage, donnent (1,3 × 1,3 / 1,25)^12 ≈ 37,3. Ces taux sont hypothétiques et ne décrivent pas l'évolution de tous les coûts.
 
 Inclure stockage, réseaux, exploitation, renouvellement, formation, accompagnement, sûreté, résilience et garanties de sortie dans le coût complet. BYOAI ne réduit le budget mutualisé que dans la mesure où il évite réellement des dépenses.
+
+### Distinction entre travail réutilisé et ressources apportées
+
+Le [modèle paramétrique Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ia_pour_tous_ia_pour_chacun.md#scalabilité-territoriale--du-prototype-jhn-à-la-diffusion-nationale-26-novembre-2026) explicite deux leviers indépendants : la fraction du travail réellement évitée par réutilisation (net des coûts de vérification et d'adaptation), et la fraction B de l'inférence résiduelle assurée par des ressources externes au pool commun (BYOAI). Les deux hypothèses illustratives de 90 % ne constituent ni la même grandeur ni deux économies automatiquement acquises. B ne mesure pas l'énergie économisée à l'échelle mondiale. Les effets sur les charges doivent être calculés dans cet ordre et vérifiés sur des tâches comparables. Les populations de référence (68 millions arrondis dans le modèle CPDT, 69,1 millions dans cette annexe) sont des hypothèses de dimensionnement distinctes, non des estimations démographiques à réconcilier tacitement. Utiliser un dénominateur commun lors des comparaisons budgétaires.
 
 ## 3. Épreuves proposées
 
