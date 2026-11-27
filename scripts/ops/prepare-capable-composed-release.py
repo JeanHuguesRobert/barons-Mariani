@@ -180,10 +180,9 @@ def main():
     base = current.resolve(strict=True)
     if not current.is_symlink() or base.parent != current.parent / "releases":
         raise ValueError("Unexpected Capable current layout")
-    with tempfile.TemporaryDirectory(prefix="capable-ci-transfer-") as tmp:
-        subprocess.run(["gh", "run", "download", str(args.run), "--repo", transfer.REPO,
-            "--name", f"living-books-resource-build-{args.run}-{run['run_attempt']}", "--dir", tmp], check=True)
-        r = from_ci(repo, revision, Path(tmp), run, base, args.out, args.previous_receipt)
+    with transfer.receive_ci_artifact(run) as (artifact, transport):
+        r = from_ci(repo, revision, artifact, run, base, args.out, args.previous_receipt)
+        r["delivery"]["transport"] = transport
     if current.resolve() != base:
         raise ValueError("Current changed during composition")
     print(json.dumps(r, ensure_ascii=False, indent=2))

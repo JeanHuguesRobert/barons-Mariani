@@ -5,12 +5,17 @@ No root, no activation, no new renderer. Uses the existing release assembler.
 The caller supplies the receipt of each already deployed resource release.
 """
 import argparse
+from contextlib import contextmanager
+import hashlib
 import importlib.util
 import json
 from pathlib import Path
 import re
 import subprocess
+import shutil
+import stat
 import tempfile
+import zipfile
 
 spec = importlib.util.spec_from_file_location("release", Path(__file__).with_name(
     "prepare-living-book-resource-release.py"))
@@ -160,6 +165,98 @@ def prove_equivalent_inputs(repo, built, revision, projections):
     return "EQUIVALENT_DEPENDENCIES"
 
 
+def validate_artifact_metadata(meta, run):
+    name = f"living-books-resource-build-{run['id']}-{run['run_attempt']}"
+    linked = meta.get("workflow_run") or {}
+    if (meta.get("name") != name
+            or type(meta.get("id")) is not int or meta["id"] <= 0
+            or meta.get("expired") is not False
+            or type(meta.get("size_in_bytes")) is not int or meta["size_in_bytes"] <= 0
+            or not re.fullmatch(r"sha256:[0-9a-f]{64}", meta.get("digest") or "")
+            or linked.get("id") != run["id"]
+            or linked.get("head_branch") != "main"
+            or linked.get("head_sha") != run["head_sha"]
+            or linked.get("repository_id") != run["repository"]["id"]
+            or linked.get("head_repository_id") != run["head_repository"]["id"]):
+        raise ValueError("Artifact identity, provenance or digest mismatch")
+    return meta
+
+
+def unpack_verified_archive(archive, meta, destination):
+    """Verify the actual transport bytes, then extract only regular expected paths."""
+    with archive.open("rb") as f:
+        actual = "sha256:" + hashlib.file_digest(f, "sha256").hexdigest()
+    if actual != meta["digest"] or archive.stat().st_size != meta["size_in_bytes"]:
+        raise ValueError("Transport archive digest or size mismatch")
+    allowed = {f"{book}/receipt.json" for book in SITES} | {"build-receipt.json"}
+    with zipfile.ZipFile(archive) as z:
+        entries = z.infolist()
+        names = set()
+        for item in entries:
+            name = item.filename
+            valid = name in allowed or any(re.fullmatch(
+                re.escape(book) + r"/site/ressources/[a-z0-9][a-z0-9-]*\.html", name)
+                for book in SITES)
+            mode = stat.S_IFMT(item.external_attr >> 16)
+            if (not valid or name != item.orig_filename or name in names or item.is_dir()
+                    or mode not in (0, stat.S_IFREG) or item.flag_bits & 1):
+                raise ValueError("Unexpected, duplicate or nonregular archive member: " + name)
+            names.add(name)
+        if not allowed <= names:
+            raise ValueError("Incomplete transport archive")
+        destination.mkdir()
+        for item in entries:
+            target = destination / item.filename
+            target.parent.mkdir(parents=True, exist_ok=True)
+            with z.open(item) as src, target.open("xb") as dst:
+                shutil.copyfileobj(src, dst)
+            if target.stat().st_size != item.file_size:
+                raise ValueError("Extracted member size mismatch")
+    return {"archive_sha256": actual, "archive_bytes": archive.stat().st_size,
+            "member_count": len(names)}
+
+
+@contextmanager
+def receive_ci_artifact(run):
+    """Retrieve by reference, using the existing authenticated GitHub client.
+
+    This is a transport receipt, not a COP grant or a publication receipt.
+    The caller separately checks run admission and effective dependencies.
+    """
+    endpoint = f"repos/{REPO}/actions/runs/{run['id']}/artifacts?per_page=100"
+    rows = subprocess.check_output(["gh", "api", "--paginate", endpoint,
+                                    "--jq", ".artifacts[] | @json"]).splitlines()
+    name = f"living-books-resource-build-{run['id']}-{run['run_attempt']}"
+    matches = [m for m in map(json.loads, rows) if m.get("name") == name]
+    if len(matches) != 1:
+        raise ValueError("Expected exactly one artifact for the run attempt")
+    listed = validate_artifact_metadata(matches[0], run)
+    ref = f"repos/{REPO}/actions/artifacts/{listed['id']}"
+    meta = validate_artifact_metadata(
+        json.loads(subprocess.check_output(["gh", "api", ref])), run)
+    keys = ("id", "name", "digest", "size_in_bytes", "workflow_run")
+    if any(listed[k] != meta[k] for k in keys):
+        raise ValueError("Artifact metadata changed during retrieval")
+    with tempfile.TemporaryDirectory(prefix="living-book-ci-transfer-") as tmp:
+        root = Path(tmp)
+        archive = root / "artifact.zip"
+        with archive.open("xb") as f:
+            subprocess.run(["gh", "api", ref + "/zip"], stdout=f, check=True)
+        destination = root / "content"
+        evidence = unpack_verified_archive(archive, meta, destination)
+        yield destination, {
+            "schema": "living-book.github-artifact-reception/v1",
+            "provider": "github-actions",
+            "artifact_ref": f"https://api.github.com/{ref}",
+            "artifact_id": meta["id"], "artifact_name": name,
+            "repository": REPO, "repository_id": run["repository"]["id"],
+            "workflow": WORKFLOW, "workflow_id": run.get("workflow_id"),
+            "run_id": run["id"], "run_attempt": run["run_attempt"],
+            "build_revision": run["head_sha"], "visibility": "public",
+            **evidence, "outcome": "TRANSPORT_VERIFIED", "grants_authority": False,
+        }
+
+
 def verify_transfer(repo, revision, artifact, run):
     built = verify_run(run, repo, revision)
     receipt = json.loads((artifact / "build-receipt.json").read_bytes())
@@ -273,12 +370,10 @@ def main():
     verify_run(run, repo, revision)
     if run["id"] != args.run:
         raise ValueError("Unexpected run ID")
-    name = f"living-books-resource-build-{args.run}-{run['run_attempt']}"
-    with tempfile.TemporaryDirectory(prefix="living-book-ci-transfer-") as tmp:
-        subprocess.run(["gh", "run", "download", str(args.run), "--repo", REPO,
-                        "--name", name, "--dir", tmp], check=True)
-        result = consume(repo, revision, Path(tmp), args.out,
+    with receive_ci_artifact(run) as (artifact, transport):
+        result = consume(repo, revision, artifact, args.out,
                          args.previous_receipts.resolve(strict=True), run)
+        result["delivery"]["transport"] = transport
     result["ci_run_id"] = args.run
     result["ci_run_attempt"] = run["run_attempt"]
     print(json.dumps(result, ensure_ascii=False, indent=2))
