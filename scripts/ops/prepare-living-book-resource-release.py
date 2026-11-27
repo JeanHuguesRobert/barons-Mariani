@@ -178,25 +178,10 @@ def project_working_links(data, route_map, previous_map):
     return re.sub(r'(<a\b[^>]*?\bhref=")([^"]*)"', replace, data.decode(), flags=re.I).encode()
 
 
-def prepare(repo, revision, book, host, base, build, out, previous=None,
-            working_link_pages=(), *, home_page="index.html",
-            entry_route="/", navigation_container="nav"):
-    if not re.fullmatch(r"(?:[a-z0-9-]+/)*[a-z0-9-]+\.html", home_page):
-        raise ValueError("Invalid homepage path")
-    if entry_route not in ("/", "/" + home_page):
-        raise ValueError("Invalid public entry route")
-    if not BOOK.fullmatch(book) or not HOST.fullmatch(host):
-        raise ValueError("Invalid book or canonical host")
-    if not re.fullmatch(r"[0-9a-f]{40}", revision) or git(
-            repo, "rev-parse", "origin/main").decode().strip() != revision:
-        raise ValueError("Expected current immutable origin/main revision")
-    base = base.resolve(strict=True)
-    build = build.resolve(strict=True)
-    out = out.resolve(strict=True)
-    # Output is a local build directory, not a deployment destination.
-    if any(out == p or p in out.parents for p in (base, build, repo.resolve(), Path("/srv/www"))):
-        raise ValueError("Release output must be outside source/build/public trees")
-    receipt, receipt_sha, resource_files = verify_resource_build(repo, revision, book, build)
+def resource_overlay_plan(base, book, host, receipt, resource_files, previous=None,
+                          working_link_pages=(), *, home_page="index.html",
+                          entry_route="/", navigation_container="nav"):
+    """Plan a resource layer over an already selected working site, without writes."""
     inherited = inventory(base)
     if home_page not in inherited:
         raise ValueError("Existing site lacks homepage")
@@ -231,6 +216,43 @@ def prepare(repo, revision, book, host, base, build, out, previous=None,
         changes[name] = project_working_links(changes.get(name, (base / name).read_bytes()), route_map, previous_map)
     for name, content in changes.items():
         expected[name] = {"sha256": digest(content), "size": len(content)}
+    return inherited, old_resources, expected, changes, route_map
+
+
+def apply_resource_overlay(site, build, old_resources, expected, changes):
+    """Apply a verified plan only to a caller-owned staging tree."""
+    if old_resources:
+        shutil.rmtree(site / "ressources")
+    shutil.copytree(build / "site" / "ressources", site / "ressources")
+    for name, content in changes.items():
+        (site / name).write_bytes(content)
+    if inventory(site) != expected:
+        raise ValueError("Assembled release differs from complete byte manifest")
+
+
+def prepare(repo, revision, book, host, base, build, out, previous=None,
+            working_link_pages=(), *, home_page="index.html",
+            entry_route="/", navigation_container="nav"):
+    if not re.fullmatch(r"(?:[a-z0-9-]+/)*[a-z0-9-]+\.html", home_page):
+        raise ValueError("Invalid homepage path")
+    if entry_route not in ("/", "/" + home_page):
+        raise ValueError("Invalid public entry route")
+    if not BOOK.fullmatch(book) or not HOST.fullmatch(host):
+        raise ValueError("Invalid book or canonical host")
+    if not re.fullmatch(r"[0-9a-f]{40}", revision) or git(
+            repo, "rev-parse", "origin/main").decode().strip() != revision:
+        raise ValueError("Expected current immutable origin/main revision")
+    base = base.resolve(strict=True)
+    build = build.resolve(strict=True)
+    out = out.resolve(strict=True)
+    # Output is a local build directory, not a deployment destination.
+    if any(out == p or p in out.parents for p in (base, build, repo.resolve(), Path("/srv/www"))):
+        raise ValueError("Release output must be outside source/build/public trees")
+    receipt, receipt_sha, resource_files = verify_resource_build(repo, revision, book, build)
+    inherited, old_resources, expected, changes, route_map = resource_overlay_plan(
+        base, book, host, receipt, resource_files, previous, working_link_pages,
+        home_page=home_page, entry_route=entry_route,
+        navigation_container=navigation_container)
     tree_sha = digest(canonical(expected))
     dest = out / f"{book}-resources-{tree_sha}"
     result = {
@@ -271,13 +293,7 @@ def prepare(repo, revision, book, host, base, build, out, previous=None,
         shutil.copytree(base, site, symlinks=True)
         if inventory(site) != inherited or inventory(base) != inherited:
             raise ValueError("Base changed during release assembly")
-        if old_resources:
-            shutil.rmtree(site / "ressources")
-        shutil.copytree(build / "site" / "ressources", site / "ressources")
-        for name, content in changes.items():
-            (site / name).write_bytes(content)
-        if inventory(site) != expected:
-            raise ValueError("Assembled release differs from complete byte manifest")
+        apply_resource_overlay(site, build, old_resources, expected, changes)
         (staging / "receipt.json").write_bytes(canonical(result))
         staging.rename(dest)
     finally:
