@@ -35,6 +35,7 @@ provenance:
   origin_ref: unknown
   origin_date: unknown
   derived_from: []
+last_modified_at: '2026-11-27'
 ---
 
 
@@ -136,6 +137,16 @@ L'autonomie ne reste donc pas suspendue à une promesse juridique ; elle se prou
 Le 26 septembre 2026, le Corpus a publié l’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_article_72-5.md), version `0.4-rc4`. Cette proposition fournit au présent scénario une projection légistique minimale : la Constitution candidate n’énumère pas les expérimentations à mener, mais demande que la loi organique traite les **conditions permettant la mise en œuvre effective** des facultés et organise leur **évaluation périodique**.
 
 Corsica2038 reste donc un terrain de capacités concrètes ; l’amendement constitue un mécanisme possible pour que le cadre institutionnel rende observables l’accès aux facultés, leur exercice ou leur non-usage et leurs effets, notamment au regard de **Liberté, Égalité, Fraternité**.
+
+## 5 ter. Scalabilité cognitive et droit commun territorial — complément de recherche du 27 novembre 2026
+
+La [proposition de révision de l'article 72 du 12 novembre 2026](../../projects/capable/doctrine/revision_constitutionnelle_article_72.md) étend la réflexion institutionnelle au droit commun des collectivités territoriales : subsidiarité effective et droit aux adaptations justifiées, sous garanties constitutionnelles et solidarité nationale. Elle ne crée pas de législateur régional concurrent. Ce rapprochement ne modifie ni cette proposition ni l'amendement corse antérieur relatif à l'article 72-5.
+
+Le [modèle de scalabilité de Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ia_pour_tous_ia_pour_chacun.md#scalabilité-territoriale--du-prototype-jhn-à-la-diffusion-nationale-26-novembre-2026) permet d'explorer les paliers John, proches, communautés, Corte, Bastia, Haute-Corse, Corse et autres territoires. Il dissocie les gains matériels, algorithmiques, opérationnels, la réutilisation de travaux communs et la croissance des usages. [BYOAI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/byoai_commons_service_protocol.md) peut faciliter l'adoption de services avec les ressources déjà accessibles aux personnes, sans imposer le même rythme de croissance à l'infrastructure locale. L'accès sans IA propre et le soutien aux personnes moins équipées restent distincts de la mutualisation volontaire de ressources.
+
+Dans le scénario central illustratif, 400 000 jumeaux actifs en 2038 correspondent à 19,9 kW d'inférence moyenne de référence, dont 1,99 kW imputables à un pool commun si 90 % de la charge comparable sont apportés autrement. Ce calcul ne dimensionne ni la production électrique installée, ni les pics, ni les réserves, ni les navigateurs, les mémoires et les autres charges. Le modèle et l'[annexe Minitelia](../../projects/capable/annexes/2026-11-27-minitelia-hypotheses-et-epreuves.md) fournissent des hypothèses de travail complémentaires, non des engagements de financement.
+
+Application exploratoire au pilote « Commune capable » : mesurer la capacité d'une collectivité à documenter un obstacle, distinguer une insuffisance matérielle d'un empêchement normatif, examiner les alternatives, suivre la réponse de l'autorité compétente et évaluer les effets. Les résultats réutilisables peuvent bénéficier à d'autres collectivités sans les obliger à adopter la même solution. Mesurer aussi les moyens d'instruction et de contrôle à l'échelle nationale. Le [Pacte Républicain d'Effectivité](../../projects/capable/doctrine/pacte-republicain-effectivite.md) fournit le cadre de rapprochement. Corsica2038 peut servir de terrain d'épreuve de ces hypothèses sans attendre une révision constitutionnelle, pour les actes déjà permis par le droit commun.
 
 ## 6. Déclinaisons immédiates
 
