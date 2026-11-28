@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-09-05T00:00:00.000Z
-last_modified_at: '2026-11-10'
+last_modified_at: '2026-11-28'
 title: What is Potentics?
 date: '2026-05-09'
 status: draft — auto-filled (frontmatter cleanup)
@@ -22,6 +22,7 @@ related_documents:
   - cogentia/research/learning_computer_genese_et_architecture.md
   - research/principe_rossignol.md
 changelog:
+  - '2026-11-28 — attributed exploratory crosswalk between value, actualization, capability and epistemic discovery; operational net value distinguished from a universal scalar.'
   - '2026-11-10 — reconciled the historical presencology-capability-recombination branch as an explicitly unconfirmed co-presence mechanism and Olé Olé application candidate; no empirical validation claimed.'
   - '2026-10-04 — pointed the word latent, in §1.1, at the distinction proposed in le_reel_le_virtuel_et_l_actuel.md: already structured and present, not yet exercised. No Potentics claim was changed. The clarification itself is not yet a stabilized publication.'
   - '2026-09-27 — added the Necessary Means Principle as the reciprocal of early impossibility detection: when a valuable possible lacks a required capability, explore admissible means-to-the-means under Measured Risk rather than confusing absence with impossibility.'
@@ -365,6 +366,14 @@ A potentiality Π is provisionally structured along several dimensions:
 - **Compute Potentiality** (χ): the computational capability, algorithmic topology, and execution fabric available to simulate, evaluate, or orchestrate the transformation. As formalised in the *Potentics of Compute* ([`potentics_of_compute.md`](potentics_of_compute.md)), compute is not merely passive energy or fixed tooling; it is the active exploratory medium through which other potentialities are discovered, measured, and synthesized.
 
 These dimensions are not independent. High propensity may reduce required effort. High reversibility may increase the value of attempting actualization despite low propensity. The relationships between dimensions are themselves objects of Potentic inquiry.
+
+### 3.1.1 Value, value chains and capability (exploratory crosswalk, 28 November 2026)
+
+A working definition proposed by the conversational agent in a discussion with the Principal: value is a contribution, actual or potential, to the actualization of a desired possible or to the capacity to actualize it. The contribution is relational: identify the beneficiary, purpose, context and horizon. A value chain may transform, preserve or transmit an output that becomes an input to later activity. Distinguish realized benefit, capability opened or preserved, and the epistemic value of learning; also distinguish value created from price, cost, remuneration and value captured. These are research propositions, not a new adopted economic doctrine or a claim that every desired possible is legitimate.
+
+The Principal adopted a narrower operational principle for agent collaboration: optimize sustainable net value in accordance with the Principal's purposes, including consumed resources, attention, residual obligations and effective capabilities, without treating voluntary oversight or intellectual exploration as friction. See [the operational decision](https://github.com/JeanHuguesRobert/cogentia/commit/ca5f542caa30c526bc8ac31f536112d1aadc45b0), [Calculette of the Mind §3.1](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/calculette_of_the_mind.md#31-offload-the-deterministic-first), and [Kudos §8.8](kudos.md#88-hypothèse-nouvelle--autonomie-patrimoniale-fonctionnelle-des-agents-ia). The Principal also explicitly emphasizes the joy of discovering knowledge; see [Joie, jeu et accroissement de capacité](joie_jeu_capacite.md). Knowledge may have value independently of its immediate use.
+
+Keep heterogeneous dimensions distinct in operational accounting; do not infer a common price or score merely from this vocabulary. The scalar unification below remains an open research ambition, not a prerequisite for acting or an accomplished result. A local case may show an improvement without establishing universal commensurability.
 
 ### 3.2 The Ambition of Unification
 

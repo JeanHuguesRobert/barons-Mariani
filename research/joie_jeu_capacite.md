@@ -4,7 +4,8 @@ subtitle: Pourquoi l'exploration joyeuse du Possible peut être comprise comme u
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-08-10'
-version: '0.1'
+version: '0.2'
+last_modified_at: '2026-11-28'
 status: working-note — source
 language: fr
 license: CC BY-SA 4.0
@@ -106,6 +107,18 @@ Joy_A \sim \frac{dP_A}{dt} > 0
 \]
 
 sans supposer qu'une grandeur psychologique réelle puisse être réduite mécaniquement à cette formule.
+
+---
+
+### 1.1 La joie de découvrir la connaissance (28 novembre 2026)
+
+Clarification de Jean Hugues Noël Robert, au cours d'une conversation sur la valeur et la collaboration avec ses agents : « c'est ça le possibilisme : la joie dans la découverte de la connaissance » (orthographe normalisée).
+
+La découverte n'a pas besoin d'aboutir immédiatement à une application, une économie de temps ou un résultat marchand pour avoir une valeur. Elle peut être une expérience de joie par elle-même. Découvrir ce que l'on ignorait ouvre un espace épistémique ; réaliser un possible transforme l'espace opérationnel. Ces deux formes d'ouverture peuvent se nourrir sans être identiques.
+
+**Conséquence proposée pour la collaboration humain-agent :** réduire la charge procédurale évitable afin de rendre davantage de place à la pensée, au jeu, à la surprise et à la co-recherche, non pour dispenser l'humain de penser. La surveillance volontaire, la curiosité et le plaisir de suivre une découverte ne doivent pas être assimilés à du gaspillage attentionnel. Le progrès par étapes modestes, confrontées au Réel, a une valeur propre : ne pas sacrifier la joie de progresser à l'impatience d'aboutir (formulation de l'agent approuvée dans son esprit par le Principal).
+
+Voir [Applied Possibilism](applied_possibilism.md#5-the-joy-part-against-grim-optimization) et [la décision opérationnelle sur la valeur nette et l'autonomie observable](https://github.com/JeanHuguesRobert/cogentia/commit/ca5f542caa30c526bc8ac31f536112d1aadc45b0). Il ne s'agit ni d'une mesure universelle de la joie ni d'une affirmation d'expérience subjective chez les agents.
 
 ---
 

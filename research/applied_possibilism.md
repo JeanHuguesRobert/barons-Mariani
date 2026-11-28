@@ -7,6 +7,7 @@ last_stamped_at: 2026-07-09T00:00:00.000Z
 title: 'Applied Possibilism: The Joyful Exploration of the Possible'
 subtitle: Daily practice, digital twins, and stigmergic coordination
 date: '2026-07-09'
+last_modified_at: '2026-11-28'
 status: working-paper — practice note
 document_role: source
 document_kind: practice-note
@@ -245,6 +246,14 @@ Applied Possibilism treats play as serious method:
 - **Learning requires time** — Not all knowledge immediately applicable
 
 The joy is not optional — it is methodologically necessary. Exploration without joy becomes grim optimization, which forecloses the very adjacent possible it seeks to explore.
+
+---
+
+### 5.4 Discovery as value, not merely a means (28 November 2026)
+
+The Principal clarified that Possibilism is the joy of discovering knowledge. See the source discussion in [Joie, jeu et accroissement de capacité, §1.1](joie_jeu_capacite.md#11-la-joie-de-découvrir-la-connaissance-28-novembre-2026). In human–agent collaboration, net cognitive relief should make room for discovery, not replace the human's chosen exploration or voluntary oversight.
+
+A modest example: the [shared operational net-value principle](https://github.com/JeanHuguesRobert/cogentia/commit/ca5f542caa30c526bc8ac31f536112d1aadc45b0) led to a [reproduced and corrected continuation boundary defect](https://github.com/JeanHuguesRobert/cogentia/issues/285#issuecomment-7232917857), with 56 targeted tests passing on Fracta2. This is evidence of a source-level improvement, not yet evidence of deployment or measured human attention saved. Progress in small, tested steps is preferable to claiming that a universal solution has been achieved.
 
 ---
 
