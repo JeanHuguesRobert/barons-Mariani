@@ -6,7 +6,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 date: '2026-08-10'
 version: '0.2'
 last_modified_at: '2026-11-28'
-status: working-note — source
+status: working-paper — research note
 language: fr
 license: CC BY-SA 4.0
 document_role: source
